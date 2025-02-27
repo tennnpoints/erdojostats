@@ -14,6 +14,11 @@
     <table id="csvTable" class="display" style="width:100%"></table>
     
     <script>
+        function getQueryParam(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+        
         function loadCSVFromURL(url) {
             fetch(url)
                 .then(response => response.text())
@@ -30,6 +35,7 @@
                             
                             $('#csvTable').DataTable({
                                 destroy: true,
+                                paging: false, // ページングを無効化
                                 data: rows,
                                 columns: columns
                             });
@@ -40,7 +46,8 @@
         }
 
         $(document).ready(function () {
-            loadCSVFromURL('GameData.csv'); // 自動でGameData.csvを読み込む
+            const fileName = 'files\/' + getQueryParam('type') + getQueryParam('file') ; // URLパラメータでファイル指定
+            loadCSVFromURL(fileName);
 
             $('#csvFile').on('change', function (event) {
                 let file = event.target.files[0];
@@ -58,6 +65,7 @@
                         
                         $('#csvTable').DataTable({
                             destroy: true,
+                            paging: false, // ページングを無効化
                             data: rows,
                             columns: columns
                         });
