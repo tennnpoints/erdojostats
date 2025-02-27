@@ -46,7 +46,7 @@
         }
 
         $(document).ready(function () {
-            const fileName = 'files\/' + getQueryParam('type') + getQueryParam('file') ; // URLパラメータでファイル指定
+            const fileName = 'T' + getQueryParam('file') ; // URLパラメータでファイル指定
             loadCSVFromURL(fileName);
 
             $('#csvFile').on('change', function (event) {
