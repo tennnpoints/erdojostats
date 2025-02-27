@@ -49,7 +49,7 @@ for i in players:
     avgrank = round(( ii['rank'].sum() ) / played,2)
     weaponmastery = round( ( ii['best weapon mastery level'].sum() ) / played, 2)
     avghunt = round( (ii['hunting'].sum()) / played, 2)
-    add = pd.DataFrame({'Player name':i,'Character Pick':'\r\n'.join(picklist),'Played Rounds':played,'Win Percent':winper,'Total Kills':fieldkills,'Avg. Kills':avgkill,'Avg. Rank':avgrank,'Avg Hunting':avghunt,'Avg Weapon Mastery':weaponmastery,},index=[0])
+    add = pd.DataFrame({'Player name':i,'Character Pick':' / '.join(picklist),'Played Rounds':played,'Win Percent':winper,'Total Kills':fieldkills,'Avg. Kills':avgkill,'Avg. Rank':avgrank,'Avg Hunting':avghunt,'Avg Weapon Mastery':weaponmastery,},index=[0])
     player_statistics = pd.concat([player_statistics,add])
 
 #チーム統計(チームサイズ2以上のみ)
