@@ -50,9 +50,13 @@
         }
 
         $(document).ready(function () {
-            const fileName = getQueryParam('file') || 'GameData'; // URLパラメータでファイル指定
-            const filePath = `files/${fileName}.csv`; // filesディレクトリ内のファイルを参照
-            loadCSVFromURL(filePath);
+            const fileName = getQueryParam('file'); // URLパラメータでファイル指定
+            if (fileName) {
+                const filePath = `files/${fileName}.csv`; // filesディレクトリ内のファイルを参照
+                loadCSVFromURL(filePath);
+            } else {
+                console.log('fileパラメータが指定されていません。処理をスキップします。');
+            }
         });
     </script>
 </body>
