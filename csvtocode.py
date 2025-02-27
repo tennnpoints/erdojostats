@@ -74,8 +74,8 @@ for i in teams:
     team_statistics = pd.concat([team_statistics,add])
 # csvの保存
 
-player_statistics.to_csv('player_statistics '+date+'.csv')
-team_statistics.to_csv('team_statistics '+date+'.csv')
+player_statistics.to_csv('player_statistics '+date+'.csv',index = False)
+team_statistics.to_csv('team_statistics '+date+'.csv',index = False)
     
 a = input('Enter something to exit:')
 sys.exit()
