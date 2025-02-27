@@ -22,15 +22,20 @@
             fetch(url)
                 .then(response => response.text())
                 .then(csvText => {
+                    // BOMを削除
+                    csvText = csvText.replace(/^\uFEFF/, '');
+                    
                     Papa.parse(csvText, {
                         skipEmptyLines: true,
+                        header: true, // ヘッダーを自動判定
+                        quoteChar: '"', // カンマ区切りの値を正しく解釈
                         complete: function (results) {
                             let data = results.data;
                             if (data.length === 0) return;
                             
-                            let columns = data[0].map(header => ({ title: header }));
-                            let columnCount = columns.length;
-                            let rows = data.slice(1).filter(row => row.length === columnCount);
+                            let columns = Object.keys(data[0]).map(header => ({ title: header.trim() }));
+                            
+                            let rows = data.map(row => Object.values(row));
                             
                             $('#csvTable').DataTable({
                                 destroy: true,
