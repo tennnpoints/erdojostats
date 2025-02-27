@@ -10,7 +10,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 </head>
 <body>
-    <input type="file" id="csvFile" accept=".csv">
     <table id="csvTable" class="display" style="width:100%"></table>
     
     <script>
@@ -46,32 +45,9 @@
         }
 
         $(document).ready(function () {
-            const fileName = getQueryParam('file') || 'GameData.csv'; // URLパラメータでファイル指定
-            loadCSVFromURL(fileName);
-
-            $('#csvFile').on('change', function (event) {
-                let file = event.target.files[0];
-                if (!file) return;
-
-                Papa.parse(file, {
-                    skipEmptyLines: true,
-                    complete: function (results) {
-                        let data = results.data;
-                        if (data.length === 0) return;
-                        
-                        let columns = data[0].map(header => ({ title: header }));
-                        let columnCount = columns.length;
-                        let rows = data.slice(1).filter(row => row.length === columnCount);
-                        
-                        $('#csvTable').DataTable({
-                            destroy: true,
-                            paging: false, // ページングを無効化
-                            data: rows,
-                            columns: columns
-                        });
-                    }
-                });
-            });
+            const fileName = getQueryParam('file') || 'GameData'; // URLパラメータでファイル指定
+            const filePath = `files/${fileName}.csv`; // filesディレクトリ内のファイルを参照
+            loadCSVFromURL(filePath);
         });
     </script>
 </body>
