@@ -14,11 +14,6 @@
     <table id="csvTable" class="display" style="width:100%"></table>
     
     <script>
-        function getQueryParam(name) {
-            const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(name);
-        }
-        
         function loadCSVFromURL(url) {
             fetch(url)
                 .then(response => response.text())
@@ -46,8 +41,7 @@
         }
 
         $(document).ready(function () {
-            const fileName = 'T' + getQueryParam('file') ; // URLパラメータでファイル指定
-            loadCSVFromURL(fileName);
+            loadCSVFromURL('GameData.csv'); // 自動でGameData.csvを読み込む
 
             $('#csvFile').on('change', function (event) {
                 let file = event.target.files[0];
