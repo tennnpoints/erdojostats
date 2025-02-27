@@ -1,9 +1,9 @@
-name,played,winper,kill,avgkill,avgrank,Team name,Played Rounds,Win Percent,Total Kills,Avg Kills,Avg Rank,Total points,Avg Points
-,,,,,,パクサンジュン.jpg,4.0,75.0,65.0,16.25,2.25,90.0,22.5
-,,,,,,Toddler Gangster,4.0,25.0,43.0,10.75,2.0,65.0,16.25
-,,,,,,Out of Control,4.0,0.0,29.0,7.25,3.5,43.0,10.75
-,,,,,,チクチク梅,4.0,0.0,23.0,5.75,5.25,30.0,7.5
-,,,,,,稲妻十字,4.0,0.0,17.0,4.25,5.75,23.0,5.75
-,,,,,,舞野組,4.0,0.0,23.0,5.75,5.25,30.0,7.5
-,,,,,,SCB,4.0,0.0,27.0,6.75,4.25,38.0,9.5
-,,,,,,Void Stars,4.0,0.0,3.0,0.75,7.75,3.0,0.75
+Team name,Played Rounds,Win Percent,Total Kills,Avg Kills,Avg Rank,Total points,Avg Points
+パクサンジュン.jpg,4,75.0,65,16.25,2.25,90,22.5
+Toddler Gangster,4,25.0,43,10.75,2.0,65,16.25
+Out of Control,4,0.0,29,7.25,3.5,43,10.75
+チクチク梅,4,0.0,23,5.75,5.25,30,7.5
+稲妻十字,4,0.0,17,4.25,5.75,23,5.75
+舞野組,4,0.0,23,5.75,5.25,30,7.5
+SCB,4,0.0,27,6.75,4.25,38,9.5
+Void Stars,4,0.0,3,0.75,7.75,3,0.75

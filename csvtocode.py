@@ -33,7 +33,7 @@ result['character jp'] = result['character'].replace(nu.characters)
 print(result['t'])
 
 #プレイヤー統計
-player_statistics = pd.DataFrame(index=[],columns=nu.def_playerstatistics)
+player_statistics = pd.DataFrame(index=[])
 players = result['nickname'].unique()
 for i in players:
     ii = result[result['nickname'] == i]
@@ -53,7 +53,7 @@ for i in players:
     player_statistics = pd.concat([player_statistics,add])
 
 #チーム統計(チームサイズ2以上のみ)
-team_statistics = pd.DataFrame(index=[],columns=nu.def_teamstatistics)
+team_statistics = pd.DataFrame(index=[])
 teams = result['teamName'].unique()
 for i in teams:
     ii = result[result['teamName'] == i]
