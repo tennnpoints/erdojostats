@@ -1,1 +1,70 @@
-<h1>ERDojo Stats</h1>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Viewer with DataTables</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+    <input type="file" id="csvFile" accept=".csv">
+    <table id="csvTable" class="display" style="width:100%"></table>
+    
+    <script>
+        function loadCSVFromURL(url) {
+            fetch(url)
+                .then(response => response.text())
+                .then(csvText => {
+                    Papa.parse(csvText, {
+                        skipEmptyLines: true,
+                        complete: function (results) {
+                            let data = results.data;
+                            if (data.length === 0) return;
+                            
+                            let columns = data[0].map(header => ({ title: header }));
+                            let columnCount = columns.length;
+                            let rows = data.slice(1).filter(row => row.length === columnCount);
+                            
+                            $('#csvTable').DataTable({
+                                destroy: true,
+                                data: rows,
+                                columns: columns
+                            });
+                        }
+                    });
+                })
+                .catch(error => console.error('Error loading CSV:', error));
+        }
+
+        $(document).ready(function () {
+            loadCSVFromURL('GameData.csv'); // 自動でGameData.csvを読み込む
+
+            $('#csvFile').on('change', function (event) {
+                let file = event.target.files[0];
+                if (!file) return;
+
+                Papa.parse(file, {
+                    skipEmptyLines: true,
+                    complete: function (results) {
+                        let data = results.data;
+                        if (data.length === 0) return;
+                        
+                        let columns = data[0].map(header => ({ title: header }));
+                        let columnCount = columns.length;
+                        let rows = data.slice(1).filter(row => row.length === columnCount);
+                        
+                        $('#csvTable').DataTable({
+                            destroy: true,
+                            data: rows,
+                            columns: columns
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
