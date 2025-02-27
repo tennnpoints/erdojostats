@@ -49,9 +49,10 @@ for i in players:
     avgrank = round(( ii['rank'].sum() ) / played,2)
     weaponmastery = round( ( ii['best weapon mastery level'].sum() ) / played, 2)
     avghunt = round( (ii['hunting'].sum()) / played, 2)
-    add = pd.DataFrame({'name':i,'character':[picklist],'played':played,'winper':winper,'kill':fieldkills,'avgkill':avgkill,'avgrank':avgrank,'avg hunt':avghunt,'avg weapon mastery':weaponmastery,},index=[0])
+    add = pd.DataFrame({'Player name':i,'Character Pick':[picklist],'Played Rounds':played,'Win Percent':winper,'Total Kills':fieldkills,'Avg. Kills':avgkill,'Avg. Rank':avgrank,'Avg Hunting':avghunt,'Avg Weapon Mastery':weaponmastery,},index=[0])
     player_statistics = pd.concat([player_statistics,add])
-    #チーム統計(チームサイズ2以上のみ)
+
+#チーム統計(チームサイズ2以上のみ)
 team_statistics = pd.DataFrame(index=[],columns=nu.def_teamstatistics)
 teams = result['teamName'].unique()
 for i in teams:
@@ -70,8 +71,9 @@ for i in teams:
     avgrank = round(( ii['rank'].sum() / teamsize ) / played,2)
     totalpts = int(int(ii['t'].sum()) / teamsize)  + kills
     avgpts = round( totalpts/ played,2)
-    add = pd.DataFrame({'name':i,'played':played,'winper':winper,'kill':kills,'avgkill':avgkill,'avgrank':avgrank,'total points':totalpts,'avg points':avgpts},index=[0])
+    add = pd.DataFrame({'Team name':i,'Played Rounds':played,'Win Percent':winper,'Total Kills':kills,'Avg Kills':avgkill,'Avg Rank':avgrank,'Total points':totalpts,'Avg Points':avgpts},index=[0])
     team_statistics = pd.concat([team_statistics,add])
+
 # csvの保存
 
 player_statistics.to_csv('player_statistics '+date+'.csv',index = False)
