@@ -5,6 +5,7 @@ import datetime
 import glob
 import tkinter as tk
 import tkinter.filedialog as filedialog
+import tkinter.messagebox as messagebox
 
 tk.Tk().withdraw()
 dirpath = filedialog.askdirectory()
@@ -14,12 +15,17 @@ if dirpath == '' :
 else :
     files = glob.glob(''+dirpath+'/*.csv')
     print('files:',files)
-    
 
+tk.Tk().withdraw()
+ask = messagebox.askokcancel('Team number', '7 Teams?')
 result = pd.DataFrame(index=[],columns=nu.defaultcols)
 for i in files:
     df = pd.read_csv(i,skipinitialspace=True, encoding='utf_8')
-    df['t'] = [8,8,8,5,5,5,4,4,4,3,3,3,2,2,2,1,1,1,0,0,0,0,0,0]
+    if ask==True    :
+        df['t'] = [8,8,8,5,5,5,4,4,4,3,3,3,2,2,2,1,1,1,0,0,0]
+    else    :
+        df['t'] = [8,8,8,5,5,5,4,4,4,3,3,3,2,2,2,1,1,1,0,0,0,0,0,0]
+
     result = pd.concat([result,df])
 
 teamsize = 3
