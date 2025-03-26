@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, team kill normal, team kill autoresurrection, kill, assist, hunting, killer, gameId, teamName
+1, 19, Jackie, ハッピー天月, 반고부, Defense, 19, 20, 20, 12, 8, 16, 3, 44, , 46581049, 銀河ヒッチハイクガイド
+1, 19, Estelle, voider26, 빔엑스, Defense, 19, 20, 20, 12, 8, 2, 18, 23, , 46581049, 銀河ヒッチハイクガイド
+1, 19, Nicky, vaqlas, 아이언피스트, Defense, 19, 20, 20, 12, 8, 2, 12, 26, , 46581049, 銀河ヒッチハイクガイド
+2, 20, Lyanh, thato, 비색단검, Defense, 20, 10, 10, 9, 1, 3, 7, 52, vaqlas, 46581049, CROSSOVER
+2, 20, Echion, kemiko, 블랙맘바킹-TL, Defense, 20, 10, 10, 9, 1, 3, 7, 49, ハッピー天月, 46581049, CROSSOVER
+2, 20, Zahir, べんとりっく, 빙백은침, Defense, 20, 10, 10, 9, 1, 4, 5, 80, ハッピー天月, 46581049, CROSSOVER
+3, 20, Kenneth, MaTfromDota2, 반고부, Defense, 20, 10, 10, 8, 2, 4, 4, 53, ハッピー天月, 46581049, おっとっと
+3, 20, Camilo, かっと, 자웅일대검, Defense, 20, 10, 10, 8, 2, 4, 5, 61, ハッピー天月, 46581049, おっとっと
+3, 20, Arda, OISIIPROTEIN, 더문, Defense, 19, 10, 10, 8, 2, 2, 7, 39, ハッピー天月, 46581049, おっとっと
+4, 18, Leon, 漁夫カルマ, 프로스트팽, Defense, 18, 7, 7, 2, 5, 4, 3, 37, kemiko, 46581049, Hide and Escape
+4, 18, Leni, RIKE, 스탬피드, Defense, 17, 7, 7, 2, 5, 1, 6, 13, kemiko, 46581049, Hide and Escape
+4, 18, Abigail, マーカスの大胸筋, 스퀴테, Defense, 18, 7, 7, 2, 5, 2, 5, 34, べんとりっく, 46581049, Hide and Escape
+5, 17, Jan, Sharp3, 천잠장갑, Defense, 17, 8, 8, 3, 5, 4, 4, 26, voider26, 46581049, 地獄楽
+5, 17, Alex, えすみす, 일렉트론블라스터, Defense, 17, 8, 8, 3, 5, 3, 3, 54, voider26, 46581049, 地獄楽
+5, 17, Leni, Natupon, 엘레강스, Defense, 15, 8, 8, 3, 5, 1, 7, 7, ハッピー天月, 46581049, 地獄楽
+6, 17, Sua, Prushka, 낭아봉, Defense, 16, 2, 2, 1, 1, 1, 1, 35, かっと, 46581049, 棒と槍
+6, 17, Jan, ニッキーブレーク, 흑요석짓테, Defense, 17, 2, 2, 1, 1, 1, 0, 41, thato, 46581049, 棒と槍
+6, 17, Estelle, sukopi, 빔엑스, Defense, 16, 2, 2, 1, 1, 0, 2, 50, べんとりっく, 46581049, 棒と槍
+7, 17, Bianca, HYEINSEO, 운명의수레바퀴, Defense, 16, 4, 4, 1, 3, 1, 2, 33, OISIIPROTEIN, 46581049, Rage0day
+7, 18, Aiden, HAMSIN, 레바테인, Defense, 17, 4, 4, 1, 3, 3, 1, 36, MaTfromDota2, 46581049, Rage0day
+7, 17, Hyunwoo, SEOHYEIN, 단영촌천투, Defense, 16, 4, 4, 1, 3, 0, 1, 38, MaTfromDota2, 46581049, Rage0day
+8, 15, William, 약화, 연막탄, Defense, 15, 6, 6, 1, 5, 3, 2, 24, thato, 46581049, ZRDiode
+8, 15, Echion, ninanana, 슈퍼사이드와인더-ML, Defense, 15, 6, 6, 1, 5, 1, 3, 46, ニッキーブレーク, 46581049, ZRDiode
+8, 16, Leon, 변이, 프로스트팽, Defense, 15, 6, 6, 1, 5, 2, 3, 28, thato, 46581049, ZRDiode
