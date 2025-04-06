@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, team kill normal, team kill autoresurrection, kill, assist, hunting, killer, gameId, teamName
+1, 20, Haze, たゆた, 발키리, Defense, 20, 13, 14, 13, 1, 3, 9, 89, , 46973761, TripleR
+1, 19, Markus, ぽんちゃんさん, 반고부, Defense, 19, 13, 14, 13, 1, 1, 10, 34, , 46973761, TripleR
+1, 20, Nadine, greatSolt, 혈색반월-진홍, Defense, 20, 13, 14, 13, 1, 9, 3, 40, , 46973761, TripleR
+2, 19, Lenore, HaruSakuragi, 헤븐즈도어, Defense, 19, 4, 4, 2, 2, 1, 2, 40, greatSolt, 46973761, ほならば咲耶姫
+2, 20, Aya, 神代レイ, 마탄의사수, Defense, 19, 4, 4, 2, 2, 3, 1, 50, greatSolt, 46973761, ほならば咲耶姫
+2, 19, Alonso, honarane, 프로스트팽, Defense, 18, 4, 4, 2, 2, 0, 3, 14, greatSolt, 46973761, ほならば咲耶姫
+3, 20, Rio, hako72, 페일노트-진홍, Defense, 20, 9, 9, 6, 3, 3, 4, 78, greatSolt, 46973761, GGXD
+3, 19, Lenox, Nacoty, 뇌룡편, Defense, 18, 9, 9, 6, 3, 2, 6, 24, たゆた, 46973761, GGXD
+3, 20, Luke, れぐるす, 여의봉, Defense, 19, 9, 9, 6, 3, 4, 5, 48, greatSolt, 46973761, GGXD
+4, 17, Vanya, SSPotato, 여제, Defense, 16, 1, 1, 1, 0, 1, 0, 31, HaruSakuragi, 46973761, シャルティメットストーム
+4, 17, Charlotte, 義妹, 운명의수레바퀴, Defense, 15, 1, 1, 1, 0, 0, 1, 6, ぽんちゃんさん, 46973761, シャルティメットストーム
+4, 19, Hisui, ここかな, 빛의검, Defense, 18, 1, 1, 1, 0, 0, 1, 54, greatSolt, 46973761, シャルティメットストーム
+5, 18, Chloe, PYP, 수다르사나, Defense, 18, 7, 7, 6, 1, 3, 3, 59, れぐるす, 46973761, 私とりんご穏健派
+5, 18, Adina, kur1ch4n, 더문, Defense, 18, 7, 7, 6, 1, 2, 4, 46, れぐるす, 46973761, 私とりんご穏健派
+5, 18, Mai, hato88, 뇌룡편, Defense, 18, 7, 7, 6, 1, 2, 3, 22, れぐるす, 46973761, 私とりんご穏健派
+6, 19, Darko, Latesummerr, 여의봉, Defense, 18, 4, 4, 4, 0, 4, 0, 52, hato88, 46973761, 佐川大根
+6, 18, Lenore, RadioDaemon, 헤븐즈도어, Defense, 18, 4, 4, 4, 0, 0, 4, 44, たゆた, 46973761, 佐川大根
+6, 17, Alonso, ジェノ, 디바인피스트, Defense, 16, 4, 4, 4, 0, 0, 4, 26, たゆた, 46973761, 佐川大根
+7, 18, Leon, rauz, 프로스트팽, Defense, 17, 1, 1, 1, 0, 0, 1, 32, hako72, 46973761, ルミア島リサーチセンター
+7, 18, Yuki, kiliel, 빛의검, Defense, 17, 1, 1, 1, 0, 0, 1, 24, Nacoty, 46973761, ルミア島リサーチセンター
+7, 18, Jenny, ハクレイ, 알타이르, Defense, 18, 1, 1, 1, 0, 1, 0, 55, hako72, 46973761, ルミア島リサーチセンター
+8, 15, Xiukai, konikonikoni, 방천화극, Defense, 14, 1, 1, 0, 1, 0, 1, 20, Latesummerr, 46973761, 狼猛襲
+8, 15, Priya, odyuuka, 헤븐즈도어, Defense, 14, 1, 1, 0, 1, 1, 0, 37, , 46973761, 狼猛襲
+8, 15, Katja, kuroha, 폴라리스, Defense, 15, 1, 1, 0, 1, 0, 1, 46, Latesummerr, 46973761, 狼猛襲

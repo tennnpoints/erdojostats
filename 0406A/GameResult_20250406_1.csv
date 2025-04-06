@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, team kill normal, team kill autoresurrection, kill, assist, hunting, killer, gameId, teamName
+1, 20, Rio, hako72, 페일노트-진홍, Defense, 20, 16, 16, 14, 2, 6, 8, 91, , 46971741, GGXD
+1, 20, Luke, れぐるす, 여의봉, Defense, 20, 16, 16, 14, 2, 7, 9, 45, , 46971741, GGXD
+1, 19, Lenox, Nacoty, 사복검, Defense, 20, 16, 16, 14, 2, 3, 13, 17, , 46971741, GGXD
+2, 20, Hisui, ここかな, 모노호시자오, Defense, 20, 5, 5, 5, 0, 3, 2, 62, Nacoty, 46971741, シャルティメットストーム
+2, 20, Vanya, SSPotato, 여제, Defense, 20, 5, 5, 5, 0, 2, 2, 49, hako72, 46971741, シャルティメットストーム
+2, 19, Charlotte, 義妹, 운명의수레바퀴, Defense, 19, 5, 5, 5, 0, 0, 5, 13, hako72, 46971741, シャルティメットストーム
+3, 18, Aya, 神代レイ, 마탄의사수, Defense, 19, 5, 5, 3, 2, 3, 2, 38, ここかな, 46971741, ほならば咲耶姫
+3, 19, Lenore, HaruSakuragi, 헤븐즈도어, Defense, 19, 5, 5, 3, 2, 2, 3, 45, SSPotato, 46971741, ほならば咲耶姫
+3, 19, Estelle, honarane, 빔엑스, Defense, 16, 5, 5, 3, 2, 0, 2, 17, ここかな, 46971741, ほならば咲耶姫
+4, 19, Jenny, ハクレイ, 알타이르, Defense, 19, 1, 1, 0, 1, 0, 1, 39, HaruSakuragi, 46971741, ルミア島リサーチセンター
+4, 19, Elena, kiliel, 레드팬서, Defense, 19, 1, 1, 0, 1, 0, 1, 18, SSPotato, 46971741, ルミア島リサーチセンター
+4, 19, Leon, rauz, 프로스트팽, Defense, 18, 1, 1, 0, 1, 1, 0, 40, ここかな, 46971741, ルミア島リサーチセンター
+5, 19, DebiMarlene, たゆた, 레바테인, Defense, 19, 7, 7, 4, 3, 4, 2, 50, れぐるす, 46971741, TripleR
+5, 19, Nadine, greatSolt, 대황, Defense, 18, 7, 7, 4, 3, 2, 4, 46, Nacoty, 46971741, TripleR
+5, 19, Darko, ぽんちゃんさん, 여의봉, Defense, 18, 7, 7, 4, 3, 1, 5, 41, れぐるす, 46971741, TripleR
+6, 16, Bernice, konikonikoni, 폴라리스, Defense, 17, 5, 5, 2, 3, 3, 2, 46, hako72, 46971741, 狼猛襲
+6, 15, Priya, odyuuka, 헤븐즈도어, Defense, 15, 5, 5, 2, 3, 0, 5, 33, れぐるす, 46971741, 狼猛襲
+6, 16, Estelle, kuroha, 빔엑스, Defense, 15, 5, 5, 2, 3, 2, 3, 22, hako72, 46971741, 狼猛襲
+7, 15, Theodore, kur1ch4n, 데드아이, Defense, 15, 5, 5, 2, 3, 0, 4, 39, Nacoty, 46971741, 私とりんご穏健派
+7, 15, Estelle, hato88, 빔엑스, Defense, 14, 5, 5, 2, 3, 1, 3, 22, hako72, 46971741, 私とりんご穏健派
+7, 15, Rio, PYP, 적궁백시, Defense, 15, 5, 5, 2, 3, 4, 0, 43, れぐるす, 46971741, 私とりんご穏健派
+8, 14, Darko, Latesummerr, 구원의여신상, Defense, 13, 3, 3, 0, 3, 3, 0, 31, konikonikoni, 46971741, 佐川大根
+8, 15, Lenore, RadioDaemon, 헤븐즈도어, Defense, 15, 3, 3, 0, 3, 0, 2, 49, 神代レイ, 46971741, 佐川大根
+8, 14, Alonso, ジェノ, 디바인피스트, Defense, 13, 3, 3, 0, 3, 0, 2, 27, kuroha, 46971741, 佐川大根
