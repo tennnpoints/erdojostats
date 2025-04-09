@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, team kill normal, team kill autoresurrection, kill, assist, hunting, killer, gameId, teamName
+1, 20, Leon, sino1012, 블러디핸즈, Defense, 20, 24, 24, 15, 9, 11, 12, 38, , 47059161, OverThrow
+1, 20, Rozzi, れもんだもん, 하이눈, Defense, 20, 24, 24, 15, 9, 6, 13, 76, , 47059161, OverThrow
+1, 20, Hisui, kemiko, 빛의검, Defense, 20, 24, 24, 15, 9, 7, 9, 76, , 47059161, OverThrow
+2, 20, Sua, うぇびー, 둠스데이, Defense, 20, 15, 15, 10, 5, 4, 11, 37, kemiko, 47059161, Toddler Gangster
+2, 19, Nicky, ニッキーブレーク, 아이언피스트, Defense, 19, 15, 15, 10, 5, 5, 9, 20, れもんだもん, 47059161, Toddler Gangster
+2, 20, Adela, かとかい, 아르고스의눈, Defense, 20, 15, 15, 10, 5, 6, 7, 74, れもんだもん, 47059161, Toddler Gangster
+3, 19, Adriana, シユイ, 루테늄구슬, Defense, 20, 7, 7, 4, 3, 2, 4, 29, ニッキーブレーク, 47059161, Marine Delight
+3, 20, Leon, おぼろづき米, 마이쏙, Defense, 19, 7, 7, 4, 3, 0, 7, 45, かとかい, 47059161, Marine Delight
+3, 19, Lyanh, デスガキ, 카른웬난, Defense, 19, 7, 7, 4, 3, 5, 1, 31, かとかい, 47059161, Marine Delight
+4, 19, Estelle, レイライン, 빔엑스, Defense, 17, 13, 13, 7, 6, 0, 11, 7, sino1012, 47059161, チクチク梅
+4, 16, Katja, ZEKURIP, 폴라리스, Defense, 16, 13, 13, 7, 6, 5, 5, 32, sino1012, 47059161, チクチク梅
+4, 18, Sua, 無双, 스파이의우산, Defense, 18, 13, 13, 7, 6, 8, 4, 60, レヴナ, 47059161, チクチク梅
+5, 18, Charlotte, 冷害, 절제, Defense, 17, 8, 8, 5, 3, 1, 6, 15, kemiko, 47059161, Toddler Ghost
+5, 19, DebiMarlene, レヴナ, 레바테인, Defense, 18, 8, 8, 5, 3, 4, 2, 33, デスガキ, 47059161, Toddler Ghost
+5, 20, Hisui, CiELzzz, 빛의검, Defense, 19, 8, 8, 5, 3, 3, 3, 50, デスガキ, 47059161, Toddler Ghost
+6, 19, Lyanh, rosen, 카른웬난, Defense, 18, 1, 1, 0, 1, 0, 1, 38, かとかい, 47059161, †神縫合†
+6, 19, Echion, HeianKYO, 블랙맘바킹-TL, Defense, 18, 1, 1, 0, 1, 1, 0, 47, 無双, 47059161, †神縫合†
+6, 19, Jenny, kawaiiOTP, 알타이르, Defense, 19, 1, 1, 0, 1, 0, 1, 53, 冷害, 47059161, †神縫合†
+7, 18, Celine, ymt, 루테늄구슬, Defense, 18, 1, 1, 0, 1, 0, 1, 59, sino1012, 47059161, 伝説の中西
+7, 18, Leon, Sucyone, 빙화현옥수, Defense, 17, 1, 1, 0, 1, 1, 0, 59, れもんだもん, 47059161, 伝説の中西
+7, 18, Lenox, サーモン中西, 뇌룡편, Defense, 17, 1, 1, 0, 1, 0, 1, 21, sino1012, 47059161, 伝説の中西
+8, 17, Celine, たまねぎ2nd, 루테늄구슬, Defense, 17, 3, 3, 0, 3, 1, 1, 41, かとかい, 47059161, NotBeingAll
+8, 17, Emma, 灯油, 풍마수리검, Defense, 16, 3, 3, 0, 3, 2, 1, 33, うぇびー, 47059161, NotBeingAll
+8, 17, Martina, sLLLime, 카메라캐논, Defense, 17, 3, 3, 0, 3, 0, 3, 27, ニッキーブレーク, 47059161, NotBeingAll
