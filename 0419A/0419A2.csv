@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, team kill normal, team kill autoresurrection, kill, assist, hunting, killer, gameId, teamName
+1, 20, Leon, sino1012, 블러디핸즈, Defense, 20, 12, 12, 12, 0, 5, 6, 71, , 47368321, OverThrow
+1, 20, Sua, Exaneko, 피스브링어-새벽, Defense, 20, 12, 12, 12, 0, 1, 10, 59, , 47368321, OverThrow
+1, 20, Rozzi, れもんだもん, 하이눈, Defense, 20, 12, 12, 12, 0, 6, 4, 78, , 47368321, OverThrow
+2, 20, Hisui, thato, 빛의검, Defense, 20, 8, 8, 8, 0, 2, 6, 57, Exaneko, 47368321, Out of Control
+2, 19, Estelle, みゅーき, 빔엑스, Defense, 19, 8, 8, 8, 0, 1, 7, 35, れもんだもん, 47368321, Out of Control
+2, 20, Hart, ハッピー天月, 프리버드, Defense, 20, 8, 8, 8, 0, 5, 3, 46, れもんだもん, 47368321, Out of Control
+3, 20, DebiMarlene, harao, 다인슬라이프-진홍, Defense, 19, 7, 7, 7, 0, 2, 4, 42, ハッピー天月, 47368321, TBD
+3, 19, Isaac, Hyouya, 맨티스톤파, Defense, 18, 7, 7, 7, 0, 0, 3, 41, thato, 47368321, TBD
+3, 19, Bernice, ドンブレ, 안드로메다, Defense, 19, 7, 7, 7, 0, 5, 2, 52, みゅーき, 47368321, TBD
+4, 18, Katja, 松マキサ, 위도우메이커, Defense, 19, 13, 13, 9, 4, 8, 5, 56, thato, 47368321, SCB
+4, 19, Justyna, akihisa, 혈색반월, Defense, 19, 13, 13, 9, 4, 2, 10, 38, ドンブレ, 47368321, SCB
+4, 19, Markus, LegendOfLeague, 반고부, Defense, 18, 13, 13, 9, 4, 3, 9, 31, れもんだもん, 47368321, SCB
+5, 18, Adina, たまご, 더문, Defense, 19, 1, 1, 0, 1, 1, 0, 61, harao, 47368321, 赤卵_
+5, 18, Eleven, 鈴木リコリス, 천근추, Defense, 17, 1, 1, 0, 1, 0, 0, 23, ドンブレ, 47368321, 赤卵_
+5, 19, Leon, コメダの泥水, 빙화현옥수, Defense, 18, 1, 1, 0, 1, 0, 0, 37, ドンブレ, 47368321, 赤卵_
+6, 17, Karla, Prushka, 포이즌드크로스보우, Defense, 17, 5, 5, 5, 0, 1, 4, 36, れもんだもん, 47368321, Toddler Gangster
+6, 16, Markus, ニッキーブレーク, 반고부, Defense, 15, 5, 5, 5, 0, 1, 4, 11, sino1012, 47368321, Toddler Gangster
+6, 17, Justyna, かとかい, 발리스타, Defense, 17, 5, 5, 5, 0, 3, 2, 40, れもんだもん, 47368321, Toddler Gangster
+7, 19, Aiden, レイライン, 레바테인, Defense, 18, 5, 5, 3, 2, 2, 2, 41, 松マキサ, 47368321, チクチク梅
+7, 17, Charlotte, ZEKURIP, 절제, Defense, 17, 5, 5, 3, 2, 0, 5, 7, LegendOfLeague, 47368321, チクチク梅
+7, 19, Hisui, 無双, 빛의검, Defense, 19, 5, 5, 3, 2, 3, 2, 79, akihisa, 47368321, チクチク梅
+8, 16, Sua, えすみす, 낭아봉, Defense, 15, 2, 2, 1, 1, 0, 1, 35, ハッピー天月, 47368321, Bunya
+8, 17, Celine, vaqlas, 루테늄구슬, Defense, 17, 2, 2, 1, 1, 2, 0, 41, ニッキーブレーク, 47368321, Bunya
+8, 16, LiDailin, voider26, 주작자문, Defense, 15, 2, 2, 1, 1, 0, 1, 27, ハッピー天月, 47368321, Bunya
