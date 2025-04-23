@@ -1,0 +1,25 @@
+rank,level,character,nickname,weapon,"best weapon mastery","best weapon mastery level","total field kill","team kill","team kill normal","team kill autoresurrection",kill,assist,hunting,killer,gameId,teamName
+1,20,Leon,sino1012,프로스트팽,Defense,20,15,15,15,0,6,6,51,0,47498388,OverThrow
+1,20,Irem,catsR,파이어볼,Defense,20,15,15,15,0,6,6,48,0,47498388,OverThrow
+1,19,Echion,kemiko,블랙맘바킹-VBS,Defense,19,15,15,15,0,3,10,37,0,47498388,OverThrow
+2,20,Nathapon,松マキサ,울트라비전,Defense,19,12,12,11,1,6,6,45,sino1012,47498388,SCB
+2,20,Garnet,LegendOfLeague,마법봉,Defense,19,12,12,11,1,4,5,42,catsR,47498388,SCB
+2,20,Justyna,akihisa,혈색반월-새벽,Defense,20,12,12,11,1,2,10,79,sino1012,47498388,SCB
+3,19,Garnet,レイライン,스파이의우산,Defense,17,8,8,6,2,0,6,32,冷害,47498388,チクチク梅
+3,19,DebiMarlene,無双,레바테인,Defense,19,8,8,6,2,2,4,31,sino1012,47498388,チクチク梅
+3,19,Rozzi,ZEKURIP,하이눈,Defense,19,8,8,6,2,6,1,83,CiELzzz,47498388,チクチク梅
+4,19,Justyna,冷害,"팬텀 볼트",Defense,18,5,5,5,0,4,1,50,kemiko,47498388,"Toddler Ghost"
+4,19,Katja,CiELzzz,"위도우 메이커-진홍",Defense,19,5,5,5,0,1,4,51,catsR,47498388,"Toddler Ghost"
+4,19,Markus,mukkoro,반고부,Defense,18,5,5,5,0,0,4,23,sino1012,47498388,"Toddler Ghost"
+5,17,Theodore,お豆腐の匠,데드아이,Defense,17,6,6,6,0,2,3,39,ZEKURIP,47498388,たかし
+5,17,Shoichi,たまこん,악의,Defense,17,6,6,6,0,4,2,39,ZEKURIP,47498388,たかし
+5,18,Estelle,レイ様,빔엑스,Defense,16,6,6,6,0,0,5,14,sino1012,47498388,たかし
+6,17,Lenox,ニッキーブレーク,뇌룡편,Defense,17,6,6,4,2,2,3,14,たまこん,47498388,"Toddler Gangster"
+6,17,Sissela,かとかい,루테늄구슬,Defense,18,6,6,4,2,1,4,31,松マキサ,47498388,"Toddler Gangster"
+6,17,Karla,Prushka,포이즌드크로스보우,Defense,18,6,6,4,2,3,3,47,お豆腐の匠,47498388,"Toddler Gangster"
+7,16,Rio,Alek,이글아이,Defense,17,2,2,1,1,1,1,22,ZEKURIP,47498388,Forsen
+7,16,Irem,Gyoo,소이탄,Defense,16,2,2,1,1,0,2,48,ZEKURIP,47498388,Forsen
+7,16,Estelle,Tnsh,낙원의낫,Defense,16,2,2,1,1,1,1,21,無双,47498388,Forsen
+8,13,Celine,たまねぎ2nd,루테늄구슬,Defense,11,0,0,0,0,0,0,23,冷害,47498388,NotBeingAll
+8,12,Emma,灯油,풍마수리검,Defense,10,0,0,0,0,0,0,33,kemiko,47498388,NotBeingAll
+8,13,Hart,sLLLime,틴스피릿,Defense,11,0,0,0,0,0,0,11,catsR,47498388,NotBeingAll

@@ -1,0 +1,25 @@
+rank,level,character,nickname,weapon,"best weapon mastery","best weapon mastery level","total field kill","team kill","team kill normal","team kill autoresurrection",kill,assist,hunting,killer,gameId,teamName
+1,20,YuMin,kemiko,여제,Defense,20,15,15,15,0,7,4,73,0,47496939,OverThrow
+1,20,Irem,catsR,체이서-새벽,Defense,20,15,15,15,0,2,9,47,0,47496939,OverThrow
+1,20,Leon,sino1012,프로스트팽,Defense,20,15,15,15,0,6,9,42,0,47496939,OverThrow
+2,20,Sua,Gyoo,둠스데이,Defense,20,10,10,10,0,1,8,69,kemiko,47496939,Forsen
+2,20,Kenneth,Tnsh,반고부,Defense,20,10,10,10,0,2,6,43,sino1012,47496939,Forsen
+2,20,Rio,Alek,페일노트-진홍,Defense,20,10,10,10,0,7,3,91,sino1012,47496939,Forsen
+3,19,YuMin,akihisa,더문,Hunt,19,8,8,6,2,5,3,57,kemiko,47496939,SCB
+3,19,Nathapon,松マキサ,"비전 플렉스-새벽",Defense,18,8,8,6,2,2,5,43,catsR,47496939,SCB
+3,19,Markus,LegendOfLeague,반고부,Defense,18,8,8,6,2,1,5,35,kemiko,47496939,SCB
+4,19,Celine,たまねぎ2nd,체이서,Hunt,19,4,4,3,1,2,2,67,Gyoo,47496939,NotBeingAll
+4,18,Emma,灯油,풍마수리검,Defense,17,4,4,3,1,0,3,30,Tnsh,47496939,NotBeingAll
+4,19,Hart,sLLLime,프리버드,Defense,18,4,4,3,1,2,2,55,Alek,47496939,NotBeingAll
+5,17,Jenny,ZEKURIP,알타이르,Defense,16,1,1,0,1,0,1,31,LegendOfLeague,47496939,チクチク梅
+5,18,Sua,無双,터럭손방망이,Defense,16,1,1,0,1,0,1,39,Alek,47496939,チクチク梅
+5,16,Magnus,レイライン,다그다의망치,Defense,14,1,1,0,1,1,0,14,松マキサ,47496939,チクチク梅
+6,17,Justyna,冷害,"팬텀 볼트",Defense,16,2,2,2,0,0,2,51,catsR,47496939,"Toddler Ghost"
+6,16,Markus,mukkoro,산타무에르떼,Defense,15,2,2,2,0,0,2,19,kemiko,47496939,"Toddler Ghost"
+6,17,Katja,CiELzzz,폴라리스,Defense,17,2,2,2,0,2,0,59,sino1012,47496939,"Toddler Ghost"
+7,16,Alex,たまこん,모노호시자오,Defense,14,4,4,3,1,2,2,14,CiELzzz,47496939,たかし
+7,15,Eleven,レイ様,천근추,Defense,12,4,4,3,1,0,4,12,kemiko,47496939,たかし
+7,15,YuMin,お豆腐の匠,여제,Defense,14,4,4,3,1,2,1,38,CiELzzz,47496939,たかし
+8,10,Nicky,ニッキーブレーク,디바인피스트,Defense,9,5,5,3,2,2,3,7,たまこん,47496939,"Toddler Gangster"
+8,10,Sua,Prushka,낭아봉,Defense,9,5,5,3,2,1,3,8,お豆腐の匠,47496939,"Toddler Gangster"
+8,11,Adela,かとかい,레드팬서,Defense,10,5,5,3,2,2,3,19,お豆腐の匠,47496939,"Toddler Gangster"

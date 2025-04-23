@@ -1,0 +1,25 @@
+rank,level,character,nickname,weapon,"best weapon mastery","best weapon mastery level","total field kill","team kill","team kill normal","team kill autoresurrection",kill,assist,hunting,killer,gameId,teamName
+1,20,Garnet,LegendOfLeague,마법봉,Defense,20,13,13,9,4,4,7,32,0,47499678,SCB
+1,20,YuMin,akihisa,"더 데스-진홍",Defense,20,13,13,9,4,4,7,88,0,47499678,SCB
+1,20,Nathapon,松マキサ,"비전 플렉스-새벽",Defense,20,13,13,9,4,5,8,58,0,47499678,SCB
+2,20,Nicky,レイライン,프로스트팽,Defense,19,17,17,14,3,3,10,14,LegendOfLeague,47499678,チクチク梅
+2,20,Sua,無双,마법봉,Defense,20,17,17,14,3,8,8,65,LegendOfLeague,47499678,チクチク梅
+2,20,Bernice,ZEKURIP,위도우메이커,Defense,20,17,17,14,3,6,6,59,松マキサ,47499678,チクチク梅
+3,20,Irem,catsR,파이어볼,Defense,19,9,9,9,0,2,6,65,ZEKURIP,47499678,OverThrow
+3,19,Leon,sino1012,프로스트팽,Defense,19,9,9,9,0,3,6,29,レイライン,47499678,OverThrow
+3,20,YuMin,kemiko,여제,Defense,19,9,9,9,0,4,4,55,ZEKURIP,47499678,OverThrow
+4,17,Markus,ニッキーブレーク,반고부,Defense,15,8,8,7,1,2,6,12,松マキサ,47499678,"Toddler Gangster"
+4,18,Katja,Meltt,인터벤션,Hunt,18,8,8,7,1,5,3,50,kemiko,47499678,"Toddler Gangster"
+4,18,Justyna,かとかい,"팬텀 볼트",Defense,18,8,8,7,1,1,7,65,kemiko,47499678,"Toddler Gangster"
+5,15,Alex,たまこん,일렉트론블라스터,Defense,14,1,1,1,0,1,0,27,LegendOfLeague,47499678,たかし
+5,15,YuMin,お豆腐の匠,여제,Hunt,14,1,1,1,0,0,1,44,akihisa,47499678,たかし
+5,15,Markus,レイ様,반고부,Defense,14,1,1,1,0,0,0,30,akihisa,47499678,たかし
+6,15,Felix,たまねぎ2nd,장팔사모,Defense,13,3,3,0,3,3,0,38,catsR,47499678,NotBeingAll
+6,13,Mai,upalupa,뇌룡편,Defense,10,3,3,0,3,0,2,14,kemiko,47499678,NotBeingAll
+6,14,Adina,sLLLime,더스타,Defense,12,3,3,0,3,0,2,18,kemiko,47499678,NotBeingAll
+7,14,Justyna,冷害,"팬텀 볼트",Defense,14,2,2,1,1,0,1,44,無双,47499678,"Toddler Ghost"
+7,14,Markus,mukkoro,산타무에르떼,Defense,12,2,2,1,1,0,2,22,レイライン,47499678,"Toddler Ghost"
+7,14,Katja,CiELzzz,폴라리스,Defense,13,2,2,1,1,2,0,33,無双,47499678,"Toddler Ghost"
+8,9,Leon,Tnsh,마이쏙,Defense,7,0,0,0,0,0,0,7,たまこん,47499678,Forsen
+8,10,Sua,Gyoo,낭아봉,Defense,8,0,0,0,0,0,0,19,無双,47499678,Forsen
+8,9,Haze,Alek,골드러시,Defense,7,0,0,0,0,0,0,15,無双,47499678,Forsen
