@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, team kill normal, team kill autoresurrection, kill, assist, hunting, killer, gameId, teamName
+1, 20, Camilo, wowaka, 유성검, Defense, 20, 11, 11, 11, 0, 3, 6, 91, , 47592280, NoName
+1, 20, Isaac, chillout, 만년한파, Defense, 20, 11, 11, 11, 0, 7, 4, 54, , 47592280, NoName
+1, 20, Charlotte, ChainsawLady, 절제, Defense, 19, 11, 11, 11, 0, 1, 10, 15, , 47592280, NoName
+2, 20, Bernice, ドンブレ, 위도우메이커, Defense, 20, 17, 17, 15, 2, 12, 4, 68, chillout, 47592280, TBD
+2, 20, LiDailin, Hyouya, 블러디 핸즈-진홍, Defense, 20, 17, 17, 15, 2, 4, 9, 44, chillout, 47592280, TBD
+2, 20, DebiMarlene, harao, 레바테인, Defense, 19, 17, 17, 15, 2, 1, 14, 34, chillout, 47592280, TBD
+3, 20, Jan, C4storice, 천잠장갑, Defense, 19, 6, 6, 6, 0, 2, 4, 48, chillout, 47592280, 兵器ブリオン
+3, 19, Garnet, ヴィルヴィ, 스파이의우산, Defense, 18, 6, 6, 6, 0, 2, 4, 17, chillout, 47592280, 兵器ブリオン
+3, 18, William, ぷれこーーーーる, 안티오크의수류탄, Defense, 18, 6, 6, 6, 0, 2, 4, 53, wowaka, 47592280, 兵器ブリオン
+4, 20, Irem, Dato2, 아스트라페, Hunt, 19, 4, 4, 2, 2, 3, 1, 65, ドンブレ, 47592280, Brainstorm
+4, 20, Bernice, syon1222, 인터벤션, Hunt, 19, 4, 4, 2, 2, 0, 2, 64, Hyouya, 47592280, Brainstorm
+4, 19, Elena, コレマサ, 활빈검, Defense, 18, 4, 4, 2, 2, 1, 2, 26, ドンブレ, 47592280, Brainstorm
+5, 17, Priya, うぃくらいん, 퍼플헤이즈, Defense, 17, 5, 5, 4, 1, 1, 4, 21, harao, 47592280, ほーんてっどまんしょん
+5, 17, Markus, OISIIPROTEIN, 반고부, Defense, 17, 5, 5, 4, 1, 1, 4, 32, Hyouya, 47592280, ほーんてっどまんしょん
+5, 18, Isol, Dorago, 저지먼트, Defense, 19, 5, 5, 4, 1, 3, 2, 58, ドンブレ, 47592280, ほーんてっどまんしょん
+6, 15, Felix, たまねぎ2nd, 장팔사모, Defense, 13, 3, 3, 0, 3, 1, 0, 30, C4storice, 47592280, NotBeingAll
+6, 14, Mai, upalupa, 뇌룡편, Defense, 13, 3, 3, 0, 3, 1, 1, 27, ヴィルヴィ, 47592280, NotBeingAll
+6, 14, Adina, sLLLime, 더스타, Defense, 13, 3, 3, 0, 3, 1, 0, 32, ぷれこーーーーる, 47592280, NotBeingAll
+7, 15, Rio, CiELzzz, 적궁백시, Hunt, 14, 0, 0, 0, 0, 0, 0, 53, ドンブレ, 47592280, Toddler Ghost
+7, 14, Priya, mukkoro, 헤븐즈도어, Defense, 13, 0, 0, 0, 0, 0, 0, 29, ドンブレ, 47592280, Toddler Ghost
+7, 14, Leon, レヴナ, 흑요석짓테, Defense, 13, 0, 0, 0, 0, 0, 0, 20, ドンブレ, 47592280, Toddler Ghost
+8, 9, Markus, ニッキーブレーク, 하르페, Defense, 7, 5, 5, 2, 3, 1, 2, 2, うぃくらいん, 47592280, Toddler Gangster
+8, 10, Katja, Meltt, Tac-50, Defense, 9, 5, 5, 2, 3, 1, 4, 11, ドンブレ, 47592280, Toddler Gangster
+8, 10, YuMin, かとかい, 은둔자, Defense, 10, 5, 5, 2, 3, 3, 2, 22, Hyouya, 47592280, Toddler Gangster

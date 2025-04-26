@@ -30,7 +30,7 @@ for i in files:
 
 teamsize = 3
 now = datetime.datetime.now()
-date = now.strftime('%Y%m%d %H%M%S')
+date = now.strftime('%m%d')
 result['nickname'] = result['nickname'].str.strip()
 result['best weapon mastery'] = result['best weapon mastery'].str.strip()
 result['character'] = result['character'].str.strip()
@@ -82,8 +82,8 @@ for i in teams:
 
 # csvの保存
 
-player_statistics.to_csv('player_statistics '+date+'.csv',index = False)
-team_statistics.to_csv('team_statistics '+date+'.csv',index = False)
+player_statistics.to_csv('P'+date+'.csv',index = False)
+team_statistics.to_csv('T'+date+'.csv',index = False)
     
 a = input('Enter something to exit:')
 sys.exit()

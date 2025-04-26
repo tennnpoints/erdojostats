@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, team kill normal, team kill autoresurrection, kill, assist, hunting, killer, gameId, teamName
+1, 20, Bernice, ネフェルトゥス, 인터벤션, Defense, 20, 11, 11, 10, 1, 4, 7, 71, , 47589591, Voidoo dune
+1, 19, Estelle, bambooXIV, 낙원의낫, Defense, 19, 11, 11, 10, 1, 1, 7, 37, , 47589591, Voidoo dune
+1, 20, Adina, keikoma, 더문, Defense, 20, 11, 11, 10, 1, 6, 1, 66, , 47589591, Voidoo dune
+2, 20, Hisui, TRPGBear, 빛의검, Defense, 20, 15, 15, 12, 3, 5, 9, 42, keikoma, 47589591, Toqeih Comp.
+2, 20, Priya, SpinningIce, 헤븐즈도어, Defense, 19, 15, 15, 12, 3, 5, 9, 65, keikoma, 47589591, Toqeih Comp.
+2, 19, Markus, isemaki, 반고부, Defense, 19, 15, 15, 12, 3, 5, 7, 30, keikoma, 47589591, Toqeih Comp.
+3, 18, Estelle, 綿月, 낙원의낫, Defense, 17, 4, 4, 4, 0, 1, 3, 25, keikoma, 47589591, 脱走野郎Rチーム
+3, 18, Isol, Roombird, 엔데버AX, Hunt, 17, 4, 4, 4, 0, 2, 2, 61, ネフェルトゥス, 47589591, 脱走野郎Rチーム
+3, 17, Tia, Flow, 터럭손방망이, Defense, 17, 4, 4, 4, 0, 1, 3, 33, keikoma, 47589591, 脱走野郎Rチーム
+4, 19, Jenny, kawaiiOTP, 알타이르, Defense, 19, 9, 9, 6, 3, 2, 4, 51, SpinningIce, 47589591, †神縫合†
+4, 19, Elena, HeianKYO, 아르고스의눈, Defense, 19, 9, 9, 6, 3, 2, 5, 44, isemaki, 47589591, †神縫合†
+4, 19, Chloe, rosen, 수다르사나, Defense, 20, 9, 9, 6, 3, 5, 2, 48, TRPGBear, 47589591, †神縫合†
+5, 17, Estelle, レイ様, 빔엑스, Defense, 15, 4, 4, 4, 0, 0, 4, 28, rosen, 47589591, たかし
+5, 17, Shoichi, たまこん, 비색단검, Defense, 17, 4, 4, 4, 0, 2, 2, 35, rosen, 47589591, たかし
+5, 17, Katja, お豆腐の匠, 위도우메이커, Defense, 17, 4, 4, 4, 0, 2, 2, 49, HeianKYO, 47589591, たかし
+6, 16, Charlotte, suvarublend, 운명의수레바퀴, Defense, 14, 1, 1, 0, 1, 0, 1, 13, Roombird, 47589591, 江多二亭
+6, 17, Sua, mystica, 낭아봉, Defense, 16, 1, 1, 0, 1, 1, 0, 47, Roombird, 47589591, 江多二亭
+6, 17, Hisui, ふーと, 모노호시자오, Defense, 16, 1, 1, 0, 1, 0, 1, 51, 綿月, 47589591, 江多二亭
+7, 15, YuMin, ここかな, 은둔자, Defense, 15, 1, 1, 0, 1, 1, 0, 48, お豆腐の匠, 47589591, しゃるめらAS
+7, 15, Estelle, SSPotato, 빔엑스, Defense, 13, 1, 1, 0, 1, 0, 0, 12, たまこん, 47589591, しゃるめらAS
+7, 16, Rio, MinaseRushia, 이글아이, Hunt, 15, 1, 1, 0, 1, 0, 1, 46, たまこん, 47589591, しゃるめらAS
+8, 12, Xiukai, teru3485, 하이랜더더크, Defense, 10, 5, 5, 1, 4, 1, 2, 7, kawaiiOTP, 47589591, 照るteru坊主
+8, 13, Katja, ななしの, 폴라리스, Defense, 12, 5, 5, 1, 4, 2, 1, 27, kawaiiOTP, 47589591, 照るteru坊主
+8, 13, Piolo, 照る坊主, 비익련리, Defense, 11, 5, 5, 1, 4, 2, 2, 27, rosen, 47589591, 照るteru坊主
