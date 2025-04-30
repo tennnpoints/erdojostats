@@ -1,0 +1,25 @@
+rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Mai, upalupa, 뇌룡편, Defense, 19, 13, 13, 12, 1, 0, 0, 0, 1, 9, 30, , 47711122, NotBeingAll, 22.5, 10, 12.5
+1, 20, Felix, たまねぎ2nd, 애각창, Defense, 20, 13, 13, 12, 1, 0, 0, 0, 6, 5, 77, , 47711122, NotBeingAll, 22.5, 10, 12.5
+1, 19, YuMin, sLLLime, 더 데스-새벽, Defense, 20, 13, 13, 12, 1, 0, 0, 0, 6, 5, 89, , 47711122, NotBeingAll, 22.5, 10, 12.5
+2, 19, Jenny, かっと, 알타이르, Defense, 19, 9, 9, 5, 3, 0, 1, 0, 2, 7, 52, sLLLime, 47711122, 雷帝_, 14.5, 7, 7.5
+2, 19, Echion, OISIIPROTEIN, 블랙맘바킹-TL, Defense, 18, 9, 9, 5, 3, 0, 1, 0, 0, 6, 33, たまねぎ2nd, 47711122, 雷帝_, 14.5, 7, 7.5
+2, 19, Luke, れぐるす, 구원의여신상, Defense, 18, 9, 9, 5, 3, 0, 1, 0, 7, 1, 38, たまねぎ2nd, 47711122, 雷帝_, 14.5, 7, 7.5
+3, 19, Silvia, 444PROJECTILES, 스탬피드, Defense, 19, 7, 7, 5, 1, 0, 1, 0, 2, 5, 34, sLLLime, 47711122, R.E.P.O., 11.5, 5, 6.5
+3, 20, Celine, Kazahana, 여의주, Defense, 19, 7, 7, 5, 1, 0, 1, 0, 1, 6, 68, たまねぎ2nd, 47711122, R.E.P.O., 11.5, 5, 6.5
+3, 19, Jan, C4storice, 흑요석짓테, Defense, 19, 7, 7, 5, 1, 0, 1, 0, 4, 3, 64, upalupa, 47711122, R.E.P.O., 11.5, 5, 6.5
+4, 19, Elena, 冷害, 활빈검, Defense, 18, 4, 4, 2, 1, 0, 1, 0, 1, 3, 28, Kazahana, 47711122, Toddler Ghost, 7.5, 4, 3.5
+4, 19, Hart, CiELzzz, 프리버드, Defense, 18, 4, 4, 2, 1, 0, 1, 0, 1, 2, 52, sLLLime, 47711122, Toddler Ghost, 7.5, 4, 3.5
+4, 18, Darko, レヴナ, 여의봉, Defense, 18, 4, 4, 2, 1, 0, 1, 0, 2, 1, 32, たまねぎ2nd, 47711122, Toddler Ghost, 7.5, 4, 3.5
+5, 18, Shoichi, たまこん, 비색단검, Defense, 19, 7, 7, 4, 2, 0, 1, 0, 4, 2, 35, C4storice, 47711122, たかし, 9, 3, 6
+5, 19, Kenneth, お豆腐の匠, 반고부, Defense, 18, 7, 7, 4, 2, 0, 1, 0, 3, 2, 40, C4storice, 47711122, たかし, 9, 3, 6
+5, 18, Charlotte, レイ様, 절제, Defense, 16, 7, 7, 4, 2, 0, 1, 0, 0, 6, 4, C4storice, 47711122, たかし, 9, 3, 6
+6, 18, Lyanh, デスガキ, 소울리퍼, Defense, 17, 5, 5, 0, 0, 0, 5, 0, 1, 4, 53, たまこん, 47711122, ほーんてっどまんしょん, 7, 2, 5
+6, 18, Leni, うぃくらいん, 엘레강스, Defense, 17, 5, 5, 0, 0, 0, 5, 0, 2, 3, 12, お豆腐の匠, 47711122, ほーんてっどまんしょん, 7, 2, 5
+6, 18, Luke, Dorago, 여의봉, Defense, 18, 5, 5, 0, 0, 0, 5, 0, 2, 3, 31, 444PROJECTILES, 47711122, ほーんてっどまんしょん, 7, 2, 5
+7, 15, Tia, Pea72, 터럭손방망이, Defense, 14, 3, 3, 0, 0, 0, 3, 0, 1, 0, 39, sLLLime, 47711122, ざるそば隊, 4, 1, 3
+7, 15, DebiMarlene, そちゃ, 레바테인, Defense, 14, 3, 3, 0, 0, 0, 3, 0, 0, 2, 12, たまねぎ2nd, 47711122, ざるそば隊, 4, 1, 3
+7, 15, Aiden, 青柳, 빛의검, Defense, 14, 3, 3, 0, 0, 0, 3, 0, 2, 1, 35, sLLLime, 47711122, ざるそば隊, 4, 1, 3
+8, 9, Hisui, RQQQQ, 모노호시자오, Defense, 7, 2, 2, 0, 2, 0, 0, 0, 1, 1, 22, れぐるす, 47711122, EVO, 1, 0, 1
+8, 9, Darko, 35億対1, 구원의여신상, Defense, 7, 2, 2, 0, 2, 0, 0, 0, 1, 1, 8, れぐるす, 47711122, EVO, 1, 0, 1
+8, 9, Eva, YoNeaKy, 소이탄, Defense, 7, 2, 2, 0, 2, 0, 0, 0, 0, 0, 23, かっと, 47711122, EVO, 1, 0, 1

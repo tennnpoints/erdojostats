@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Rio, ハッピー天月, 페일노트-진홍, Defense, 20, 19, 19, 15, 3, 0, 1, 0, 6, 12, 75, , 47709460, Out of Control, 27.5, 10, 17.5
+1, 20, Lenox, みゅーき, 사복검, Defense, 19, 19, 19, 15, 3, 0, 1, 0, 2, 13, 13, , 47709460, Out of Control, 27.5, 10, 17.5
+1, 20, Lenore, い力, 하트 브레이커-새벽, Defense, 20, 19, 19, 15, 3, 0, 1, 0, 11, 6, 41, , 47709460, Out of Control, 27.5, 10, 17.5
+2, 20, Arda, 松マキサ, 더문, Defense, 20, 12, 12, 3, 3, 0, 6, 0, 2, 9, 51, い力, 47709460, 松竹梅, 17.5, 7, 10.5
+2, 20, Jan, LegendOfLeague, 천잠장갑, Defense, 20, 12, 12, 3, 3, 0, 6, 0, 5, 4, 54, ハッピー天月, 47709460, 松竹梅, 17.5, 7, 10.5
+2, 20, Kenneth, akihisa, 반고부, Defense, 19, 12, 12, 3, 3, 0, 6, 0, 5, 6, 48, みゅーき, 47709460, 松竹梅, 17.5, 7, 10.5
+3, 19, Elena, レイライン, 활빈검, Defense, 19, 8, 8, 8, 0, 0, 0, 0, 0, 7, 37, い力, 47709460, チクチク梅, 13, 5, 8
+3, 19, Rozzi, ZEKURIP, 악켈테, Defense, 19, 8, 8, 8, 0, 0, 0, 0, 3, 4, 38, い力, 47709460, チクチク梅, 13, 5, 8
+3, 20, Hisui, 無双, 빛의검, Defense, 19, 8, 8, 8, 0, 0, 0, 0, 5, 3, 82, い力, 47709460, チクチク梅, 13, 5, 8
+4, 19, Echion, けみ子, 블랙맘바킹-TL, Defense, 18, 10, 10, 5, 3, 0, 2, 0, 2, 4, 49, い力, 47709460, OverThrow, 12.5, 4, 8.5
+4, 20, Rozzi, れもんだもん, 하이눈, Hunt, 20, 10, 10, 5, 3, 0, 2, 0, 4, 2, 69, い力, 47709460, OverThrow, 12.5, 4, 8.5
+4, 19, Leon, sino1012, 프로스트팽, Defense, 19, 10, 10, 5, 3, 0, 2, 0, 4, 4, 48, い力, 47709460, OverThrow, 12.5, 4, 8.5
+5, 19, Nadine, Meltt, 대황, Defense, 18, 3, 3, 0, 2, 0, 1, 0, 2, 1, 31, い力, 47709460, Toddler Gangster, 5, 3, 2
+5, 19, Mai, Prushka, 뇌룡편, Defense, 17, 3, 3, 0, 2, 0, 1, 0, 0, 2, 13, 無双, 47709460, Toddler Gangster, 5, 3, 2
+5, 19, Haze, かとかい, 발키리, Hunt, 19, 3, 3, 0, 2, 0, 1, 0, 1, 2, 52, 無双, 47709460, Toddler Gangster, 5, 3, 2
+6, 18, Estelle, 鈴木リコリス, 빔엑스, Defense, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37, ZEKURIP, 47709460, 対策委員会, 2, 2, 0
+6, 18, Laura, berryrabbit, 우라누스, Defense, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 無双, 47709460, 対策委員会, 2, 2, 0
+6, 19, Piolo, MaTfromDota2, 비익련리, Defense, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 73, LegendOfLeague, 47709460, 対策委員会, 2, 2, 0
+7, 18, Hyejin, vaqlas, 골든래쇼보우, Defense, 17, 5, 5, 3, 1, 0, 1, 0, 1, 4, 35, ハッピー天月, 47709460, Bunya, 5.5, 1, 4.5
+7, 18, William, えすみす, 안티오크의수류탄, Defense, 18, 5, 5, 3, 1, 0, 1, 0, 1, 4, 40, ハッピー天月, 47709460, Bunya, 5.5, 1, 4.5
+7, 18, Darko, voider26, 여의봉, Defense, 17, 5, 5, 3, 1, 0, 1, 0, 3, 0, 30, みゅーき, 47709460, Bunya, 5.5, 1, 4.5
+8, 11, DebiMarlene, harao, 엑스칼리버, Defense, 9, 5, 5, 0, 3, 0, 2, 0, 2, 1, 5, sino1012, 47709460, TBD, 3.5, 0, 3.5
+8, 11, Bernice, ドンブレ, 폴라리스, Defense, 9, 5, 5, 0, 3, 0, 2, 0, 1, 3, 25, 無双, 47709460, TBD, 3.5, 0, 3.5
+8, 11, LiDailin, Hyouya, 단영촌천투, Defense, 10, 5, 5, 0, 3, 0, 2, 0, 2, 2, 34, 無双, 47709460, TBD, 3.5, 0, 3.5

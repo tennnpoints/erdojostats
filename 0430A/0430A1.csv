@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Lenox, みゅーき, 사복검, Defense, 19, 21, 21, 16, 2, 0, 3, 0, 6, 14, 23, , 47707717, Out of Control, 30, 10, 20
+1, 20, Lenore, い力, 헤븐즈도어, Defense, 20, 21, 21, 16, 2, 0, 3, 0, 4, 15, 67, , 47707717, Out of Control, 30, 10, 20
+1, 20, Katja, ハッピー天月, 인터벤션, Defense, 20, 21, 21, 16, 2, 0, 3, 0, 11, 10, 47, , 47707717, Out of Control, 30, 10, 20
+2, 19, Estelle, voider26, 빔엑스, Defense, 19, 9, 9, 7, 1, 0, 1, 0, 3, 5, 42, みゅーき, 47707717, Bunya, 15.5, 7, 8.5
+2, 20, Alex, えすみす, 만천화우, Defense, 20, 9, 9, 7, 1, 0, 1, 0, 2, 7, 45, い力, 47707717, Bunya, 15.5, 7, 8.5
+2, 20, Celine, vaqlas, 여의주, Defense, 20, 9, 9, 7, 1, 0, 1, 0, 4, 4, 73, ハッピー天月, 47707717, Bunya, 15.5, 7, 8.5
+3, 18, Echion, けみ子, 블랙맘바킹-TL, Defense, 16, 2, 2, 1, 0, 0, 1, 0, 0, 2, 66, ハッピー天月, 47707717, OverThrow, 7, 5, 2
+3, 18, Hart, れもんだもん, 원더풀투나잇, Defense, 18, 2, 2, 1, 0, 0, 1, 0, 2, 0, 45, えすみす, 47707717, OverThrow, 7, 5, 2
+3, 18, Vanya, sino1012, 더문, Defense, 18, 2, 2, 1, 0, 0, 1, 0, 0, 2, 42, vaqlas, 47707717, OverThrow, 7, 5, 2
+4, 19, Mai, レイライン, 사복검, Defense, 18, 8, 8, 5, 1, 0, 2, 0, 0, 6, 21, い力, 47707717, チクチク梅, 11.5, 4, 7.5
+4, 19, Katja, ZEKURIP, 인터벤션, Defense, 20, 8, 8, 5, 1, 0, 2, 0, 5, 2, 76, ハッピー天月, 47707717, チクチク梅, 11.5, 4, 7.5
+4, 19, Sua, 無双, 피스브링어-새벽, Defense, 20, 8, 8, 5, 1, 0, 2, 0, 3, 5, 44, みゅーき, 47707717, チクチク梅, 11.5, 4, 7.5
+5, 19, Haze, かとかい, 발키리, Defense, 20, 2, 2, 2, 0, 0, 0, 0, 2, 0, 50, 無双, 47707717, Toddler Gangster, 5, 3, 2
+5, 18, Mai, Prushka, 뇌룡편, Defense, 18, 2, 2, 2, 0, 0, 0, 0, 0, 2, 22, vaqlas, 47707717, Toddler Gangster, 5, 3, 2
+5, 18, Katja, Meltt, 위도우메이커, Defense, 19, 2, 2, 2, 0, 0, 0, 0, 0, 2, 29, みゅーき, 47707717, Toddler Gangster, 5, 3, 2
+6, 17, DebiMarlene, harao, 레바테인, Defense, 17, 5, 5, 1, 2, 0, 2, 0, 1, 4, 23, い力, 47707717, TBD, 6, 2, 4
+6, 17, LiDailin, Hyouya, 단영촌천투, Defense, 17, 5, 5, 1, 2, 0, 2, 0, 3, 2, 31, みゅーき, 47707717, TBD, 6, 2, 4
+6, 17, Bernice, ドンブレ, 폴라리스, Defense, 18, 5, 5, 1, 2, 0, 2, 0, 1, 4, 45, ハッピー天月, 47707717, TBD, 6, 2, 4
+7, 17, Nicky, 鈴木リコリス, 아이언피스트, Defense, 17, 3, 3, 1, 1, 0, 1, 0, 0, 3, 44, voider26, 47707717, 対策委員会, 3.5, 1, 2.5
+7, 17, Laura, berryrabbit, 우라누스, Defense, 16, 3, 3, 1, 1, 0, 1, 0, 2, 0, 41, voider26, 47707717, 対策委員会, 3.5, 1, 2.5
+7, 17, Aiden, MaTfromDota2, 빛의검, Defense, 17, 3, 3, 1, 1, 0, 1, 0, 1, 0, 60, vaqlas, 47707717, 対策委員会, 3.5, 1, 2.5
+8, 17, Jan, LegendOfLeague, 주작자문, Defense, 16, 5, 5, 3, 1, 0, 1, 0, 1, 2, 17, かとかい, 47707717, 松竹梅, 4.5, 0, 4.5
+8, 17, Darko, akihisa, 여의봉, Defense, 17, 5, 5, 3, 1, 0, 1, 0, 2, 3, 22, れもんだもん, 47707717, 松竹梅, 4.5, 0, 4.5
+8, 16, Bernice, 松マキサ, 폴라리스, Defense, 16, 5, 5, 3, 1, 0, 1, 0, 2, 2, 29, かとかい, 47707717, 松竹梅, 4.5, 0, 4.5

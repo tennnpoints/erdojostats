@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Nathapon, 松マキサ, 비전 플렉스-새벽, Defense, 20, 15, 15, 12, 3, 0, 0, 0, 4, 10, 51, , 47711163, 松竹梅, 23.5, 10, 13.5
+1, 19, Garnet, LegendOfLeague, 마법봉, Defense, 19, 15, 15, 12, 3, 0, 0, 0, 5, 9, 31, , 47711163, 松竹梅, 23.5, 10, 13.5
+1, 20, YuMin, akihisa, 더 데스-새벽, Defense, 20, 15, 15, 12, 3, 0, 0, 0, 6, 9, 55, , 47711163, 松竹梅, 23.5, 10, 13.5
+2, 20, Sissela, vaqlas, 생사부, Defense, 20, 7, 7, 4, 0, 0, 3, 0, 3, 3, 38, LegendOfLeague, 47711163, Bunya, 14, 7, 7
+2, 20, Alex, えすみす, 일렉트론블라스터, Defense, 19, 7, 7, 4, 0, 0, 3, 0, 1, 5, 62, akihisa, 47711163, Bunya, 14, 7, 7
+2, 19, Estelle, voider26, 빔엑스, Defense, 19, 7, 7, 4, 0, 0, 3, 0, 3, 2, 35, 松マキサ, 47711163, Bunya, 14, 7, 7
+3, 17, Xiukai, レイライン, 트리아이나, Defense, 16, 3, 3, 0, 1, 0, 2, 0, 0, 2, 28, akihisa, 47711163, チクチク梅, 7.5, 5, 2.5
+3, 18, William, ZEKURIP, 안티오크의수류탄, Hunt, 17, 3, 3, 0, 1, 0, 2, 0, 1, 1, 57, akihisa, 47711163, チクチク梅, 7.5, 5, 2.5
+3, 19, Hisui, 無双, 빛의검, Hunt, 18, 3, 3, 0, 1, 0, 2, 0, 2, 1, 67, akihisa, 47711163, チクチク梅, 7.5, 5, 2.5
+4, 15, Lenox, みゅーき, 뇌룡편, Defense, 13, 6, 6, 1, 2, 0, 3, 0, 2, 4, 22, LegendOfLeague, 47711163, Out of Control, 9, 4, 5
+4, 15, Nadine, ハッピー天月, 골든래쇼보우, Defense, 15, 6, 6, 1, 2, 0, 3, 0, 3, 3, 47, 松マキサ, 47711163, Out of Control, 9, 4, 5
+4, 16, Lenore, い力, 헤븐즈도어, Defense, 16, 6, 6, 1, 2, 0, 3, 0, 1, 4, 36, 松マキサ, 47711163, Out of Control, 9, 4, 5
+5, 15, Echion, けみ子, 블랙맘바킹-TL, Defense, 14, 8, 8, 6, 1, 0, 1, 0, 1, 4, 19, ハッピー天月, 47711163, OverThrow, 10.5, 3, 7.5
+5, 15, Leon, sino1012, 프로스트팽, Defense, 15, 8, 8, 6, 1, 0, 1, 0, 3, 3, 37, LegendOfLeague, 47711163, OverThrow, 10.5, 3, 7.5
+5, 15, Rozzi, れもんだもん, 일렉트론블라스터, Defense, 15, 8, 8, 6, 1, 0, 1, 0, 4, 3, 58, akihisa, 47711163, OverThrow, 10.5, 3, 7.5
+6, 15, Bernice, ドンブレ, 폴라리스, Defense, 15, 5, 5, 0, 1, 0, 4, 0, 4, 0, 49, vaqlas, 47711163, TBD, 6.5, 2, 4.5
+6, 14, LiDailin, Hyouya, 천잠장갑, Defense, 14, 5, 5, 0, 1, 0, 4, 0, 1, 4, 33, vaqlas, 47711163, TBD, 6.5, 2, 4.5
+6, 15, DebiMarlene, harao, 엑스칼리버, Defense, 13, 5, 5, 0, 1, 0, 4, 0, 0, 4, 21, えすみす, 47711163, TBD, 6.5, 2, 4.5
+7, 14, Laura, berryrabbit, 우라누스, Defense, 13, 3, 3, 1, 1, 0, 1, 0, 0, 3, 26, れもんだもん, 47711163, 対策委員会, 3.5, 1, 2.5
+7, 14, Nicky, 鈴木リコリス, 아이언피스트, Defense, 13, 3, 3, 1, 1, 0, 1, 0, 1, 2, 30, けみ子, 47711163, 対策委員会, 3.5, 1, 2.5
+7, 14, Aiden, MaTfromDota2, 모노호시자오, Defense, 13, 3, 3, 1, 1, 0, 1, 0, 2, 0, 30, sino1012, 47711163, 対策委員会, 3.5, 1, 2.5
+8, 12, Katja, Meltt, Tac-50, Defense, 11, 4, 4, 0, 2, 0, 2, 0, 0, 4, 9, sino1012, 47711163, Toddler Gangster, 3, 0, 3
+8, 12, YuMin, かとかい, 은둔자, Defense, 11, 4, 4, 0, 2, 0, 2, 0, 4, 0, 28, れもんだもん, 47711163, Toddler Gangster, 3, 0, 3
+8, 11, Mai, Prushka, 뇌룡편, Defense, 10, 4, 4, 0, 2, 0, 2, 0, 0, 4, 14, れもんだもん, 47711163, Toddler Gangster, 3, 0, 3
