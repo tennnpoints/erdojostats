@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Leni, LegendOfLeague, 알타이르, Defense, 19, 13, 13, 9, 1, 0, 3, 0, 1, 10, 38, , 47835897, 松竹梅, 22.5, 10, 12.5
+1, 20, Hyunwoo, 松マキサ, 주작자문, Defense, 20, 13, 13, 9, 1, 0, 3, 0, 5, 6, 49, , 47835897, 松竹梅, 22.5, 10, 12.5
+1, 20, Kenneth, akihisa, 진홍빛낫, Defense, 20, 13, 13, 9, 1, 0, 3, 0, 7, 3, 83, , 47835897, 松竹梅, 22.5, 10, 12.5
+2, 19, Barbara, 98년생노망주, 알타이르, Defense, 19, 8, 8, 2, 2, 0, 4, 0, 4, 4, 51, akihisa, 47835897, Team Papago, 14, 7, 7
+2, 20, Laura, 세상은둥글게, 혈화구절편-새벽, Defense, 19, 8, 8, 2, 2, 0, 4, 0, 2, 4, 56, akihisa, 47835897, Team Papago, 14, 7, 7
+2, 19, Hisui, 에필로그, 빛의검, Defense, 19, 8, 8, 2, 2, 0, 4, 0, 2, 3, 35, akihisa, 47835897, Team Papago, 14, 7, 7
+3, 20, Rozzi, ZEKURIP, 하이눈, Defense, 20, 8, 8, 4, 4, 0, 0, 0, 5, 2, 64, 松マキサ, 47835897, チクチク梅, 11, 5, 6
+3, 19, Hisui, 無双, 빛의검, Hunt, 19, 8, 8, 4, 4, 0, 0, 0, 3, 3, 79, akihisa, 47835897, チクチク梅, 11, 5, 6
+3, 19, Elena, レイライン, 활빈검, Defense, 18, 8, 8, 4, 4, 0, 0, 0, 0, 4, 45, Exaneko, 47835897, チクチク梅, 11, 5, 6
+4, 19, Elena, 冷害, 활빈검, Defense, 18, 12, 12, 5, 4, 0, 3, 0, 2, 7, 19, ZEKURIP, 47835897, ひやしねこねこ, 14, 4, 10
+4, 19, Irem, catsR, 소이탄, Defense, 19, 12, 12, 5, 4, 0, 3, 0, 4, 7, 56, ZEKURIP, 47835897, ひやしねこねこ, 14, 4, 10
+4, 19, Sua, Exaneko, 둠스데이, Defense, 19, 12, 12, 5, 4, 0, 3, 0, 6, 5, 57, ZEKURIP, 47835897, ひやしねこねこ, 14, 4, 10
+5, 18, Haze, かとかい, 발키리, Defense, 19, 5, 5, 4, 1, 0, 0, 0, 2, 3, 48, 松マキサ, 47835897, Toddler Gangster, 7.5, 3, 4.5
+5, 17, Nadine, Meltt, 대황, Defense, 17, 5, 5, 4, 1, 0, 0, 0, 2, 2, 43, 無双, 47835897, Toddler Gangster, 7.5, 3, 4.5
+5, 17, Mai, Prushka, 뇌룡편, Defense, 16, 5, 5, 4, 1, 0, 0, 0, 1, 3, 12, 松マキサ, 47835897, Toddler Gangster, 7.5, 3, 4.5
+6, 18, Rozzi, れもんだもん, 악켈테, Hunt, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 73, 冷害, 47835897, OverThrow, 2, 2, 0
+6, 17, Leon, sino1012, 빙화현옥수, Defense, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, catsR, 47835897, OverThrow, 2, 2, 0
+6, 18, Hisui, けみ子, 빛의검, Defense, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, Exaneko, 47835897, OverThrow, 2, 2, 0
+7, 12, Aiden, wowaka, 모노호시자오, Defense, 10, 2, 2, 0, 1, 0, 1, 0, 2, 0, 21, Prushka, 47835897, Etranger, 2.5, 1, 1.5
+7, 11, Jackie, ChainsawLady, 하르페, Hunt, 9, 2, 2, 0, 1, 0, 1, 0, 0, 1, 42, Meltt, 47835897, Etranger, 2.5, 1, 1.5
+7, 11, Bianca, chillout, 더스타, Defense, 9, 2, 2, 0, 1, 0, 1, 0, 0, 1, 26, かとかい, 47835897, Etranger, 2.5, 1, 1.5

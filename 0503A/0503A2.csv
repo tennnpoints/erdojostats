@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Katja, 松マキサ, 위도우 메이커-진홍, Defense, 20, 12, 12, 8, 1, 0, 3, 0, 3, 6, 81, , 47834385, 松竹梅, 21.5, 10, 11.5
+1, 20, Markus, LegendOfLeague, 반고부, Defense, 20, 12, 12, 8, 1, 0, 3, 0, 4, 5, 51, , 47834385, 松竹梅, 21.5, 10, 11.5
+1, 20, YuMin, akihisa, 더 데스-새벽, Defense, 20, 12, 12, 8, 1, 0, 3, 0, 5, 4, 66, , 47834385, 松竹梅, 21.5, 10, 11.5
+2, 20, Sua, Exaneko, 둠스데이, Defense, 20, 9, 9, 7, 2, 0, 0, 0, 6, 2, 65, akihisa, 47834385, ひやしねこねこ, 15, 7, 8
+2, 20, Irem, catsR, 여의주, Defense, 20, 9, 9, 7, 2, 0, 0, 0, 3, 3, 93, akihisa, 47834385, ひやしねこねこ, 15, 7, 8
+2, 20, Elena, 冷害, 활빈검, Defense, 19, 9, 9, 7, 2, 0, 0, 0, 0, 7, 45, LegendOfLeague, 47834385, ひやしねこねこ, 15, 7, 8
+3, 20, Camilo, wowaka, 노스페라투-진홍, Defense, 20, 11, 11, 7, 0, 0, 4, 0, 4, 6, 60, Exaneko, 47834385, Etranger, 16, 5, 11
+3, 19, Martina, chillout, 카메라캐논, Defense, 20, 11, 11, 7, 0, 0, 4, 0, 5, 5, 40, Exaneko, 47834385, Etranger, 16, 5, 11
+3, 20, Jackie, ChainsawLady, 하르페, Defense, 19, 11, 11, 7, 0, 0, 4, 0, 2, 4, 45, Exaneko, 47834385, Etranger, 16, 5, 11
+4, 18, YuMin, けみ子, 더스타, Defense, 17, 6, 6, 3, 1, 0, 2, 0, 1, 2, 51, LegendOfLeague, 47834385, OverThrow, 9.5, 4, 5.5
+4, 19, Isol, sino1012, 스탬피드, Defense, 19, 6, 6, 3, 1, 0, 2, 0, 3, 1, 42, 松マキサ, 47834385, OverThrow, 9.5, 4, 5.5
+4, 18, Mai, れもんだもん, 글레이프니르, Defense, 15, 6, 6, 3, 1, 0, 2, 0, 2, 2, 22, LegendOfLeague, 47834385, OverThrow, 9.5, 4, 5.5
+5, 19, Adriana, 98년생노망주, 루테늄구슬, Defense, 19, 3, 3, 2, 1, 0, 0, 0, 0, 3, 44, catsR, 47834385, Team Papago, 5.5, 3, 2.5
+5, 19, DebiMarlene, 세상은둥글게, 레바테인, Defense, 18, 3, 3, 2, 1, 0, 0, 0, 2, 1, 44, chillout, 47834385, Team Papago, 5.5, 3, 2.5
+5, 18, Estelle, 에필로그, 빔엑스, Defense, 18, 3, 3, 2, 1, 0, 0, 0, 1, 2, 33, chillout, 47834385, Team Papago, 5.5, 3, 2.5
+6, 18, Justyna, かとかい, 팬텀 볼트, Defense, 18, 7, 7, 3, 4, 0, 0, 0, 2, 5, 45, ChainsawLady, 47834385, Toddler Gangster, 7, 2, 5
+6, 17, Katja, Meltt, Tac-50, Defense, 17, 7, 7, 3, 4, 0, 0, 0, 3, 3, 23, ChainsawLady, 47834385, Toddler Gangster, 7, 2, 5
+6, 18, Leon, Prushka, 마이쏙, Defense, 17, 7, 7, 3, 4, 0, 0, 0, 2, 4, 22, LegendOfLeague, 47834385, Toddler Gangster, 7, 2, 5
+7, 16, Chloe, ZEKURIP, 미치광이왕의카드, Defense, 15, 6, 6, 0, 3, 0, 3, 0, 3, 2, 30, Prushka, 47834385, チクチク梅, 5.5, 1, 4.5
+7, 16, Alex, レイライン, 플레솃, Defense, 13, 6, 6, 0, 3, 0, 3, 0, 0, 2, 21, かとかい, 47834385, チクチク梅, 5.5, 1, 4.5
+7, 16, Sua, 無双, 낭아봉, Defense, 15, 6, 6, 0, 3, 0, 3, 0, 3, 3, 35, Meltt, 47834385, チクチク梅, 5.5, 1, 4.5
