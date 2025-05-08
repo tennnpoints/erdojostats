@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Hyejin, 수면실패, 페일노트, Defense, 19, 7, 9, 5, 2, 0, 0, 0, 0, 4, 73, , 47994687, Sun, 16, 10, 6
+1, 20, Alonso, 남자답게굴어라, 빙화현옥수, Defense, 18, 7, 9, 5, 2, 0, 0, 0, 2, 4, 12, , 47994687, Sun, 16, 10, 6
+1, 20, Chloe, Yevgeny, 수다르사나, Defense, 20, 7, 9, 5, 2, 0, 0, 0, 5, 2, 56, , 47994687, Sun, 16, 10, 6
+2, 20, Elena, レイライン, 아르고스의눈, Defense, 19, 11, 11, 10, 0, 0, 1, 0, 1, 9, 27, Yevgeny, 47994687, チクチク梅, 18, 7, 11
+2, 20, Rozzi, ZEKURIP, 하이눈, Defense, 20, 11, 11, 10, 0, 0, 1, 0, 6, 2, 66, Yevgeny, 47994687, チクチク梅, 18, 7, 11
+2, 20, Hisui, 無双, 빛의검, Defense, 20, 11, 11, 10, 0, 0, 1, 0, 4, 7, 74, , 47994687, チクチク梅, 18, 7, 11
+3, 18, Estelle, みゅーき, 낙원의낫, Defense, 18, 12, 12, 8, 2, 0, 2, 0, 2, 5, 26, 無双, 47994687, Out of Control, 16, 5, 11
+3, 19, Hart, ハッピー天月, 프리버드, Defense, 20, 12, 12, 8, 2, 0, 2, 0, 7, 4, 73, ZEKURIP, 47994687, Out of Control, 16, 5, 11
+3, 20, Lyanh, thato, 비색단검, Defense, 20, 12, 12, 8, 2, 0, 2, 0, 3, 7, 59, ZEKURIP, 47994687, Out of Control, 16, 5, 11
+4, 19, Xiukai, Prushka, 방천화극, Defense, 18, 7, 7, 4, 2, 0, 1, 0, 0, 7, 20, , 47994687, Toddler Gangster, 10, 4, 6
+4, 19, Haze, かとかい, 발키리, Defense, 20, 7, 7, 4, 2, 0, 1, 0, 3, 3, 87, Yevgeny, 47994687, Toddler Gangster, 10, 4, 6
+4, 18, Nadine, Meltt, 아르기로톡소스, Defense, 19, 7, 7, 4, 2, 0, 1, 0, 4, 2, 46, ZEKURIP, 47994687, Toddler Gangster, 10, 4, 6
+5, 19, Chloe, Alek, 수다르사나, Defense, 19, 12, 12, 6, 2, 0, 4, 0, 3, 6, 47, かとかい, 47994687, Forsen, 14, 3, 11
+5, 19, Markus, Tnsh, 반고부, Defense, 18, 12, 12, 6, 2, 0, 4, 0, 3, 6, 24, ハッピー天月, 47994687, Forsen, 14, 3, 11
+5, 19, Irem, Gyoo, 여의주, Defense, 19, 12, 12, 6, 2, 0, 4, 0, 6, 6, 52, ハッピー天月, 47994687, Forsen, 14, 3, 11
+6, 18, Echion, けみ子, 블랙맘바킹-TL, Defense, 18, 5, 5, 2, 2, 0, 1, 0, 0, 5, 33, thato, 47994687, OverThrow, 6, 2, 4
+6, 18, Nathapon, sino1012, 울트라비전, Defense, 19, 5, 5, 2, 2, 0, 1, 0, 2, 2, 30, ハッピー天月, 47994687, OverThrow, 6, 2, 4
+6, 18, Rozzi, れもんだもん, 일렉트론블라스터, Defense, 18, 5, 5, 2, 2, 0, 1, 0, 3, 2, 66, thato, 47994687, OverThrow, 6, 2, 4
+7, 16, Elena, 冷害, 활빈검, Defense, 15, 1, 1, 0, 1, 0, 0, 0, 0, 1, 38, ZEKURIP, 47994687, Toddler Ghost, 1.5, 1, 0.5
+7, 15, Hart, CiELzzz, 틴스피릿, Defense, 15, 1, 1, 0, 1, 0, 0, 0, 0, 1, 30, 無双, 47994687, Toddler Ghost, 1.5, 1, 0.5
+7, 16, Darko, レヴナ, 여의봉, Defense, 15, 1, 1, 0, 1, 0, 0, 0, 1, 0, 27, ZEKURIP, 47994687, Toddler Ghost, 1.5, 1, 0.5
+8, 10, Estelle, Flow, 빔엑스, Defense, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, Meltt, 47994687, 好きな素材発表ドラゴン, 0, 0, 0
+8, 10, Adina, yoitye, 더스타, Hunt, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, レイライン, 47994687, 好きな素材発表ドラゴン, 0, 0, 0
+8, 10, Charlotte, 義妹, 운명의수레바퀴, Defense, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, Tnsh, 47994687, 好きな素材発表ドラゴン, 0, 0, 0

@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Leon, Tnsh, 마이쏙, Defense, 19, 16, 16, 7, 3, 0, 6, 0, 5, 10, 23, , 47996157, Forsen, 24.5, 10, 14.5
+1, 19, Adina, Gyoo, 더문, Defense, 20, 16, 16, 7, 3, 0, 6, 0, 3, 12, 61, , 47996157, Forsen, 24.5, 10, 14.5
+1, 19, Aya, Alek, 엔데버AX, Defense, 20, 16, 16, 7, 3, 0, 6, 0, 8, 7, 56, , 47996157, Forsen, 24.5, 10, 14.5
+2, 20, Hisui, 無双, 다인슬라이프, Defense, 20, 16, 16, 8, 2, 0, 6, 0, 9, 5, 68, Alek, 47996157, チクチク梅, 22, 7, 15
+2, 19, Markus, レイライン, 반고부, Defense, 19, 16, 16, 8, 2, 0, 6, 0, 4, 9, 34, Gyoo, 47996157, チクチク梅, 22, 7, 15
+2, 19, Leni, ZEKURIP, 스탬피드, Defense, 19, 16, 16, 8, 2, 0, 6, 0, 3, 12, 24, Alek, 47996157, チクチク梅, 22, 7, 15
+3, 19, Hisui, けみ子, 다인슬라이프, Defense, 20, 11, 11, 8, 2, 0, 1, 0, 2, 7, 75, 無双, 47996157, OverThrow, 15, 5, 10
+3, 20, Rozzi, れもんだもん, 하이눈, Defense, 20, 11, 11, 8, 2, 0, 1, 0, 4, 5, 67, レイライン, 47996157, OverThrow, 15, 5, 10
+3, 20, Leon, sino1012, 프로스트팽, Defense, 19, 11, 11, 8, 2, 0, 1, 0, 5, 4, 38, Alek, 47996157, OverThrow, 15, 5, 10
+4, 19, Justyna, かとかい, 팬텀 볼트, Defense, 20, 8, 8, 4, 2, 0, 2, 0, 3, 3, 61, ZEKURIP, 47996157, Toddler Gangster, 11, 4, 7
+4, 18, Leon, Prushka, 흑요석짓테, Defense, 17, 8, 8, 4, 2, 0, 2, 0, 3, 5, 9, 無双, 47996157, Toddler Gangster, 11, 4, 7
+4, 19, Katja, Meltt, 인터벤션, Defense, 20, 8, 8, 4, 2, 0, 2, 0, 2, 4, 49, ZEKURIP, 47996157, Toddler Gangster, 11, 4, 7
+5, 20, Hart, ハッピー天月, 프리버드, Defense, 20, 7, 7, 5, 0, 0, 2, 0, 5, 1, 54, sino1012, 47996157, Out of Control, 10, 3, 7
+5, 19, Lyanh, thato, 카른웬난, Defense, 19, 7, 7, 5, 0, 0, 2, 0, 0, 5, 61, sino1012, 47996157, Out of Control, 10, 3, 7
+5, 19, Echion, い力, 블랙맘바킹-TL, Defense, 20, 7, 7, 5, 0, 0, 2, 0, 2, 4, 43, sino1012, 47996157, Out of Control, 10, 3, 7
+6, 16, Johann, 남자답게굴어라, 절제, Defense, 15, 5, 5, 3, 0, 0, 2, 0, 0, 5, 17, れもんだもん, 47996157, Sun, 7, 2, 5
+6, 18, Chiara, 수면실패, 아르고스의눈, Defense, 17, 5, 5, 3, 0, 0, 2, 0, 2, 2, 42, れもんだもん, 47996157, Sun, 7, 2, 5
+6, 17, Chloe, Yevgeny, 수다르사나, Hunt, 18, 5, 5, 3, 0, 0, 2, 0, 3, 2, 65, れもんだもん, 47996157, Sun, 7, 2, 5
+7, 16, Tia, Flow, 터럭손방망이, Defense, 15, 1, 1, 0, 1, 0, 0, 0, 1, 0, 34, かとかい, 47996157, 好きな素材発表ドラゴン, 1.5, 1, 0.5
+7, 17, DebiMarlene, yoitye, 레바테인, Defense, 16, 1, 1, 0, 1, 0, 0, 0, 0, 1, 26, Meltt, 47996157, 好きな素材発表ドラゴン, 1.5, 1, 0.5
+7, 16, Charlotte, 義妹, 운명의수레바퀴, Defense, 14, 1, 1, 0, 1, 0, 0, 0, 0, 1, 16, かとかい, 47996157, 好きな素材発表ドラゴン, 1.5, 1, 0.5
+8, 13, Markus, mukkoro, 산타무에르떼, Defense, 11, 5, 5, 0, 3, 0, 2, 0, 1, 1, 10, Prushka, 47996157, Toddler Ghost, 3.5, 0, 3.5
+8, 13, Isol, 冷害, 아그니, Defense, 13, 5, 5, 0, 3, 0, 2, 0, 1, 2, 41, ハッピー天月, 47996157, Toddler Ghost, 3.5, 0, 3.5
+8, 13, Nicky, レヴナ, 아이언피스트, Defense, 13, 5, 5, 0, 3, 0, 2, 0, 3, 1, 19, い力, 47996157, Toddler Ghost, 3.5, 0, 3.5

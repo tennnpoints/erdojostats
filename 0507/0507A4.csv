@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Lyanh, thato, 소울리퍼, Defense, 20, 19, 19, 19, 0, 0, 0, 0, 6, 7, 49, , 47997685, Out of Control, 29, 10, 19
+1, 20, Lenore, い力, 헤븐즈도어, Defense, 20, 19, 19, 19, 0, 0, 0, 0, 6, 11, 60, , 47997685, Out of Control, 29, 10, 19
+1, 20, Chiara, ハッピー天月, 미스틸테인, Defense, 20, 19, 19, 19, 0, 0, 0, 0, 7, 11, 30, , 47997685, Out of Control, 29, 10, 19
+2, 20, Emma, レイライン, 더문, Defense, 19, 6, 6, 1, 2, 0, 3, 0, 1, 2, 43, thato, 47997685, チクチク梅, 12, 7, 5
+2, 20, Katja, ZEKURIP, 인터벤션, Defense, 20, 6, 6, 1, 2, 0, 3, 0, 3, 3, 67, い力, 47997685, チクチク梅, 12, 7, 5
+2, 20, Sua, 無双, 마법봉, Defense, 19, 6, 6, 1, 2, 0, 3, 0, 2, 4, 44, ハッピー天月, 47997685, チクチク梅, 12, 7, 5
+3, 19, Garnet, 義妹, 스파이의우산, Defense, 19, 5, 5, 4, 0, 0, 1, 0, 2, 3, 26, thato, 47997685, 好きな素材発表ドラゴン, 10, 5, 5
+3, 20, Adina, yoitye, 더문, Defense, 20, 5, 5, 4, 0, 0, 1, 0, 2, 3, 76, ハッピー天月, 47997685, 好きな素材発表ドラゴン, 10, 5, 5
+3, 19, Tia, Flow, 터럭손방망이, Defense, 19, 5, 5, 4, 0, 0, 1, 0, 1, 4, 54, ハッピー天月, 47997685, 好きな素材発表ドラゴン, 10, 5, 5
+4, 19, Chloe, Yevgeny, 수다르사나, Defense, 19, 11, 11, 4, 2, 0, 5, 0, 7, 4, 43, thato, 47997685, Sun, 14, 4, 10
+4, 19, Hyejin, 수면실패, 페일노트, Defense, 19, 11, 11, 4, 2, 0, 5, 0, 4, 5, 55, ハッピー天月, 47997685, Sun, 14, 4, 10
+4, 18, Alonso, 남자답게굴어라, 빙화현옥수, Defense, 17, 11, 11, 4, 2, 0, 5, 0, 0, 7, 12, Flow, 47997685, Sun, 14, 4, 10
+5, 17, Hisui, けみ子, 모노호시자오, Defense, 16, 9, 9, 3, 3, 0, 3, 0, 3, 4, 32, yoitye, 47997685, OverThrow, 10.5, 3, 7.5
+5, 17, Hart, れもんだもん, 새티스팩션, Defense, 17, 9, 9, 3, 3, 0, 3, 0, 1, 6, 32, yoitye, 47997685, OverThrow, 10.5, 3, 7.5
+5, 18, Vanya, sino1012, 더문, Defense, 18, 9, 9, 3, 3, 0, 3, 0, 5, 1, 38, 義妹, 47997685, OverThrow, 10.5, 3, 7.5
+6, 17, Darko, Tnsh, 여의봉, Defense, 16, 8, 8, 1, 4, 0, 3, 0, 1, 4, 24, sino1012, 47997685, Forsen, 8, 2, 6
+6, 18, Alex, Alek, 호푸어드, Defense, 18, 8, 8, 1, 4, 0, 3, 0, 5, 3, 40, thato, 47997685, Forsen, 8, 2, 6
+6, 18, YuMin, Gyoo, 여제, Defense, 18, 8, 8, 1, 4, 0, 3, 0, 2, 5, 60, sino1012, 47997685, Forsen, 8, 2, 6
+7, 17, Nadine, Meltt, 아르기로톡소스, Defense, 16, 3, 3, 0, 3, 0, 0, 0, 2, 1, 27, 수면실패, 47997685, Toddler Gangster, 2.5, 1, 1.5
+7, 17, Haze, かとかい, 발키리, Defense, 16, 3, 3, 0, 3, 0, 0, 0, 0, 1, 39, ハッピー天月, 47997685, Toddler Gangster, 2.5, 1, 1.5
+7, 17, Xiukai, Prushka, 방천화극, Defense, 15, 3, 3, 0, 3, 0, 0, 0, 1, 2, 23, い力, 47997685, Toddler Gangster, 2.5, 1, 1.5
+8, 17, Markus, mukkoro, 반고부, Defense, 15, 6, 6, 1, 3, 0, 2, 0, 3, 3, 29, thato, 47997685, Toddler Ghost, 4.5, 0, 4.5
+8, 17, Isol, 冷害, 엔데버AX, Hunt, 17, 6, 6, 1, 3, 0, 2, 0, 3, 1, 61, い力, 47997685, Toddler Ghost, 4.5, 0, 4.5
+8, 16, Nicky, レヴナ, 아이언피스트, Defense, 15, 6, 6, 1, 3, 0, 2, 0, 0, 3, 29, thato, 47997685, Toddler Ghost, 4.5, 0, 4.5

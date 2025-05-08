@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Leon, Tnsh, 흑요석짓테, Defense, 19, 27, 27, 20, 6, 0, 1, 0, 9, 17, 31, , 47992756, Forsen, 34, 10, 24
+1, 20, Aya, Alek, 헬파이어-진홍, Defense, 20, 27, 27, 20, 6, 0, 1, 0, 11, 13, 46, , 47992756, Forsen, 34, 10, 24
+1, 20, Arda, Gyoo, 더문, Defense, 20, 27, 27, 20, 6, 0, 1, 0, 7, 17, 71, , 47992756, Forsen, 34, 10, 24
+2, 19, Alonso, 남자답게굴어라, 빙화현옥수, Defense, 18, 12, 12, 6, 4, 0, 1, 1, 1, 6, 13, Alek, 47992756, Sun, 17, 7, 10
+2, 20, Hyejin, 수면실패, 페일노트, Defense, 20, 12, 12, 6, 4, 0, 1, 1, 5, 4, 74, Tnsh, 47992756, Sun, 17, 7, 10
+2, 20, Chloe, Yevgeny, 흑련비표-진홍, Defense, 20, 12, 12, 6, 4, 0, 1, 1, 6, 6, 60, Gyoo, 47992756, Sun, 17, 7, 10
+3, 19, Darko, レヴナ, 여의봉, Defense, 18, 4, 4, 1, 1, 0, 2, 0, 1, 3, 38, Yevgeny, 47992756, Toddler Ghost, 8.5, 5, 3.5
+3, 19, Elena, 冷害, 활빈검, Defense, 18, 4, 4, 1, 1, 0, 2, 0, 1, 2, 37, Alek, 47992756, Toddler Ghost, 8.5, 5, 3.5
+3, 19, Hart, CiELzzz, 프리버드, Defense, 18, 4, 4, 1, 1, 0, 2, 0, 2, 2, 52, 남자답게굴어라, 47992756, Toddler Ghost, 8.5, 5, 3.5
+4, 19, Justyna, かとかい, 팬텀 볼트, Defense, 19, 6, 6, 0, 4, 0, 2, 0, 2, 3, 54, Tnsh, 47992756, Toddler Gangster, 8, 4, 4
+4, 19, Leon, Prushka, 흑요석짓테, Defense, 18, 6, 6, 0, 4, 0, 2, 0, 3, 3, 27, Alek, 47992756, Toddler Gangster, 8, 4, 4
+4, 18, Katja, Meltt, 인터벤션, Defense, 18, 6, 6, 0, 4, 0, 2, 0, 1, 4, 54, Gyoo, 47992756, Toddler Gangster, 8, 4, 4
+5, 19, Rozzi, ZEKURIP, 악켈테, Defense, 19, 3, 3, 0, 2, 0, 1, 0, 2, 0, 40, 수면실패, 47992756, チクチク梅, 5, 3, 2
+5, 19, Darko, レイライン, 구원의여신상, Defense, 17, 3, 3, 0, 2, 0, 1, 0, 0, 2, 30, 수면실패, 47992756, チクチク梅, 5, 3, 2
+5, 19, Sua, 無双, 마법봉, Defense, 19, 3, 3, 0, 2, 0, 1, 0, 1, 2, 53, Yevgeny, 47992756, チクチク梅, 5, 3, 2
+6, 15, Adina, yoitye, 더스타, Hunt, 15, 2, 2, 0, 0, 0, 2, 0, 1, 1, 66, Alek, 47992756, 好きな素材発表ドラゴン, 4, 2, 2
+6, 14, Estelle, Flow, 빔엑스, Defense, 13, 2, 2, 0, 0, 0, 2, 0, 1, 0, 25, Alek, 47992756, 好きな素材発表ドラゴン, 4, 2, 2
+6, 13, Garnet, 義妹, 스파이의우산, Defense, 13, 2, 2, 0, 0, 0, 2, 0, 0, 1, 16, Gyoo, 47992756, 好きな素材発表ドラゴン, 4, 2, 2
+7, 11, Hisui, けみ子, 모노호시자오, Defense, 9, 6, 6, 2, 4, 0, 0, 0, 2, 2, 19, Tnsh, 47992756, OverThrow, 5, 1, 4
+7, 11, Leon, sino1012, 빙화현옥수, Defense, 9, 6, 6, 2, 4, 0, 0, 0, 1, 2, 20, Alek, 47992756, OverThrow, 5, 1, 4
+7, 11, Rozzi, れもんだもん, 일렉트론블라스터, Defense, 10, 6, 6, 2, 4, 0, 0, 0, 3, 0, 17, Tnsh, 47992756, OverThrow, 5, 1, 4
+8, 9, Lyanh, thato, 카른웬난, Defense, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, れもんだもん, 47992756, Out of Control, 0, 0, 0
+8, 10, Estelle, みゅーき, 빔엑스, Defense, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, れもんだもん, 47992756, Out of Control, 0, 0, 0
+8, 10, Hart, ハッピー天月, 새티스팩션, Defense, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, Gyoo, 47992756, Out of Control, 0, 0, 0
