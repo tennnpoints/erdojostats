@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, YuMin, akihisa, 여제, Defense, 19, 12, 15, 5, 4, 0, 3, 0, 2, 8, 54, , 48096950, 松竹梅, 20, 10, 10
+1, 20, Nathapon, 松マキサ, 비전 플렉스-새벽, Defense, 19, 12, 15, 5, 4, 0, 3, 0, 4, 5, 41, , 48096950, 松竹梅, 20, 10, 10
+1, 20, Garnet, LegendOfLeague, 마법봉, Defense, 19, 12, 15, 5, 4, 0, 3, 0, 6, 4, 33, , 48096950, 松竹梅, 20, 10, 10
+2, 19, Sissela, vaqlas, 생사부, Defense, 20, 9, 9, 5, 3, 0, 1, 0, 4, 3, 45, LegendOfLeague, 48096950, Bunya, 14.5, 7, 7.5
+2, 19, Isol, えすみす, 엔데버AX, Defense, 19, 9, 9, 5, 3, 0, 1, 0, 4, 3, 37, akihisa, 48096950, Bunya, 14.5, 7, 7.5
+2, 19, Estelle, voider26, 빔엑스, Defense, 18, 9, 9, 5, 3, 0, 1, 0, 1, 7, 27, LegendOfLeague, 48096950, Bunya, 14.5, 7, 7.5
+3, 20, Leon, sino1012, 프로스트팽, Defense, 19, 10, 10, 6, 1, 0, 3, 0, 4, 6, 52, えすみす, 48096950, OverThrow, 14.5, 5, 9.5
+3, 19, Sua, Exaneko, 둠스데이, Defense, 19, 10, 10, 6, 1, 0, 3, 0, 4, 4, 82, syon1222, 48096950, OverThrow, 14.5, 5, 9.5
+3, 19, Hart, れもんだもん, 하트 브레이커-진홍, Defense, 19, 10, 10, 6, 1, 0, 3, 0, 2, 6, 59, syon1222, 48096950, OverThrow, 14.5, 5, 9.5
+4, 19, Vanya, きまき, 여제, Defense, 19, 7, 7, 5, 0, 0, 2, 0, 1, 5, 65, vaqlas, 48096950, Brainstorm, 11, 4, 7
+4, 19, Elena, コレマサ, 미스틸테인, Defense, 19, 7, 7, 5, 0, 0, 2, 0, 1, 5, 26, , 48096950, Brainstorm, 11, 4, 7
+4, 20, DebiMarlene, syon1222, 레바테인, Defense, 19, 7, 7, 5, 0, 0, 2, 0, 5, 1, 37, , 48096950, Brainstorm, 11, 4, 7
+5, 17, Leni, CappuChino, 스탬피드, Defense, 17, 10, 10, 3, 3, 0, 3, 1, 2, 8, 20, , 48096950, Forsen, 11.5, 3, 8.5
+5, 18, Alex, Alek, 일렉트론블라스터, Defense, 18, 10, 10, 3, 3, 0, 3, 1, 4, 6, 34, LegendOfLeague, 48096950, Forsen, 11.5, 3, 8.5
+5, 18, Sua, Gyoo, 낭아봉, Defense, 19, 10, 10, 3, 3, 0, 3, 1, 4, 5, 56, LegendOfLeague, 48096950, Forsen, 11.5, 3, 8.5
+6, 18, Hisui, 無双, 빛의검, Defense, 18, 7, 7, 2, 3, 0, 2, 0, 6, 1, 56, Exaneko, 48096950, チクチク梅, 7.5, 2, 5.5
+6, 18, Charlotte, レイライン, 운명의수레바퀴, Defense, 15, 7, 7, 2, 3, 0, 2, 0, 0, 5, 11, れもんだもん, 48096950, チクチク梅, 7.5, 2, 5.5
+6, 18, Markus, ZEKURIP, 반고부, Defense, 17, 7, 7, 2, 3, 0, 2, 0, 1, 5, 36, sino1012, 48096950, チクチク梅, 7.5, 2, 5.5
+7, 15, Martina, chillout, 카메라캐논, Defense, 15, 7, 7, 3, 0, 0, 4, 0, 1, 5, 10, syon1222, 48096950, Etranger, 8, 1, 7
+7, 14, Nicky, ChainsawLady, 빙화현옥수, Defense, 12, 7, 7, 3, 0, 0, 4, 0, 1, 5, 22, vaqlas, 48096950, Etranger, 8, 1, 7
+7, 16, Aiden, wowaka, 빛의검, Defense, 14, 7, 7, 3, 0, 0, 4, 0, 5, 0, 39, vaqlas, 48096950, Etranger, 8, 1, 7
+8, 14, Katja, ななしの, 폴라리스, Defense, 13, 1, 1, 0, 0, 0, 1, 0, 0, 1, 29, chillout, 48096950, J2K, 1, 0, 1
+8, 14, Sua, mystica, 둠스데이, Hunt, 14, 1, 1, 0, 0, 0, 1, 0, 1, 0, 43, wowaka, 48096950, J2K, 1, 0, 1
+8, 15, DebiMarlene, Natuki, 레바테인, Defense, 14, 1, 1, 0, 0, 0, 1, 0, 0, 1, 28, wowaka, 48096950, J2K, 1, 0, 1

@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Hisui, 無双, 다인슬라이프, Defense, 20, 14, 14, 9, 2, 0, 3, 0, 7, 6, 80, , 48100807, チクチク梅, 23, 10, 13
+1, 20, Charlotte, レイライン, 더썬, Defense, 19, 14, 14, 9, 2, 0, 3, 0, 1, 12, 11, , 48100807, チクチク梅, 23, 10, 13
+1, 20, Darko, ZEKURIP, 여의봉, Defense, 20, 14, 14, 9, 2, 0, 3, 0, 6, 7, 27, , 48100807, チクチク梅, 23, 10, 13
+2, 20, Arda, Gyoo, 더문, Defense, 20, 14, 14, 8, 4, 0, 2, 0, 4, 9, 64, ZEKURIP, 48100807, Forsen, 19, 7, 12
+2, 20, Aya, Alek, 엔데버AX, Defense, 20, 14, 14, 8, 4, 0, 2, 0, 8, 5, 48, レイライン, 48100807, Forsen, 19, 7, 12
+2, 20, Leni, CappuChino, 엘레강스, Defense, 19, 14, 14, 8, 4, 0, 2, 0, 2, 12, 21, 無双, 48100807, Forsen, 19, 7, 12
+3, 20, Hyunwoo, 松マキサ, 주작자문, Defense, 20, 9, 9, 6, 3, 0, 0, 0, 3, 4, 66, 無双, 48100807, 松竹梅, 12.5, 5, 7.5
+3, 20, Leni, LegendOfLeague, 알타이르, Defense, 18, 9, 9, 6, 3, 0, 0, 0, 0, 8, 53, Alek, 48100807, 松竹梅, 12.5, 5, 7.5
+3, 20, Istvan, akihisa, 롱기누스의 창-진홍, Defense, 20, 9, 9, 6, 3, 0, 0, 0, 6, 1, 60, ZEKURIP, 48100807, 松竹梅, 12.5, 5, 7.5
+4, 18, Aya, えすみす, 알타이르, Defense, 18, 12, 12, 6, 4, 0, 2, 0, 4, 2, 39, Alek, 48100807, Bunya, 14, 4, 10
+4, 18, Irem, catsR, 점착폭탄, Defense, 17, 12, 12, 6, 4, 0, 2, 0, 7, 4, 31, Gyoo, 48100807, Bunya, 14, 4, 10
+4, 18, LiDailin, voider26, 주작자문, Defense, 17, 12, 12, 6, 4, 0, 2, 0, 1, 6, 26, Gyoo, 48100807, Bunya, 14, 4, 10
+5, 18, Sua, Exaneko, 둠스데이, Defense, 16, 1, 1, 0, 1, 0, 0, 0, 0, 0, 72, akihisa, 48100807, OverThrow, 3.5, 3, 0.5
+5, 17, Leon, sino1012, 프로스트팽, Defense, 15, 1, 1, 0, 1, 0, 0, 0, 1, 0, 39, えすみす, 48100807, OverThrow, 3.5, 3, 0.5
+5, 17, Hart, れもんだもん, 프리버드, Hunt, 16, 1, 1, 0, 1, 0, 0, 0, 0, 1, 55, catsR, 48100807, OverThrow, 3.5, 3, 0.5
+6, 17, Sua, mystica, 둠스데이, Defense, 17, 1, 1, 0, 1, 0, 0, 0, 0, 0, 60, Gyoo, 48100807, J2K, 2.5, 2, 0.5
+6, 17, Katja, ななしの, 안드로메다, Defense, 17, 1, 1, 0, 1, 0, 0, 0, 0, 1, 53, Alek, 48100807, J2K, 2.5, 2, 0.5
+6, 17, DebiMarlene, Natuki, 레바테인, Defense, 16, 1, 1, 0, 1, 0, 0, 0, 1, 0, 31, Alek, 48100807, J2K, 2.5, 2, 0.5
+7, 12, DebiMarlene, syon1222, 모노호시자오, Defense, 9, 2, 2, 0, 2, 0, 0, 0, 0, 1, 17, catsR, 48100807, Brainstorm, 2, 1, 1
+7, 12, Irem, Dato2, 점착폭탄, Defense, 10, 2, 2, 0, 2, 0, 0, 0, 2, 0, 28, voider26, 48100807, Brainstorm, 2, 1, 1
+7, 12, Elena, コレマサ, 활빈검, Defense, 9, 2, 2, 0, 2, 0, 0, 0, 0, 0, 27, えすみす, 48100807, Brainstorm, 2, 1, 1
+8, 10, Camilo, wowaka, 듀랜달Mk2, Defense, 8, 3, 3, 0, 1, 0, 2, 0, 1, 2, 10, akihisa, 48100807, Etranger, 2.5, 0, 2.5
+8, 9, Martina, chillout, 컴파운드사이트, Defense, 8, 3, 3, 0, 1, 0, 2, 0, 2, 0, 13, 松マキサ, 48100807, Etranger, 2.5, 0, 2.5
+8, 10, Nicky, ChainsawLady, 디바인피스트, Defense, 7, 3, 3, 0, 1, 0, 2, 0, 0, 3, 13, akihisa, 48100807, Etranger, 2.5, 0, 2.5

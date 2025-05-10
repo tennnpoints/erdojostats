@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Katja, 松マキサ, 안드로메다, Defense, 20, 19, 20, 3, 6, 0, 10, 0, 7, 10, 61, , 48099073, 松竹梅, 26, 10, 16
+1, 19, Markus, LegendOfLeague, 반고부, Defense, 19, 19, 20, 3, 6, 0, 10, 0, 3, 15, 17, , 48099073, 松竹梅, 26, 10, 16
+1, 19, YuMin, akihisa, 더문, Defense, 19, 19, 20, 3, 6, 0, 10, 0, 9, 6, 39, , 48099073, 松竹梅, 26, 10, 16
+2, 19, Charlotte, レイライン, 더썬, Defense, 18, 21, 21, 10, 5, 0, 6, 0, 5, 15, 14, akihisa, 48099073, チクチク梅, 25.5, 7, 18.5
+2, 19, Darko, ZEKURIP, 여의봉, Defense, 19, 21, 21, 10, 5, 0, 6, 0, 7, 10, 25, akihisa, 48099073, チクチク梅, 25.5, 7, 18.5
+2, 19, Hisui, 無双, 빛의검, Defense, 20, 21, 21, 10, 5, 0, 6, 0, 9, 8, 62, LegendOfLeague, 48099073, チクチク梅, 25.5, 7, 18.5
+3, 19, Isol, えすみす, 엔데버AX, Defense, 19, 6, 6, 4, 0, 0, 2, 0, 1, 2, 46, レイライン, 48099073, Bunya, 11, 5, 6
+3, 20, Celine, vaqlas, 여의주, Defense, 19, 6, 6, 4, 0, 0, 2, 0, 1, 5, 37, ZEKURIP, 48099073, Bunya, 11, 5, 6
+3, 19, Estelle, voider26, 빔엑스, Defense, 19, 6, 6, 4, 0, 0, 2, 0, 4, 1, 34, 無双, 48099073, Bunya, 11, 5, 6
+4, 20, Martina, chillout, 비전 플렉스-진홍, Defense, 20, 11, 11, 7, 2, 0, 2, 0, 4, 4, 47, , 48099073, Etranger, 14, 4, 10
+4, 20, Aiden, wowaka, 빛의검, Defense, 19, 11, 11, 7, 2, 0, 2, 0, 7, 1, 53, 無双, 48099073, Etranger, 14, 4, 10
+4, 19, Nicky, ChainsawLady, 빙화현옥수, Defense, 19, 11, 11, 7, 2, 0, 2, 0, 0, 8, 36, レイライン, 48099073, Etranger, 14, 4, 10
+5, 17, DebiMarlene, syon1222, 모노호시자오, Defense, 16, 1, 1, 1, 0, 0, 0, 0, 0, 0, 20, レイライン, 48099073, Brainstorm, 4, 3, 1
+5, 18, Sissela, きまき, 생사부, Defense, 17, 1, 1, 1, 0, 0, 0, 0, 1, 0, 46, れもんだもん, 48099073, Brainstorm, 4, 3, 1
+5, 19, Elena, コレマサ, 활빈검, Defense, 18, 1, 1, 1, 0, 0, 0, 0, 0, 1, 30, 無双, 48099073, Brainstorm, 4, 3, 1
+6, 18, Garnet, Exaneko, 마법봉, Defense, 17, 10, 10, 2, 4, 0, 4, 0, 1, 5, 26, wowaka, 48099073, OverThrow, 10, 2, 8
+6, 18, Vanya, sino1012, 더문, Defense, 18, 10, 10, 2, 4, 0, 4, 0, 7, 1, 26, chillout, 48099073, OverThrow, 10, 2, 8
+6, 18, Rozzi, れもんだもん, 하이눈, Hunt, 18, 10, 10, 2, 4, 0, 4, 0, 2, 5, 66, chillout, 48099073, OverThrow, 10, 2, 8
+7, 18, Piolo, mystica, 대소반룡곤, Defense, 17, 1, 1, 0, 0, 0, 1, 0, 1, 0, 80, きまき, 48099073, J2K, 2, 1, 1
+7, 18, DebiMarlene, Natuki, 레바테인, Defense, 17, 1, 1, 0, 0, 0, 1, 0, 0, 1, 24, sino1012, 48099073, J2K, 2, 1, 1
+7, 17, Katja, ななしの, 안드로메다, Defense, 17, 1, 1, 0, 0, 0, 1, 0, 0, 0, 51, vaqlas, 48099073, J2K, 2, 1, 1
+8, 17, Alex, Alek, 모노호시자오, Defense, 16, 2, 2, 1, 1, 0, 0, 0, 2, 0, 22, voider26, 48099073, Forsen, 1.5, 0, 1.5
+8, 16, Leni, CappuChino, 스탬피드, Defense, 15, 2, 2, 1, 1, 0, 0, 0, 0, 1, 29, voider26, 48099073, Forsen, 1.5, 0, 1.5
+8, 17, Irem, Gyoo, 여의주, Defense, 16, 2, 2, 1, 1, 0, 0, 0, 0, 1, 47, voider26, 48099073, Forsen, 1.5, 0, 1.5

@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Charlotte, 만년광물, 절제, Defense, 19, 8, 8, 8, 0, 0, 0, 0, 0, 8, 11, , 48102622, LUMIで来た, 18, 10, 8
+1, 20, Jenny, 前ブリンクうまお, 알타이르, Defense, 20, 8, 8, 8, 0, 0, 0, 0, 4, 4, 70, , 48102622, LUMIで来た, 18, 10, 8
+1, 20, Chiara, モコー, 아르고스의눈, Defense, 19, 8, 8, 8, 0, 0, 0, 0, 4, 3, 44, , 48102622, LUMIで来た, 18, 10, 8
+2, 20, Hyejin, YoNeaKy, 생사부, Defense, 20, 10, 10, 7, 1, 0, 2, 0, 5, 4, 47, 前ブリンクうまお, 48102622, ツェアライセン, 16.5, 7, 9.5
+2, 20, William, ぷれこーーーーる, 안티오크의수류탄, Defense, 20, 10, 10, 7, 1, 0, 2, 0, 4, 4, 57, モコー, 48102622, ツェアライセン, 16.5, 7, 9.5
+2, 20, Jan, C4storice, 흑요석짓테, Defense, 20, 10, 10, 7, 1, 0, 2, 0, 1, 8, 73, 前ブリンクうまお, 48102622, ツェアライセン, 16.5, 7, 9.5
+3, 20, Elena, HeianKYO, 미스틸테인, Defense, 20, 9, 9, 5, 4, 0, 0, 0, 1, 6, 40, YoNeaKy, 48102622, †神縫合†, 12, 5, 7
+3, 20, Jenny, kawaiiOTP, 알타이르, Defense, 20, 9, 9, 5, 4, 0, 0, 0, 2, 4, 62, ぷれこーーーーる, 48102622, †神縫合†, 12, 5, 7
+3, 20, Chloe, rosen, 흑련비표-진홍, Defense, 20, 9, 9, 5, 4, 0, 0, 0, 6, 0, 57, YoNeaKy, 48102622, †神縫合†, 12, 5, 7
+4, 19, Celine, さすらいぱんだ, 체이서-새벽, Defense, 20, 9, 9, 5, 4, 0, 0, 0, 4, 5, 64, ぷれこーーーーる, 48102622, Toddler Vivid, 11, 4, 7
+4, 19, Katja, Pororoca, 인터벤션, Defense, 20, 9, 9, 5, 4, 0, 0, 0, 4, 4, 61, モコー, 48102622, Toddler Vivid, 11, 4, 7
+4, 18, Lenox, うぇびー, 캐소드라쉬, Defense, 18, 9, 9, 5, 4, 0, 0, 0, 1, 7, 20, YoNeaKy, 48102622, Toddler Vivid, 11, 4, 7
+5, 18, Sua, 葉月千悠, 터럭손방망이, Defense, 18, 6, 6, 0, 4, 0, 2, 0, 4, 2, 41, rosen, 48102622, ちねりっぷるん, 7, 3, 4
+5, 17, Alonso, あっぷるん, 디바인피스트, Defense, 16, 6, 6, 0, 4, 0, 2, 0, 0, 4, 11, YoNeaKy, 48102622, ちねりっぷるん, 7, 3, 4
+5, 18, Haze, 水無れき, 골드러시, Defense, 18, 6, 6, 0, 4, 0, 2, 0, 2, 3, 33, HeianKYO, 48102622, ちねりっぷるん, 7, 3, 4
+6, 15, Isol, 義妹, 마탄의사수, Defense, 15, 1, 1, 0, 1, 0, 0, 0, 1, 0, 40, モコー, 48102622, 好きな素材発表ドラゴン, 2.5, 2, 0.5
+6, 15, Tia, Flow, 터럭손방망이, Defense, 15, 1, 1, 0, 1, 0, 0, 0, 0, 1, 32, 前ブリンクうまお, 48102622, 好きな素材発表ドラゴン, 2.5, 2, 0.5
+6, 15, Lenox, アルペジオ, 사복검, Defense, 15, 1, 1, 0, 1, 0, 0, 0, 0, 1, 29, モコー, 48102622, 好きな素材発表ドラゴン, 2.5, 2, 0.5
+7, 14, Shoichi, たまこん, 하이랜더더크, Defense, 13, 3, 3, 0, 1, 0, 2, 0, 2, 1, 30, kawaiiOTP, 48102622, たかし, 3.5, 1, 2.5
+7, 15, Arda, お豆腐の匠, 더문, Defense, 14, 3, 3, 0, 1, 0, 2, 0, 1, 2, 18, rosen, 48102622, たかし, 3.5, 1, 2.5
+7, 15, Darko, レイ様, 여의봉, Defense, 14, 3, 3, 0, 1, 0, 2, 0, 0, 2, 51, rosen, 48102622, たかし, 3.5, 1, 2.5
+8, 13, Isol, 冷害, 엔데버AX, Defense, 12, 4, 4, 0, 4, 0, 0, 0, 0, 1, 28, Pororoca, 48102622, Toddler Ghost, 2, 0, 2
+8, 13, Markus, mukkoro, 산타무에르떼, Defense, 11, 4, 4, 0, 4, 0, 0, 0, 0, 2, 13, さすらいぱんだ, 48102622, Toddler Ghost, 2, 0, 2
+8, 13, Nicky, レヴナ, 아이언피스트, Defense, 11, 4, 4, 0, 4, 0, 0, 0, 4, 0, 17, さすらいぱんだ, 48102622, Toddler Ghost, 2, 0, 2

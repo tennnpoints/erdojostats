@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Celine, さすらいぱんだ, 체이서-새벽, Defense, 20, 13, 13, 11, 0, 0, 2, 0, 7, 6, 63, , 48099042, Toddler Vivid, 23, 10, 13
+1, 19, Katja, Pororoca, 인터벤션, Defense, 19, 13, 13, 11, 0, 0, 2, 0, 3, 7, 51, , 48099042, Toddler Vivid, 23, 10, 13
+1, 19, Lenox, うぇびー, 캐소드라쉬, Defense, 19, 13, 13, 11, 0, 0, 2, 0, 3, 8, 24, , 48099042, Toddler Vivid, 23, 10, 13
+2, 20, Chloe, rosen, 수다르사나, Defense, 20, 17, 17, 10, 3, 0, 4, 0, 8, 6, 66, さすらいぱんだ, 48099042, †神縫合†, 22.5, 7, 15.5
+2, 19, Tia, kawaiiOTP, 터럭손방망이, Defense, 19, 17, 17, 10, 3, 0, 4, 0, 4, 8, 32, Pororoca, 48099042, †神縫合†, 22.5, 7, 15.5
+2, 20, Elena, HeianKYO, 활빈검, Defense, 20, 17, 17, 10, 3, 0, 4, 0, 5, 10, 48, うぇびー, 48099042, †神縫合†, 22.5, 7, 15.5
+3, 18, Isol, 義妹, 알타이르, Defense, 19, 3, 3, 2, 0, 0, 1, 0, 1, 2, 47, HeianKYO, 48099042, 好きな素材発表ドラゴン, 8, 5, 3
+3, 19, Tia, Flow, 터럭손방망이, Hunt, 19, 3, 3, 2, 0, 0, 1, 0, 1, 1, 50, レヴナ, 48099042, 好きな素材発表ドラゴン, 8, 5, 3
+3, 18, Lenox, アルペジオ, 사복검, Defense, 18, 3, 3, 2, 0, 0, 1, 0, 1, 2, 20, HeianKYO, 48099042, 好きな素材発表ドラゴン, 8, 5, 3
+4, 19, Elena, 冷害, 활빈검, Defense, 18, 3, 3, 3, 0, 0, 0, 0, 1, 2, 50, Flow, 48099042, Toddler Ghost, 7, 4, 3
+4, 18, Darko, レヴナ, 여의봉, Defense, 18, 3, 3, 3, 0, 0, 0, 0, 2, 1, 36, rosen, 48099042, Toddler Ghost, 7, 4, 3
+4, 19, Hart, CiELzzz, 프리버드, Defense, 18, 3, 3, 3, 0, 0, 0, 0, 0, 2, 58, 義妹, 48099042, Toddler Ghost, 7, 4, 3
+5, 18, Arda, あっぷるん, 더문, Defense, 18, 1, 1, 1, 0, 0, 0, 0, 1, 0, 49, rosen, 48099042, ちねりっぷるん, 4, 3, 1
+5, 19, Katja, 水無れき, 위도우메이커, Hunt, 19, 1, 1, 1, 0, 0, 0, 0, 0, 1, 77, HeianKYO, 48099042, ちねりっぷるん, 4, 3, 1
+5, 19, Mai, 葉月千悠, 글레이프니르, Defense, 17, 1, 1, 1, 0, 0, 0, 0, 0, 1, 36, kawaiiOTP, 48099042, ちねりっぷるん, 4, 3, 1
+6, 19, Hart, たまこん, 하트브레이커, Defense, 19, 10, 10, 3, 2, 0, 5, 0, 7, 2, 48, さすらいぱんだ, 48099042, たかし, 11, 2, 9
+6, 18, Darko, レイ様, 구원의여신상, Defense, 17, 10, 10, 3, 2, 0, 5, 0, 2, 5, 25, うぇびー, 48099042, たかし, 11, 2, 9
+6, 18, Kenneth, お豆腐の匠, 반고부, Defense, 17, 10, 10, 3, 2, 0, 5, 0, 1, 7, 42, さすらいぱんだ, 48099042, たかし, 11, 2, 9
+7, 17, Jan, C4storice, 단영촌천투, Defense, 17, 3, 3, 2, 0, 0, 1, 0, 0, 2, 39, さすらいぱんだ, 48099042, ツェアライセン, 4, 1, 3
+7, 17, William, ぷれこーーーーる, 안티오크의수류탄, Defense, 17, 3, 3, 2, 0, 0, 1, 0, 2, 0, 30, rosen, 48099042, ツェアライセン, 4, 1, 3
+7, 17, Chloe, YoNeaKy, 미치광이왕의카드, Defense, 17, 3, 3, 2, 0, 0, 1, 0, 1, 1, 41, さすらいぱんだ, 48099042, ツェアライセン, 4, 1, 3
+8, 16, Chiara, モコー, 레드팬서, Defense, 15, 5, 5, 3, 0, 0, 2, 0, 1, 4, 28, 冷害, 48099042, LUMIで来た, 5, 0, 5
+8, 14, Charlotte, 만년광물, 절제, Defense, 13, 5, 5, 3, 0, 0, 2, 0, 0, 5, 10, HeianKYO, 48099042, LUMIで来た, 5, 0, 5
+8, 16, Chloe, 前ブリンクうまお, 수다르사나, Defense, 17, 5, 5, 3, 0, 0, 2, 0, 4, 1, 46, rosen, 48099042, LUMIで来た, 5, 0, 5
