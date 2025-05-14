@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Isol, 冷害, 엔데버AX, Hunt, 20, 10, 10, 10, 0, 0, 0, 0, 3, 7, 63, , 48240367, Toddler Ghost, 20, 10, 10
+1, 19, Markus, mukkoro, 반고부, Defense, 19, 10, 10, 10, 0, 0, 0, 0, 3, 6, 55, , 48240367, Toddler Ghost, 20, 10, 10
+1, 20, DebiMarlene, レヴナ, 레바테인, Defense, 20, 10, 10, 10, 0, 0, 0, 0, 4, 6, 32, , 48240367, Toddler Ghost, 20, 10, 10
+2, 19, Markus, にとっち, 반고부, Defense, 18, 11, 11, 4, 4, 0, 3, 0, 3, 5, 14, レヴナ, 48240367, メル現金化団, 16, 7, 9
+2, 19, Leon, TKDNdecoy, 프로스트팽, Defense, 19, 11, 11, 4, 4, 0, 3, 0, 4, 5, 35, レヴナ, 48240367, メル現金化団, 16, 7, 9
+2, 20, Rozzi, LeetPhilia, 하이눈, Defense, 19, 11, 11, 4, 4, 0, 3, 0, 4, 6, 69, mukkoro, 48240367, メル現金化団, 16, 7, 9
+3, 20, Xiukai, 鈴木リコリス, 코스믹바이던트, Defense, 19, 16, 16, 9, 1, 0, 5, 1, 3, 11, 24, 冷害, 48240367, EGGNITE, 20.5, 5, 15.5
+3, 20, YuMin, コメダの泥水, 더 데스-새벽, Defense, 20, 16, 16, 9, 1, 0, 5, 1, 7, 7, 70, 冷害, 48240367, EGGNITE, 20.5, 5, 15.5
+3, 20, Adina, たまご, 더문, Defense, 20, 16, 16, 9, 1, 0, 5, 1, 6, 8, 63, mukkoro, 48240367, EGGNITE, 20.5, 5, 15.5
+4, 18, Jenny, kawaiiOTP, 알타이르, Defense, 18, 5, 5, 2, 2, 0, 1, 0, 1, 1, 42, おぼろづき米, 48240367, †神縫合†, 8, 4, 4
+4, 20, Chloe, rosen, 플레솃, Defense, 19, 5, 5, 2, 2, 0, 1, 0, 4, 1, 30, たまご, 48240367, †神縫合†, 8, 4, 4
+4, 20, Elena, HeianKYO, 레드팬서, Defense, 18, 5, 5, 2, 2, 0, 1, 0, 0, 3, 46, mukkoro, 48240367, †神縫合†, 8, 4, 4
+5, 18, Nicky, 二寸法師, 아이언피스트, Defense, 18, 5, 5, 3, 1, 0, 1, 0, 2, 1, 27, たまご, 48240367, ぽんづき², 7.5, 3, 4.5
+5, 18, Piolo, おぼろづき米, 대소반룡곤, Defense, 18, 5, 5, 3, 1, 0, 1, 0, 2, 2, 61, コメダの泥水, 48240367, ぽんづき², 7.5, 3, 4.5
+5, 18, Arda, 恐怖のチンチラ, 더문, Defense, 18, 5, 5, 3, 1, 0, 1, 0, 1, 3, 32, コメダの泥水, 48240367, ぽんづき², 7.5, 3, 4.5
+6, 18, Nicky, ymt, 빙화현옥수, Defense, 17, 5, 5, 3, 1, 0, 1, 0, 1, 3, 4, TKDNdecoy, 48240367, 無敵昇竜, 6.5, 2, 4.5
+6, 18, Theodore, Kazahana, 사사성광, Defense, 18, 5, 5, 3, 1, 0, 1, 0, 1, 4, 43, TKDNdecoy, 48240367, 無敵昇竜, 6.5, 2, 4.5
+6, 18, Hyejin, YoNeaKy, 흑련비표-새벽, Defense, 18, 5, 5, 3, 1, 0, 1, 0, 3, 2, 35, TKDNdecoy, 48240367, 無敵昇竜, 6.5, 2, 4.5
+7, 18, Nicky, 피세, 아이언피스트, Defense, 18, 8, 8, 3, 2, 0, 3, 0, 6, 2, 42, コメダの泥水, 48240367, NTK, 8, 1, 7
+7, 17, Johann, 3y3s, 절제, Defense, 16, 8, 8, 3, 2, 0, 3, 0, 1, 6, 16, 鈴木リコリス, 48240367, NTK, 8, 1, 7
+7, 18, Lyanh, 避けてください, 카른웬난, Defense, 17, 8, 8, 3, 2, 0, 3, 0, 1, 6, 51, コメダの泥水, 48240367, NTK, 8, 1, 7
+8, 14, Markus, kumikuma, 산타무에르떼, Defense, 13, 3, 3, 0, 0, 0, 3, 0, 0, 2, 19, レヴナ, 48240367, Portamento, 3, 0, 3
+8, 15, Nadine, Efina, 대황, Hunt, 14, 3, 3, 0, 0, 0, 3, 0, 3, 0, 48, レヴナ, 48240367, Portamento, 3, 0, 3
+8, 14, Priya, じゃっきーらぶ, 헤븐즈도어, Defense, 14, 3, 3, 0, 0, 0, 3, 0, 0, 3, 24, 冷害, 48240367, Portamento, 3, 0, 3

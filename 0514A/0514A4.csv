@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Hisui, 無双, 다인슬라이프, Defense, 20, 13, 16, 9, 1, 0, 3, 0, 7, 6, 81, , 48239855, チクチク梅, 22.5, 10, 12.5
+1, 20, Elena, レイライン, 미스틸테인, Defense, 20, 13, 16, 9, 1, 0, 3, 0, 3, 8, 37, , 48239855, チクチク梅, 22.5, 10, 12.5
+1, 20, Rozzi, ZEKURIP, 하이눈, Defense, 20, 13, 16, 9, 1, 0, 3, 0, 3, 8, 59, , 48239855, チクチク梅, 22.5, 10, 12.5
+4, 20, Hisui, けみ子, 빛의검, Defense, 20, 8, 8, 6, 1, 0, 1, 0, 2, 4, 50, , 48239855, OverThrow, 11.5, 4, 7.5
+4, 20, Hart, れもんだもん, 프리버드, Defense, 20, 8, 8, 6, 1, 0, 1, 0, 4, 3, 53, みゅーき, 48239855, OverThrow, 11.5, 4, 7.5
+4, 20, Elena, sino1012, 미스틸테인, Defense, 19, 8, 8, 6, 1, 0, 1, 0, 3, 4, 34, みゅーき, 48239855, OverThrow, 11.5, 4, 7.5
+4, 19, Alex, えすみす, 일렉트론블라스터, Defense, 18, 5, 5, 1, 2, 0, 2, 0, 2, 2, 27, みゅーき, 48239855, Bunya, 8, 4, 4
+4, 19, Celine, vaqlas, 여의주, Defense, 19, 5, 5, 1, 2, 0, 2, 0, 1, 1, 68, sino1012, 48239855, Bunya, 8, 4, 4
+4, 20, Estelle, voider26, 낙원의낫, Defense, 19, 5, 5, 1, 2, 0, 2, 0, 2, 3, 33, sino1012, 48239855, Bunya, 8, 4, 4
+4, 20, Rio, みゅーき, 적궁백시, Defense, 20, 14, 14, 10, 2, 0, 2, 0, 9, 5, 57, , 48239855, Out of Control, 17, 4, 13
+4, 20, Lenore, い力, 헤븐즈도어, Defense, 20, 14, 14, 10, 2, 0, 2, 0, 3, 8, 58, れもんだもん, 48239855, Out of Control, 17, 4, 13
+4, 20, Markus, ハッピー天月, 뿅망치, Defense, 20, 14, 14, 10, 2, 0, 2, 0, 2, 8, 27, , 48239855, Out of Control, 17, 4, 13
+5, 20, YuMin, かとかい, 더문, Defense, 19, 8, 8, 5, 1, 0, 2, 0, 4, 4, 56, Gyoo, 48239855, Toddler Gangster, 10.5, 3, 7.5
+5, 19, Nadine, Meltt, 아르기로톡소스, Defense, 18, 8, 8, 5, 1, 0, 2, 0, 4, 3, 36, Gyoo, 48239855, Toddler Gangster, 10.5, 3, 7.5
+5, 18, Xiukai, Prushka, 방천화극, Defense, 14, 8, 8, 5, 1, 0, 2, 0, 0, 7, 9, レイライン, 48239855, Toddler Gangster, 10.5, 3, 7.5
+6, 18, Markus, Tnsh, 산타무에르떼, Defense, 17, 6, 6, 3, 1, 0, 2, 0, 0, 4, 12, ZEKURIP, 48239855, Forsen, 7.5, 2, 5.5
+6, 18, Arda, Gyoo, 더문, Defense, 18, 6, 6, 3, 1, 0, 2, 0, 3, 3, 48, 無双, 48239855, Forsen, 7.5, 2, 5.5
+6, 18, Aya, Alek, 엔데버AX, Defense, 18, 6, 6, 3, 1, 0, 2, 0, 3, 2, 48, 無双, 48239855, Forsen, 7.5, 2, 5.5
+7, 19, Bernice, ドンブレ, 안드로메다, Defense, 18, 8, 8, 3, 3, 0, 2, 0, 2, 5, 55, sino1012, 48239855, TBD, 7.5, 1, 6.5
+7, 18, DebiMarlene, harao, 레바테인, Defense, 18, 8, 8, 3, 3, 0, 2, 0, 3, 4, 20, 無双, 48239855, TBD, 7.5, 1, 6.5
+7, 19, LiDailin, Hyouya, 단영촌천투, Defense, 17, 8, 8, 3, 3, 0, 2, 0, 3, 4, 41, みゅーき, 48239855, TBD, 7.5, 1, 6.5
+8, 15, Arda, LegendOfLeague, 더문, Defense, 15, 7, 7, 0, 4, 0, 3, 0, 1, 3, 27, かとかい, 48239855, 松竹梅, 5, 0, 5
+8, 15, Piolo, 松マキサ, 비익련리, Defense, 14, 7, 7, 0, 4, 0, 3, 0, 2, 4, 28, Meltt, 48239855, 松竹梅, 5, 0, 5
+8, 15, Istvan, akihisa, 애각창, Defense, 14, 7, 7, 0, 4, 0, 3, 0, 4, 2, 25, Meltt, 48239855, 松竹梅, 5, 0, 5

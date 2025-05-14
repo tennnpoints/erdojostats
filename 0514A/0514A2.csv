@@ -1,0 +1,25 @@
+﻿rank,level,character,nickname,weapon,best weapon mastery,best weapon mastery level,total field kill,team kill,elimination,down can not eliminate,repeat down can not eliminate,down can eliminate,repeat down can eliminate,kill,assist,hunting,killer,gameId,teamName,tournament total score,tournament rank score,tournament kill score
+1,19,Xiukai,Prushka,방천화극,Defense,19,14,15,8,4,0,2,0,2,10,14,0,48236663,Toddler Gangster,22,10,12
+1,20,Nadine,Meltt,혈색반월-진홍,Defense,20,14,15,8,4,0,2,0,3,8,52,0,48236663,Toddler Gangster,22,10,12
+1,20,YuMin,かとかい,더문,Defense,20,14,15,8,4,0,2,0,9,3,78,0,48236663,Toddler Gangster,22,10,12
+2,20,Markus,LegendOfLeague,반고부,Defense,19,13,13,11,1,0,1,0,4,6,31,かとかい,48236663,松竹梅,19.5,7,12.5
+2,20,Katja,松マキサ,안드로메다,Defense,20,13,13,11,1,0,1,0,5,7,46,かとかい,48236663,松竹梅,19.5,7,12.5
+2,20,YuMin,akihisa,여제,Defense,20,13,13,11,1,0,1,0,4,6,64,Meltt,48236663,松竹梅,19.5,7,12.5
+3,20,Adina,Gyoo,더문,Defense,20,8,8,4,3,0,1,0,2,3,65,LegendOfLeague,48236663,Forsen,11.5,5,6.5
+3,19,Xiukai,Tnsh,파산검,Defense,19,8,8,4,3,0,1,0,1,6,29,LegendOfLeague,48236663,Forsen,11.5,5,6.5
+3,20,Chloe,Alek,흑련비표-진홍,Defense,20,8,8,4,3,0,1,0,5,3,55,akihisa,48236663,Forsen,11.5,5,6.5
+4,18,Estelle,voider26,빔엑스,Defense,17,0,0,0,0,0,0,0,0,0,20,0,48236663,Bunya,4,4,0
+4,17,Rio,えすみす,적궁백시,Defense,17,0,0,0,0,0,0,0,0,0,41,LegendOfLeague,48236663,Bunya,4,4,0
+4,18,Celine,vaqlas,소이탄,Hunt,17,0,0,0,0,0,0,0,0,0,53,Alek,48236663,Bunya,4,4,0
+5,19,Eleven,レイライン,뿅망치,Defense,18,4,4,4,0,0,0,0,0,4,37,松マキサ,48236663,チクチク梅,7,3,4
+5,18,Katja,ZEKURIP,인터벤션,Defense,19,4,4,4,0,0,0,0,3,1,33,松マキサ,48236663,チクチク梅,7,3,4
+5,18,Karla,無双,포이즌드크로스보우,Defense,18,4,4,4,0,0,0,0,1,3,54,かとかい,48236663,チクチク梅,7,3,4
+6,18,Istvan,Hyouya,애각창,Hunt,17,4,4,1,1,0,2,0,2,2,71,ZEKURIP,48236663,TBD,5.5,2,3.5
+6,18,Elena,ドンブレ,활빈검,Defense,16,4,4,1,1,0,2,0,2,2,18,LegendOfLeague,48236663,TBD,5.5,2,3.5
+6,18,Estelle,harao,스퀴테,Defense,18,4,4,1,1,0,2,0,0,4,56,ZEKURIP,48236663,TBD,5.5,2,3.5
+7,17,Echion,けみ子,데스애더퀸,Defense,15,3,3,1,2,0,0,0,0,1,26,Gyoo,48236663,OverThrow,3,1,2
+7,16,Rozzi,れもんだもん,일렉트론블라스터,Defense,16,3,3,1,2,0,0,0,1,2,37,Tnsh,48236663,OverThrow,3,1,2
+7,17,Piolo,sino1012,비익련리,Defense,16,3,3,1,2,0,0,0,2,1,52,Alek,48236663,OverThrow,3,1,2
+8,12,Lenox,みゅーき,뇌룡편,Defense,10,6,6,0,3,0,3,0,2,1,8,akihisa,48236663,Out of Control,4.5,0,4.5
+8,12,Rio,ハッピー天月,편전,Defense,11,6,6,0,3,0,3,0,4,2,28,Prushka,48236663,Out of Control,4.5,0,4.5
+8,12,Lenore,い力,퍼플헤이즈,Defense,12,6,6,0,3,0,3,0,0,6,26,かとかい,48236663,Out of Control,4.5,0,4.5

@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Xiukai, 鈴木リコリス, 코스믹바이던트, Defense, 19, 11, 11, 8, 2, 0, 1, 0, 0, 11, 25, , 48238608, EGGNITE, 20, 10, 10
+1, 20, YuMin, コメダの泥水, 여제, Defense, 20, 11, 11, 8, 2, 0, 1, 0, 2, 9, 81, , 48238608, EGGNITE, 20, 10, 10
+1, 20, Adina, たまご, 더 데스-진홍, Defense, 20, 11, 11, 8, 2, 0, 1, 0, 9, 1, 51, , 48238608, EGGNITE, 20, 10, 10
+2, 20, Jenny, kawaiiOTP, 알타이르, Defense, 19, 10, 10, 7, 1, 0, 2, 0, 2, 6, 41, コメダの泥水, 48238608, †神縫合†, 16.5, 7, 9.5
+2, 20, Elena, HeianKYO, 아르고스의눈, Defense, 20, 10, 10, 7, 1, 0, 2, 0, 3, 6, 87, たまご, 48238608, †神縫合†, 16.5, 7, 9.5
+2, 19, Chloe, rosen, 흑련비표-진홍, Defense, 20, 10, 10, 7, 1, 0, 2, 0, 5, 4, 60, たまご, 48238608, †神縫合†, 16.5, 7, 9.5
+3, 19, Eleven, 避けてください, 다그다의망치, Defense, 18, 17, 17, 11, 4, 0, 2, 0, 0, 13, 21, kawaiiOTP, 48238608, NTK, 20, 5, 15
+3, 18, Chloe, 3y3s, 흑련비표-진홍, Defense, 20, 17, 17, 11, 4, 0, 2, 0, 5, 7, 49, HeianKYO, 48238608, NTK, 20, 5, 15
+3, 19, Jan, 피세, 흑요석짓테, Defense, 19, 17, 17, 11, 4, 0, 2, 0, 12, 3, 55, HeianKYO, 48238608, NTK, 20, 5, 15
+4, 18, Leni, ymt, 스탬피드, Defense, 18, 5, 5, 2, 2, 0, 1, 0, 1, 4, 17, たまご, 48238608, 無敵昇竜, 8, 4, 4
+4, 19, Justyna, Kazahana, 팬텀 볼트, Defense, 19, 5, 5, 2, 2, 0, 1, 0, 3, 1, 45, たまご, 48238608, 無敵昇竜, 8, 4, 4
+4, 19, Camilo, YoNeaKy, 노스페라투-진홍, Defense, 19, 5, 5, 2, 2, 0, 1, 0, 1, 4, 71, たまご, 48238608, 無敵昇竜, 8, 4, 4
+5, 18, Leon, TKDNdecoy, 흑요석짓테, Defense, 18, 3, 3, 2, 1, 0, 0, 0, 1, 2, 17, たまご, 48238608, メル現金化団, 5.5, 3, 2.5
+5, 19, Rozzi, LeetPhilia, 일렉트론블라스터, Defense, 19, 3, 3, 2, 1, 0, 0, 0, 2, 1, 55, YoNeaKy, 48238608, メル現金化団, 5.5, 3, 2.5
+5, 18, Priya, にとっち, 헤븐즈도어, Defense, 17, 3, 3, 2, 1, 0, 0, 0, 0, 3, 35, たまご, 48238608, メル現金化団, 5.5, 3, 2.5
+6, 19, Isol, 冷害, 엔데버AX, Hunt, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 71, 피세, 48238608, Toddler Ghost, 2, 2, 0
+6, 19, Markus, mukkoro, 반고부, Defense, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 피세, 48238608, Toddler Ghost, 2, 2, 0
+6, 19, DebiMarlene, レヴナ, 레바테인, Defense, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 피세, 48238608, Toddler Ghost, 2, 2, 0
+7, 15, LiDailin, 二寸法師, 단영촌천투, Defense, 14, 2, 2, 0, 1, 0, 1, 0, 0, 1, 25, rosen, 48238608, ぽんづき², 2.5, 1, 1.5
+7, 15, Bernice, おぼろづき米, 폴라리스, Defense, 15, 2, 2, 0, 1, 0, 1, 0, 2, 0, 34, HeianKYO, 48238608, ぽんづき², 2.5, 1, 1.5
+7, 15, Elena, 恐怖のチンチラ, 활빈검, Defense, 14, 2, 2, 0, 1, 0, 1, 0, 0, 1, 22, rosen, 48238608, ぽんづき², 2.5, 1, 1.5
+8, 11, Laura, kumikuma, 우라누스, Defense, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 3y3s, 48238608, Portamento, 0, 0, 0
+8, 10, Arda, じゃっきーらぶ, 은둔자, Defense, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 피세, 48238608, Portamento, 0, 0, 0
+8, 11, Jan, Efina, 흑요석짓테, Defense, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 피세, 48238608, Portamento, 0, 0, 0

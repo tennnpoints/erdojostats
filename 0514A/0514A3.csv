@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Leon, Tnsh, 흑요석짓테, Defense, 19, 16, 17, 8, 4, 0, 4, 0, 6, 10, 24, , 48238180, Forsen, 24, 10, 14
+1, 20, Aya, Alek, 헬파이어-진홍, Defense, 20, 16, 17, 8, 4, 0, 4, 0, 6, 7, 66, , 48238180, Forsen, 24, 10, 14
+1, 20, Arda, Gyoo, 여제, Defense, 20, 16, 17, 8, 4, 0, 4, 0, 4, 12, 66, , 48238180, Forsen, 24, 10, 14
+2, 19, Lenox, みゅーき, 뇌룡편, Defense, 19, 12, 12, 10, 1, 0, 1, 0, 3, 7, 24, Gyoo, 48238180, Out of Control, 18.5, 7, 11.5
+2, 20, Lenore, い力, 하트 브레이커-새벽, Defense, 20, 12, 12, 10, 1, 0, 1, 0, 4, 6, 54, Gyoo, 48238180, Out of Control, 18.5, 7, 11.5
+2, 20, Rio, ハッピー天月, 페일노트-진홍, Defense, 20, 12, 12, 10, 1, 0, 1, 0, 5, 4, 42, Gyoo, 48238180, Out of Control, 18.5, 7, 11.5
+3, 20, Rozzi, ZEKURIP, 하이눈, Defense, 20, 5, 5, 3, 0, 0, 2, 0, 3, 1, 68, みゅーき, 48238180, チクチク梅, 10, 5, 5
+3, 20, Elena, レイライン, 아르고스의눈, Defense, 19, 5, 5, 3, 0, 0, 2, 0, 1, 3, 39, Gyoo, 48238180, チクチク梅, 10, 5, 5
+3, 19, Hisui, 無双, 빛의검, Defense, 19, 5, 5, 3, 0, 0, 2, 0, 1, 1, 82, vaqlas, 48238180, チクチク梅, 10, 5, 5
+4, 20, Celine, vaqlas, 여의주, Defense, 19, 8, 8, 2, 3, 0, 3, 0, 4, 2, 41, ZEKURIP, 48238180, Bunya, 10.5, 4, 6.5
+4, 19, Alex, えすみす, 일렉트론블라스터, Defense, 18, 8, 8, 2, 3, 0, 3, 0, 3, 4, 37, 無双, 48238180, Bunya, 10.5, 4, 6.5
+4, 19, Estelle, voider26, 빔엑스, Defense, 18, 8, 8, 2, 3, 0, 3, 0, 1, 5, 28, ZEKURIP, 48238180, Bunya, 10.5, 4, 6.5
+5, 18, Leon, Prushka, 흑요석짓테, Defense, 17, 8, 8, 3, 1, 0, 4, 0, 2, 6, 19, みゅーき, 48238180, Toddler Gangster, 10.5, 3, 7.5
+5, 18, Katja, Meltt, 인터벤션, Defense, 18, 8, 8, 3, 1, 0, 4, 0, 0, 7, 44, ハッピー天月, 48238180, Toddler Gangster, 10.5, 3, 7.5
+5, 19, Justyna, かとかい, 팬텀 볼트, Defense, 19, 8, 8, 3, 1, 0, 4, 0, 6, 1, 89, い力, 48238180, Toddler Gangster, 10.5, 3, 7.5
+6, 17, Nathapon, 松マキサ, 폴라로이드카메라, Defense, 16, 1, 1, 0, 1, 0, 0, 0, 0, 1, 45, vaqlas, 48238180, 松竹梅, 2.5, 2, 0.5
+6, 17, Garnet, LegendOfLeague, 스파이의우산, Defense, 16, 1, 1, 0, 1, 0, 0, 0, 1, 0, 21, , 48238180, 松竹梅, 2.5, 2, 0.5
+6, 17, YuMin, akihisa, 여제, Hunt, 17, 1, 1, 0, 1, 0, 0, 0, 0, 1, 58, い力, 48238180, 松竹梅, 2.5, 2, 0.5
+7, 16, Leon, sino1012, 빙화현옥수, Defense, 15, 2, 2, 2, 0, 0, 0, 0, 1, 1, 47, みゅーき, 48238180, OverThrow, 3, 1, 2
+7, 16, Rozzi, れもんだもん, 일렉트론블라스터, Defense, 15, 2, 2, 2, 0, 0, 0, 0, 1, 1, 42, Prushka, 48238180, OverThrow, 3, 1, 2
+7, 16, Echion, けみ子, 블랙맘바킹-TL, Defense, 15, 2, 2, 2, 0, 0, 0, 0, 0, 2, 29, かとかい, 48238180, OverThrow, 3, 1, 2
+8, 11, Elena, ドンブレ, 활빈검, Defense, 9, 3, 3, 0, 1, 0, 2, 0, 0, 2, 6, Tnsh, 48238180, TBD, 2.5, 0, 2.5
+8, 12, Istvan, Hyouya, 장팔사모, Defense, 10, 3, 3, 0, 1, 0, 2, 0, 1, 0, 17, Tnsh, 48238180, TBD, 2.5, 0, 2.5
+8, 12, Estelle, harao, 스퀴테, Defense, 9, 3, 3, 0, 1, 0, 2, 0, 2, 1, 13, vaqlas, 48238180, TBD, 2.5, 0, 2.5
