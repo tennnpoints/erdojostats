@@ -72,7 +72,7 @@ for i in teams:
                 win = win + 1
         cnt = cnt + 1
     winper = round( win / played * 100 , 1)
-    kills = int(int(ii['total field kill'].sum()) / teamsize)
+    kills = float(float(ii['tournament kill score'].sum()) / teamsize)
     avgkill = round(kills / played,2)
     avgrank = round(( ii['rank'].sum() / teamsize ) / played,2)
     totalpts = int(int(ii['t'].sum()) / teamsize)  + kills
