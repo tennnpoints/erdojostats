@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, DebiMarlene, syon1222, 레바테인, Defense, 20, 10, 10, 8, 2, 0, 0, 0, 2, 6, 29, , 48348136, Brainstorm, 19, 10, 9
+1, 20, Vanya, きまき, 더 데스-새벽, Defense, 20, 10, 10, 8, 2, 0, 0, 0, 4, 3, 63, , 48348136, Brainstorm, 19, 10, 9
+1, 20, Irem, Dato2, 체이서-새벽, Defense, 20, 10, 10, 8, 2, 0, 0, 0, 4, 3, 76, , 48348136, Brainstorm, 19, 10, 9
+2, 20, Camilo, YoNeaKy, 환영도-진홍, Defense, 20, 15, 15, 11, 1, 0, 3, 0, 5, 6, 73, きまき, 48348136, ライディングフリー, 21.5, 7, 14.5
+2, 20, Arda, Sitiyoh, 여제, Defense, 20, 15, 15, 11, 1, 0, 3, 0, 5, 9, 58, syon1222, 48348136, ライディングフリー, 21.5, 7, 14.5
+2, 20, Jan, C4storice, 흑요석짓테, Defense, 20, 15, 15, 11, 1, 0, 3, 0, 5, 9, 50, きまき, 48348136, ライディングフリー, 21.5, 7, 14.5
+3, 19, Katja, ななしの, 인터벤션, Defense, 18, 4, 4, 1, 0, 0, 3, 0, 2, 1, 50, Dato2, 48348136, J2K, 9, 5, 4
+3, 18, Hisui, 照る坊主, 빛의검, Defense, 17, 4, 4, 1, 0, 0, 3, 0, 1, 3, 62, きまき, 48348136, J2K, 9, 5, 4
+3, 19, Xiukai, MaTfromDota2, 월식, Defense, 17, 4, 4, 1, 0, 0, 3, 0, 1, 2, 14, YoNeaKy, 48348136, J2K, 9, 5, 4
+4, 19, Karla, さすらいぱんだ, 포이즌드크로스보우, Defense, 19, 9, 9, 7, 2, 0, 0, 0, 0, 7, 69, YoNeaKy, 48348136, Toddler Vivid, 12, 4, 8
+4, 19, Katja, Pororoca, 인터벤션, Defense, 20, 9, 9, 7, 2, 0, 0, 0, 4, 5, 43, YoNeaKy, 48348136, Toddler Vivid, 12, 4, 8
+4, 18, Leon, うぇびー, 마이쏙, Defense, 18, 9, 9, 7, 2, 0, 0, 0, 5, 3, 12, C4storice, 48348136, Toddler Vivid, 12, 4, 8
+5, 18, Priya, mukkoro, 헤븐즈도어, Defense, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, Sitiyoh, 48348136, Toddler Ghost, 3, 3, 0
+5, 18, DebiMarlene, レヴナ, 레바테인, Defense, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, うぇびー, 48348136, Toddler Ghost, 3, 3, 0
+5, 19, Hart, CiELzzz, 하트 브레이커-진홍, Hunt, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 84, Pororoca, 48348136, Toddler Ghost, 3, 3, 0
+6, 15, Abigail, ヴィルヴィ, 빔엑스, Defense, 13, 2, 2, 0, 1, 0, 1, 0, 0, 1, 47, Sitiyoh, 48348136, 射出式, 3.5, 2, 1.5
+6, 16, Darko, Exaneko, 여의봉, Defense, 14, 2, 2, 0, 1, 0, 1, 0, 2, 0, 41, Dato2, 48348136, 射出式, 3.5, 2, 1.5
+6, 15, Arda, シユイ, 여제, Hunt, 14, 2, 2, 0, 1, 0, 1, 0, 0, 0, 40, syon1222, 48348136, 射出式, 3.5, 2, 1.5
+7, 12, Arda, suvarublend, 운명의수레바퀴, Defense, 12, 1, 1, 0, 1, 0, 0, 0, 0, 1, 51, Pororoca, 48348136, 江多二亭, 1.5, 1, 0.5
+7, 12, Bernice, mystica, 폴라리스, Defense, 12, 1, 1, 0, 1, 0, 0, 0, 1, 0, 26, うぇびー, 48348136, 江多二亭, 1.5, 1, 0.5
+7, 13, Garnet, ふーと, 스파이의우산, Defense, 11, 1, 1, 0, 1, 0, 0, 0, 0, 0, 25, Pororoca, 48348136, 江多二亭, 1.5, 1, 0.5

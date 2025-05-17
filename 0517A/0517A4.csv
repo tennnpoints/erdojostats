@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Johann, 3y3s, 더썬, Defense, 19, 20, 20, 11, 5, 0, 4, 0, 1, 14, 11, , 48350532, NTK, 27.5, 10, 17.5
+1, 20, Nicky, 피세, 아이언피스트, Defense, 20, 20, 20, 11, 5, 0, 4, 0, 7, 11, 48, , 48350532, NTK, 27.5, 10, 17.5
+1, 20, Chiara, Raim, 아르고스의눈, Defense, 20, 20, 20, 11, 5, 0, 4, 0, 12, 6, 44, , 48350532, NTK, 27.5, 10, 17.5
+2, 20, YuMin, かとかい, 더문, Defense, 20, 9, 9, 6, 2, 0, 1, 0, 4, 4, 74, Raim, 48350532, Toddler Gangster, 15, 7, 8
+2, 20, Alonso, パルコフォルゴレ, 아이언피스트, Defense, 19, 9, 9, 6, 2, 0, 1, 0, 0, 6, 13, 피세, 48350532, Toddler Gangster, 15, 7, 8
+2, 20, Nadine, Meltt, 혈색반월-진홍, Defense, 20, 9, 9, 6, 2, 0, 1, 0, 5, 3, 75, 3y3s, 48350532, Toddler Gangster, 15, 7, 8
+3, 19, Elena, sino1012, 활빈검, Defense, 18, 5, 5, 1, 2, 0, 2, 0, 2, 1, 32, Meltt, 48350532, OverThrow, 9, 5, 4
+3, 19, Hisui, けみ子, 빛의검, Defense, 19, 5, 5, 1, 2, 0, 2, 0, 2, 1, 46, 피세, 48350532, OverThrow, 9, 5, 4
+3, 19, Rozzi, れもんだもん, 악켈테, Defense, 19, 5, 5, 1, 2, 0, 2, 0, 1, 1, 54, Raim, 48350532, OverThrow, 9, 5, 4
+4, 19, Estelle, レイライン, 빔엑스, Defense, 19, 14, 14, 7, 5, 0, 2, 0, 1, 7, 40, Meltt, 48350532, チクチク梅, 15.5, 4, 11.5
+4, 20, Hisui, 無双, 빛의검, Defense, 20, 14, 14, 7, 5, 0, 2, 0, 8, 3, 90, かとかい, 48350532, チクチク梅, 15.5, 4, 11.5
+4, 20, Rozzi, ZEKURIP, 하이눈, Defense, 20, 14, 14, 7, 5, 0, 2, 0, 5, 7, 58, sino1012, 48350532, チクチク梅, 15.5, 4, 11.5
+5, 18, Arda, OISIIPROTEIN, 더스타, Defense, 18, 16, 16, 7, 6, 0, 3, 0, 4, 11, 30, Raim, 48350532, いなずまっ！, 16, 3, 13
+5, 18, Garnet, かっと, 스파이의우산, Defense, 18, 16, 16, 7, 6, 0, 3, 0, 4, 12, 21, 피세, 48350532, いなずまっ！, 16, 3, 13
+5, 20, Karla, 박의민, 혈색반월-새벽, Defense, 20, 16, 16, 7, 6, 0, 3, 0, 8, 6, 67, 피세, 48350532, いなずまっ！, 16, 3, 13
+6, 17, Hyejin, vaqlas, 아르기로톡소스, Defense, 15, 2, 2, 0, 2, 0, 0, 0, 0, 2, 42, 박의민, 48350532, Bunya, 3, 2, 1
+6, 16, Estelle, voider26, 낙원의낫, Defense, 15, 2, 2, 0, 2, 0, 0, 0, 1, 1, 12, 박의민, 48350532, Bunya, 3, 2, 1
+6, 17, Katja, えすみす, 인터벤션, Hunt, 16, 2, 2, 0, 2, 0, 0, 0, 1, 1, 74, OISIIPROTEIN, 48350532, Bunya, 3, 2, 1
+7, 15, Bernice, 松マキサ, 폴라리스, Defense, 15, 5, 5, 0, 3, 0, 2, 0, 4, 1, 38, 無双, 48350532, 松竹梅, 4.5, 1, 3.5
+7, 15, Nicky, LegendOfLeague, 빙화현옥수, Defense, 14, 5, 5, 0, 3, 0, 2, 0, 0, 5, 27, 無双, 48350532, 松竹梅, 4.5, 1, 3.5
+7, 15, Istvan, akihisa, 장팔사모, Defense, 14, 5, 5, 0, 3, 0, 2, 0, 1, 2, 36, 無双, 48350532, 松竹梅, 4.5, 1, 3.5
+8, 14, Bernice, KatsuragiAce, 폴라리스, Defense, 13, 5, 5, 0, 0, 0, 5, 0, 2, 2, 35, 박의민, 48350532, Team Papago, 5, 0, 5
+8, 13, Garnet, 에필로그, 스파이의우산, Defense, 11, 5, 5, 0, 0, 0, 5, 0, 1, 3, 21, OISIIPROTEIN, 48350532, Team Papago, 5, 0, 5
+8, 13, Theodore, Uriha, 가우스라이플, Defense, 13, 5, 5, 0, 0, 0, 5, 0, 2, 3, 24, Raim, 48350532, Team Papago, 5, 0, 5

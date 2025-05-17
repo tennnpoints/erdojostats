@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Chiara, Raim, 노스페라투-새벽, Defense, 20, 22, 22, 19, 2, 0, 1, 0, 15, 7, 51, , 48344539, NTK, 31, 10, 21
+1, 20, Nicky, 피세, 아이언피스트, Defense, 20, 22, 22, 19, 2, 0, 1, 0, 6, 14, 69, , 48344539, NTK, 31, 10, 21
+1, 20, Johann, 3y3s, 더썬, Defense, 20, 22, 22, 19, 2, 0, 1, 0, 1, 20, 29, , 48344539, NTK, 31, 10, 21
+2, 20, Garnet, LegendOfLeague, 마법봉, Defense, 20, 15, 15, 12, 1, 0, 2, 0, 6, 7, 32, 피세, 48344539, 松竹梅, 21.5, 7, 14.5
+2, 20, Nathapon, 松マキサ, 울트라비전, Defense, 20, 15, 15, 12, 1, 0, 2, 0, 3, 9, 57, Raim, 48344539, 松竹梅, 21.5, 7, 14.5
+2, 20, YuMin, akihisa, 여제, Defense, 20, 15, 15, 12, 1, 0, 2, 0, 6, 8, 81, Raim, 48344539, 松竹梅, 21.5, 7, 14.5
+3, 18, Alonso, パルコフォルゴレ, 디바인피스트, Defense, 18, 9, 9, 8, 0, 0, 1, 0, 1, 6, 17, Raim, 48344539, Toddler Gangster, 14, 5, 9
+3, 20, Lenore, かとかい, 헤븐즈도어, Hunt, 20, 9, 9, 8, 0, 0, 1, 0, 1, 6, 68, Raim, 48344539, Toddler Gangster, 14, 5, 9
+3, 19, Nadine, Meltt, 아르기로톡소스, Defense, 20, 9, 9, 8, 0, 0, 1, 0, 7, 1, 47, LegendOfLeague, 48344539, Toddler Gangster, 14, 5, 9
+4, 18, Hyejin, vaqlas, 골든래쇼보우, Defense, 19, 2, 2, 1, 0, 0, 1, 0, 0, 2, 24, 피세, 48344539, Bunya, 6, 4, 2
+4, 18, Katja, えすみす, 현자총통, Hunt, 19, 2, 2, 1, 0, 0, 1, 0, 1, 1, 53, らいらい, 48344539, Bunya, 6, 4, 2
+4, 19, Estelle, voider26, 빔엑스, Defense, 18, 2, 2, 1, 0, 0, 1, 0, 1, 1, 45, akihisa, 48344539, Bunya, 6, 4, 2
+5, 19, Rio, 박의민, 적궁백시, Defense, 19, 12, 12, 1, 7, 0, 4, 0, 6, 4, 33, LegendOfLeague, 48344539, いなずまっ！, 11.5, 3, 8.5
+5, 20, Camilo, らいらい, 이천일류, Defense, 19, 12, 12, 1, 7, 0, 4, 0, 2, 7, 46, akihisa, 48344539, いなずまっ！, 11.5, 3, 8.5
+5, 19, Echion, OISIIPROTEIN, 슈퍼사이드와인더, Defense, 18, 12, 12, 1, 7, 0, 4, 0, 4, 4, 29, LegendOfLeague, 48344539, いなずまっ！, 11.5, 3, 8.5
+6, 19, Darko, ZEKURIP, 여의봉, Defense, 19, 11, 11, 0, 7, 0, 4, 0, 3, 5, 38, LegendOfLeague, 48344539, チクチク梅, 9.5, 2, 7.5
+6, 19, Charlotte, レイライン, 더썬, Defense, 18, 11, 11, 0, 7, 0, 4, 0, 1, 10, 20, LegendOfLeague, 48344539, チクチク梅, 9.5, 2, 7.5
+6, 20, Hisui, 無双, 빛의검, Defense, 20, 11, 11, 0, 7, 0, 4, 0, 7, 4, 89, akihisa, 48344539, チクチク梅, 9.5, 2, 7.5
+7, 12, Hisui, けみ子, 빛의검, Defense, 12, 3, 3, 0, 1, 0, 2, 0, 1, 0, 10, 피세, 48344539, OverThrow, 3.5, 1, 2.5
+7, 12, Leon, sino1012, 프로스트팽, Defense, 12, 3, 3, 0, 1, 0, 2, 0, 0, 2, 23, 피세, 48344539, OverThrow, 3.5, 1, 2.5
+7, 12, Rozzi, れもんだもん, 일렉트론블라스터, Defense, 12, 3, 3, 0, 1, 0, 2, 0, 2, 0, 19, Raim, 48344539, OverThrow, 3.5, 1, 2.5
+8, 10, Katja, Uriha, Tac-50, Defense, 10, 1, 1, 0, 1, 0, 0, 0, 1, 0, 15, かとかい, 48344539, Team Papago, 0.5, 0, 0.5
+8, 9, Nicky, 에필로그, 빙화현옥수, Defense, 7, 1, 1, 0, 1, 0, 0, 0, 0, 0, 15, パルコフォルゴレ, 48344539, Team Papago, 0.5, 0, 0.5
+8, 10, Silvia, KatsuragiAce, 스탬피드, Defense, 8, 1, 1, 0, 1, 0, 0, 0, 0, 0, 11, Meltt, 48344539, Team Papago, 0.5, 0, 0.5

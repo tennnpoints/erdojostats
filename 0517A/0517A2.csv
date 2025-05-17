@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Elena, レイライン, 미스틸테인, Defense, 20, 9, 9, 7, 2, 0, 0, 0, 1, 4, 33, , 48346666, チクチク梅, 18, 10, 8
+1, 20, Rozzi, ZEKURIP, 하이눈, Defense, 20, 9, 9, 7, 2, 0, 0, 0, 5, 3, 71, , 48346666, チクチク梅, 18, 10, 8
+1, 20, Hisui, 無双, 빛의검, Defense, 20, 9, 9, 7, 2, 0, 0, 0, 3, 3, 104, , 48346666, チクチク梅, 18, 10, 8
+2, 20, Hyejin, vaqlas, 아르기로톡소스, Defense, 20, 12, 12, 8, 0, 0, 4, 0, 2, 8, 46, 無双, 48346666, Bunya, 19, 7, 12
+2, 20, Estelle, voider26, 낙원의낫, Defense, 20, 12, 12, 8, 0, 0, 4, 0, 4, 6, 23, 無双, 48346666, Bunya, 19, 7, 12
+2, 20, Katja, えすみす, 인터벤션, Defense, 20, 12, 12, 8, 0, 0, 4, 0, 6, 5, 60, ZEKURIP, 48346666, Bunya, 19, 7, 12
+3, 19, Nadine, Meltt, 아르기로톡소스, Defense, 20, 6, 6, 5, 1, 0, 0, 0, 1, 4, 42, voider26, 48346666, Toddler Gangster, 10.5, 5, 5.5
+3, 18, Alonso, パルコフォルゴレ, 디바인피스트, Defense, 18, 6, 6, 5, 1, 0, 0, 0, 1, 5, 12, えすみす, 48346666, Toddler Gangster, 10.5, 5, 5.5
+3, 20, Lenore, かとかい, 헤븐즈도어, Defense, 20, 6, 6, 5, 1, 0, 0, 0, 4, 2, 67, vaqlas, 48346666, Toddler Gangster, 10.5, 5, 5.5
+4, 20, Echion, OISIIPROTEIN, 슈퍼사이드와인더, Defense, 19, 5, 5, 0, 3, 0, 2, 0, 0, 3, 31, ZEKURIP, 48346666, いなずまっ！, 7.5, 4, 3.5
+4, 20, Karla, 박의민, 혈색반월-새벽, Defense, 20, 5, 5, 0, 3, 0, 2, 0, 3, 1, 68, レイライン, 48346666, いなずまっ！, 7.5, 4, 3.5
+4, 20, Camilo, らいらい, 이천일류, Defense, 19, 5, 5, 0, 3, 0, 2, 0, 2, 1, 41, ZEKURIP, 48346666, いなずまっ！, 7.5, 4, 3.5
+5, 19, Hisui, けみ子, 빛의검, Defense, 18, 6, 6, 6, 0, 0, 0, 0, 4, 2, 46, vaqlas, 48346666, OverThrow, 9, 3, 6
+5, 18, Rozzi, れもんだもん, 일렉트론블라스터, Hunt, 17, 6, 6, 6, 0, 0, 0, 0, 0, 2, 48, えすみす, 48346666, OverThrow, 9, 3, 6
+5, 19, Leon, sino1012, 프로스트팽, Defense, 17, 6, 6, 6, 0, 0, 0, 0, 2, 3, 23, voider26, 48346666, OverThrow, 9, 3, 6
+6, 18, Hart, Uriha, 틴스피릿, Defense, 17, 6, 6, 0, 5, 0, 1, 0, 0, 4, 44, かとかい, 48346666, Team Papago, 5.5, 2, 3.5
+6, 18, Silvia, KatsuragiAce, 스탬피드, Defense, 17, 6, 6, 0, 5, 0, 1, 0, 2, 3, 37, かとかい, 48346666, Team Papago, 5.5, 2, 3.5
+6, 17, Hisui, 에필로그, 빛의검, Defense, 17, 6, 6, 0, 5, 0, 1, 0, 4, 2, 52, かとかい, 48346666, Team Papago, 5.5, 2, 3.5
+7, 13, Katja, 松マキサ, 폴라리스, Defense, 11, 1, 1, 0, 1, 0, 0, 0, 0, 1, 24, けみ子, 48346666, 松竹梅, 1.5, 1, 0.5
+7, 14, Markus, LegendOfLeague, 반고부, Defense, 12, 1, 1, 0, 1, 0, 0, 0, 1, 0, 31, けみ子, 48346666, 松竹梅, 1.5, 1, 0.5
+7, 14, YuMin, akihisa, 여제, Defense, 13, 1, 1, 0, 1, 0, 0, 0, 0, 1, 17, sino1012, 48346666, 松竹梅, 1.5, 1, 0.5
+8, 9, Johann, 3y3s, 절제, Defense, 6, 3, 3, 0, 3, 0, 0, 0, 0, 2, 5, sino1012, 48346666, NTK, 1.5, 0, 1.5
+8, 10, Chiara, Raim, 레드팬서, Defense, 8, 3, 3, 0, 3, 0, 0, 0, 3, 0, 17, けみ子, 48346666, NTK, 1.5, 0, 1.5
+8, 10, Camilo, 피세, 듀랜달Mk2, Defense, 8, 3, 3, 0, 3, 0, 0, 0, 0, 3, 25, けみ子, 48346666, NTK, 1.5, 0, 1.5
