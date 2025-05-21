@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Estelle, voider26, 낙원의낫, Defense, 20, 10, 11, 5, 3, 0, 2, 0, 2, 7, 45, , 48492921, Bunya, 18.5, 10, 8.5
+1, 20, Zahir, えすみす, 소이탄, Hunt, 20, 10, 11, 5, 3, 0, 2, 0, 5, 5, 66, , 48492921, Bunya, 18.5, 10, 8.5
+1, 20, Celine, vaqlas, 체이서, Hunt, 20, 10, 11, 5, 3, 0, 2, 0, 3, 3, 73, , 48492921, Bunya, 18.5, 10, 8.5
+2, 20, Rozzi, れもんだもん, 하이눈, Defense, 20, 6, 6, 6, 0, 0, 0, 0, 6, 0, 71, えすみす, 48492921, OverThrow, 13, 7, 6
+2, 20, Elena, sino1012, 노스페라투, Defense, 19, 6, 6, 6, 0, 0, 0, 0, 0, 6, 24, えすみす, 48492921, OverThrow, 13, 7, 6
+2, 20, Hisui, けみ子, 빛의검, Defense, 20, 6, 6, 6, 0, 0, 0, 0, 0, 6, 61, えすみす, 48492921, OverThrow, 13, 7, 6
+3, 19, Alonso, 鈴木リコリス, 프로스트팽, Defense, 18, 8, 8, 4, 4, 0, 0, 0, 1, 7, 26, , 48492921, EGGNITE, 11, 5, 6
+3, 19, Justyna, コメダの泥水, 팬텀 볼트, Defense, 18, 8, 8, 4, 4, 0, 0, 0, 6, 2, 48, れもんだもん, 48492921, EGGNITE, 11, 5, 6
+3, 19, Adina, たまご, 더문, Defense, 19, 8, 8, 4, 4, 0, 0, 0, 1, 7, 47, れもんだもん, 48492921, EGGNITE, 11, 5, 6
+4, 17, Leon, TKDNdecoy, 마이쏙, Defense, 17, 1, 1, 0, 0, 0, 1, 0, 1, 0, 13, コメダの泥水, 48492921, Gear of Society, 5, 4, 1
+4, 18, William, ぷれこーーーーる, 안티오크의수류탄, Defense, 18, 1, 1, 0, 0, 0, 1, 0, 0, 1, 65, コメダの泥水, 48492921, Gear of Society, 5, 4, 1
+4, 18, Bernice, Dotter, 폴라리스, Hunt, 18, 1, 1, 0, 0, 0, 1, 0, 0, 1, 59, 鈴木リコリス, 48492921, Gear of Society, 5, 4, 1
+5, 17, Leni, みゅーき, 스탬피드, Defense, 16, 14, 14, 9, 2, 0, 3, 0, 3, 11, 21, れもんだもん, 48492921, Out of Control, 16, 3, 13
+5, 18, Lyanh, thato, 비색단검, Defense, 18, 14, 14, 9, 2, 0, 3, 0, 8, 6, 38, れもんだもん, 48492921, Out of Control, 16, 3, 13
+5, 18, Chiara, ハッピー天月, 미스틸테인, Defense, 17, 14, 14, 9, 2, 0, 3, 0, 3, 10, 37, れもんだもん, 48492921, Out of Control, 16, 3, 13
+6, 16, Xiukai, Prushka, 방천화극, Defense, 16, 6, 6, 3, 2, 0, 1, 0, 1, 5, 4, thato, 48492921, Toddler Gangster, 7, 2, 5
+6, 16, Nadine, Meltt, 대황, Defense, 17, 6, 6, 3, 2, 0, 1, 0, 4, 2, 43, ハッピー天月, 48492921, Toddler Gangster, 7, 2, 5
+6, 17, Haze, かとかい, 발키리, Defense, 17, 6, 6, 3, 2, 0, 1, 0, 1, 3, 34, みゅーき, 48492921, Toddler Gangster, 7, 2, 5
+7, 14, Nicky, LegendOfLeague, 아이언피스트, Defense, 13, 3, 3, 0, 3, 0, 0, 0, 0, 0, 11, Prushka, 48492921, 松竹梅, 2.5, 1, 1.5
+7, 14, Istvan, akihisa, 애각창, Defense, 14, 3, 3, 0, 3, 0, 0, 0, 1, 1, 32, Meltt, 48492921, 松竹梅, 2.5, 1, 1.5
+7, 14, Bernice, 松マキサ, 폴라리스, Defense, 14, 3, 3, 0, 3, 0, 0, 0, 2, 1, 30, かとかい, 48492921, 松竹梅, 2.5, 1, 1.5
+8, 12, Charlotte, レイライン, 운명의수레바퀴, Defense, 10, 4, 4, 0, 4, 0, 0, 0, 0, 1, 19, thato, 48492921, チクチク梅, 2, 0, 2
+8, 13, Darko, ZEKURIP, 여의봉, Defense, 11, 4, 4, 0, 4, 0, 0, 0, 2, 0, 20, ハッピー天月, 48492921, チクチク梅, 2, 0, 2
+8, 13, Hisui, 無双, 모노호시자오, Defense, 12, 4, 4, 0, 4, 0, 0, 0, 2, 1, 40, みゅーき, 48492921, チクチク梅, 2, 0, 2
