@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Jenny, ZEKURIP, 알타이르, Defense, 20, 14, 14, 12, 0, 0, 2, 0, 5, 8, 48, , 48725222, チクチク梅, 24, 10, 14
+1, 20, Charlotte, レイライン, 더썬, Defense, 19, 14, 14, 12, 0, 0, 2, 0, 2, 12, 21, , 48725222, チクチク梅, 24, 10, 14
+1, 20, Hisui, 無双, 빛의검, Defense, 20, 14, 14, 12, 0, 0, 2, 0, 7, 6, 78, , 48725222, チクチク梅, 24, 10, 14
+2, 20, Markus, Prushka, 반고부, Defense, 19, 11, 11, 4, 6, 0, 1, 0, 2, 2, 35, 無双, 48725222, Toddler Gangster, 15, 7, 8
+2, 20, Justyna, かとかい, 팬텀 볼트, Defense, 20, 11, 11, 4, 6, 0, 1, 0, 4, 7, 62, ZEKURIP, 48725222, Toddler Gangster, 15, 7, 8
+2, 20, Rio, Meltt, 적궁백시, Defense, 20, 11, 11, 4, 6, 0, 1, 0, 5, 4, 54, ZEKURIP, 48725222, Toddler Gangster, 15, 7, 8
+3, 20, Chiara, Raim, 아르고스의눈, Defense, 20, 14, 14, 12, 1, 0, 1, 0, 6, 8, 71, Meltt, 48725222, 家族団らん, 18.5, 5, 13.5
+3, 20, Johann, 3y3s, 더썬, Defense, 19, 14, 14, 12, 1, 0, 1, 0, 0, 13, 21, 無双, 48725222, 家族団らん, 18.5, 5, 13.5
+3, 20, Camilo, らいらい, 간장과막야, Defense, 20, 14, 14, 12, 1, 0, 1, 0, 8, 4, 64, 無双, 48725222, 家族団らん, 18.5, 5, 13.5
+4, 19, Aya, sLLLime, 엘레강스, Defense, 19, 6, 6, 4, 0, 0, 2, 0, 6, 0, 53, ZEKURIP, 48725222, NotBeingAll, 10, 4, 6
+4, 19, Felix, たまねぎ2nd, 장팔사모, Defense, 19, 6, 6, 4, 0, 0, 2, 0, 0, 3, 55, Raim, 48725222, NotBeingAll, 10, 4, 6
+4, 18, Estelle, upalupa, 빔엑스, Defense, 18, 6, 6, 4, 0, 0, 2, 0, 0, 6, 37, ZEKURIP, 48725222, NotBeingAll, 10, 4, 6
+5, 18, Haze, れもんだもん, 골드러시, Defense, 18, 9, 9, 2, 3, 0, 4, 0, 5, 2, 41, らいらい, 48725222, OverThrow, 10.5, 3, 7.5
+5, 18, Hisui, けみ子, 모노호시자오, Defense, 18, 9, 9, 2, 3, 0, 4, 0, 3, 3, 23, らいらい, 48725222, OverThrow, 10.5, 3, 7.5
+5, 20, Vanya, sino1012, 여제, Defense, 20, 9, 9, 2, 3, 0, 4, 0, 1, 7, 41, らいらい, 48725222, OverThrow, 10.5, 3, 7.5
+6, 19, Bernice, Dorago, 인터벤션, Defense, 19, 4, 4, 1, 2, 0, 1, 0, 0, 3, 63, らいらい, 48725222, ほーんてっどまんしょん, 5, 2, 3
+6, 19, Chiara, OISIIPROTEIN, 아르고스의눈, Defense, 19, 4, 4, 1, 2, 0, 1, 0, 2, 2, 55, Raim, 48725222, ほーんてっどまんしょん, 5, 2, 3
+6, 18, Johann, うぃくらいん, 절제, Defense, 16, 4, 4, 1, 2, 0, 1, 0, 2, 2, 14, Raim, 48725222, ほーんてっどまんしょん, 5, 2, 3
+7, 12, YuMin, akihisa, 더스타, Defense, 12, 7, 7, 0, 4, 0, 3, 0, 1, 4, 20, かとかい, 48725222, 松竹梅, 6, 1, 5
+7, 10, Nathapon, 松マキサ, 폴라로이드카메라, Defense, 10, 7, 7, 0, 4, 0, 3, 0, 3, 2, 26, Meltt, 48725222, 松竹梅, 6, 1, 5
+7, 12, Garnet, LegendOfLeague, 스파이의우산, Defense, 10, 7, 7, 0, 4, 0, 3, 0, 3, 2, 16, Meltt, 48725222, 松竹梅, 6, 1, 5

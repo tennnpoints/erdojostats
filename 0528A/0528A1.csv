@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Garnet, LegendOfLeague, 스파이의우산, Defense, 20, 10, 10, 7, 2, 0, 1, 0, 6, 4, 36, , 48719898, 松竹梅, 19, 10, 9
+1, 20, Nathapon, 松マキサ, 울트라비전, Defense, 20, 10, 10, 7, 2, 0, 1, 0, 0, 8, 76, , 48719898, 松竹梅, 19, 10, 9
+1, 20, YuMin, akihisa, 여제, Defense, 20, 10, 10, 7, 2, 0, 1, 0, 4, 5, 71, , 48719898, 松竹梅, 19, 10, 9
+2, 20, Camilo, らいらい, 환영도-진홍, Defense, 20, 17, 17, 12, 1, 0, 4, 0, 5, 8, 61, akihisa, 48719898, 家族団らん, 23.5, 7, 16.5
+2, 20, Johann, 3y3s, 더 데스-새벽, Defense, 19, 17, 17, 12, 1, 0, 4, 0, 2, 15, 9, LegendOfLeague, 48719898, 家族団らん, 23.5, 7, 16.5
+2, 20, Chiara, Raim, 아르고스의눈, Defense, 20, 17, 17, 12, 1, 0, 4, 0, 10, 6, 47, LegendOfLeague, 48719898, 家族団らん, 23.5, 7, 16.5
+3, 20, Leni, ZEKURIP, 스탬피드, Defense, 19, 9, 9, 5, 2, 0, 2, 0, 1, 8, 20, らいらい, 48719898, チクチク梅, 13, 5, 8
+3, 19, Elena, レイライン, 활빈검, Defense, 19, 9, 9, 5, 2, 0, 2, 0, 0, 5, 42, LegendOfLeague, 48719898, チクチク梅, 13, 5, 8
+3, 19, Hisui, 無双, 다인슬라이프, Defense, 20, 9, 9, 5, 2, 0, 2, 0, 8, 1, 79, akihisa, 48719898, チクチク梅, 13, 5, 8
+4, 19, Xiukai, Prushka, 파산검, Defense, 19, 8, 8, 4, 3, 0, 1, 0, 0, 8, 11, 3y3s, 48719898, Toddler Gangster, 10.5, 4, 6.5
+4, 20, YuMin, かとかい, 여제, Defense, 20, 8, 8, 4, 3, 0, 1, 0, 5, 2, 69, 3y3s, 48719898, Toddler Gangster, 10.5, 4, 6.5
+4, 19, Rio, Meltt, 적궁백시, Defense, 20, 8, 8, 4, 3, 0, 1, 0, 3, 5, 57, らいらい, 48719898, Toddler Gangster, 10.5, 4, 6.5
+5, 18, Elena, Dorago, 레드팬서, Defense, 15, 4, 4, 0, 1, 0, 3, 0, 0, 4, 32, かとかい, 48719898, ほーんてっどまんしょん, 6.5, 3, 3.5
+5, 17, Istvan, うぃくらいん, 장팔사모, Defense, 16, 4, 4, 0, 1, 0, 3, 0, 2, 2, 40, Meltt, 48719898, ほーんてっどまんしょん, 6.5, 3, 3.5
+5, 17, Chiara, OISIIPROTEIN, 레드팬서, Defense, 16, 4, 4, 0, 1, 0, 3, 0, 2, 0, 49, かとかい, 48719898, ほーんてっどまんしょん, 6.5, 3, 3.5
+6, 19, Laura, たまねぎ2nd, 우라누스, Hunt, 19, 2, 2, 2, 0, 0, 0, 0, 0, 2, 66, akihisa, 48719898, NotBeingAll, 4, 2, 2
+6, 18, DebiMarlene, upalupa, 아론다이트, Defense, 17, 2, 2, 2, 0, 0, 0, 0, 0, 2, 21, akihisa, 48719898, NotBeingAll, 4, 2, 2
+6, 19, Aya, sLLLime, 알타이르, Hunt, 19, 2, 2, 2, 0, 0, 0, 0, 2, 0, 63, Raim, 48719898, NotBeingAll, 4, 2, 2
+7, 17, Jan, sino1012, 택티컬톤파, Defense, 17, 6, 6, 0, 0, 0, 6, 0, 2, 2, 25, Raim, 48719898, OverThrow, 7, 1, 6
+7, 17, Hisui, けみ子, 모노호시자오, Defense, 18, 6, 6, 0, 0, 0, 6, 0, 4, 2, 53, Raim, 48719898, OverThrow, 7, 1, 6
+7, 16, Elena, れもんだもん, 레드팬서, Defense, 16, 6, 6, 0, 0, 0, 6, 0, 0, 5, 44, Raim, 48719898, OverThrow, 7, 1, 6

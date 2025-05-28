@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Camilo, らいらい, 환영도-진홍, Defense, 20, 12, 12, 8, 0, 0, 4, 0, 3, 8, 102, , 48723584, 家族団らん, 22, 10, 12
+1, 19, Johann, 3y3s, 더썬, Defense, 18, 12, 12, 8, 0, 0, 4, 0, 0, 10, 13, , 48723584, 家族団らん, 22, 10, 12
+1, 20, Chiara, Raim, 아르고스의눈, Defense, 20, 12, 12, 8, 0, 0, 4, 0, 9, 2, 59, , 48723584, 家族団らん, 22, 10, 12
+2, 20, Leni, ZEKURIP, 마탄의사수, Defense, 20, 13, 13, 8, 2, 0, 3, 0, 3, 10, 32, Raim, 48723584, チクチク梅, 19, 7, 12
+2, 20, Elena, レイライン, 미스틸테인, Defense, 20, 13, 13, 8, 2, 0, 3, 0, 3, 7, 45, Raim, 48723584, チクチク梅, 19, 7, 12
+2, 20, Hisui, 無双, 다인슬라이프, Defense, 20, 13, 13, 8, 2, 0, 3, 0, 7, 4, 106, Raim, 48723584, チクチク梅, 19, 7, 12
+3, 20, Daniel, LegendOfLeague, 소울리퍼, Defense, 20, 15, 15, 11, 1, 0, 3, 0, 9, 4, 45, 無双, 48723584, 松竹梅, 19.5, 5, 14.5
+3, 20, Elena, 松マキサ, 활빈검, Defense, 19, 15, 15, 11, 1, 0, 3, 0, 1, 13, 26, 無双, 48723584, 松竹梅, 19.5, 5, 14.5
+3, 20, Istvan, akihisa, 애각창, Defense, 20, 15, 15, 11, 1, 0, 3, 0, 5, 7, 63, 無双, 48723584, 松竹梅, 19.5, 5, 14.5
+4, 18, Leni, うぃくらいん, 스탬피드, Defense, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, LegendOfLeague, 48723584, ほーんてっどまんしょん, 4, 4, 0
+4, 18, Jenny, Dorago, 알타이르, Defense, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 52, akihisa, 48723584, ほーんてっどまんしょん, 4, 4, 0
+4, 19, Echion, OISIIPROTEIN, 블랙맘바킹-TL, Defense, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, LegendOfLeague, 48723584, ほーんてっどまんしょん, 4, 4, 0
+5, 19, Jan, sino1012, 천잠장갑, Defense, 18, 6, 6, 0, 4, 0, 2, 0, 2, 3, 52, LegendOfLeague, 48723584, OverThrow, 7, 3, 4
+5, 18, Hisui, けみ子, 모노호시자오, Defense, 19, 6, 6, 0, 4, 0, 2, 0, 4, 2, 51, らいらい, 48723584, OverThrow, 7, 3, 4
+5, 18, Elena, れもんだもん, 레드팬서, Defense, 17, 6, 6, 0, 4, 0, 2, 0, 0, 2, 21, らいらい, 48723584, OverThrow, 7, 3, 4
+6, 15, Zahir, かとかい, 소이탄, Hunt, 15, 3, 3, 1, 1, 0, 1, 0, 2, 0, 57, LegendOfLeague, 48723584, Toddler Gangster, 4.5, 2, 2.5
+6, 16, Alonso, Prushka, 디바인피스트, Defense, 14, 3, 3, 1, 1, 0, 1, 0, 1, 1, 7, LegendOfLeague, 48723584, Toddler Gangster, 4.5, 2, 2.5
+6, 15, Theodore, Meltt, 데드아이, Defense, 15, 3, 3, 1, 1, 0, 1, 0, 0, 3, 29, akihisa, 48723584, Toddler Gangster, 4.5, 2, 2.5
+7, 14, Aya, sLLLime, 엘레강스, Defense, 13, 5, 5, 0, 3, 0, 2, 0, 2, 3, 29, akihisa, 48723584, NotBeingAll, 4.5, 1, 3.5
+7, 13, DebiMarlene, upalupa, 레바테인, Defense, 13, 5, 5, 0, 3, 0, 2, 0, 2, 2, 16, LegendOfLeague, 48723584, NotBeingAll, 4.5, 1, 3.5
+7, 14, Laura, たまねぎ2nd, 플라즈마윕, Defense, 13, 5, 5, 0, 3, 0, 2, 0, 1, 2, 49, LegendOfLeague, 48723584, NotBeingAll, 4.5, 1, 3.5
