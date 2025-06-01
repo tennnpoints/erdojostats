@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Tia, Atato, 터럭손방망이, Defense, 19, 11, 11, 11, 0, 0, 0, 0, 3, 5, 47, , 48880899, 最強★Love & Peace, 21, 10, 11
+1, 19, Hart, guppy63, 하트 브레이커-진홍, Defense, 19, 11, 11, 11, 0, 0, 0, 0, 4, 7, 40, , 48880899, 最強★Love & Peace, 21, 10, 11
+1, 19, Mai, chainin, 뇌룡편, Defense, 18, 11, 11, 11, 0, 0, 0, 0, 4, 6, 12, , 48880899, 最強★Love & Peace, 21, 10, 11
+2, 19, Tia, neer, 터럭손방망이, Defense, 18, 14, 14, 11, 1, 0, 2, 0, 5, 8, 48, Atato, 48880899, ルミア島リサーチセンター, 20.5, 7, 13.5
+2, 19, Bernice, rauz, 위도우메이커, Defense, 20, 14, 14, 11, 1, 0, 2, 0, 5, 7, 53, Atato, 48880899, ルミア島リサーチセンター, 20.5, 7, 13.5
+2, 19, Eleven, ハクレイ, 뿅망치, Defense, 18, 14, 14, 11, 1, 0, 2, 0, 4, 9, 17, guppy63, 48880899, ルミア島リサーチセンター, 20.5, 7, 13.5
+3, 18, Nicky, hato88, 빙화현옥수, Defense, 17, 9, 9, 3, 6, 0, 0, 0, 1, 8, 18, rauz, 48880899, 私とりんご穏健派, 11, 5, 6
+3, 19, Adela, kur1ch4n, 아르고스의눈, Defense, 18, 9, 9, 3, 6, 0, 0, 0, 6, 3, 39, ハクレイ, 48880899, 私とりんご穏健派, 11, 5, 6
+3, 19, Sua, PYP, 둠스데이, Defense, 18, 9, 9, 3, 6, 0, 0, 0, 2, 6, 50, ハクレイ, 48880899, 私とりんご穏健派, 11, 5, 6
+4, 17, Darko, チクタク, 여의봉, Defense, 17, 2, 2, 1, 1, 0, 0, 0, 0, 2, 20, kur1ch4n, 48880899, たこ焼き, 5.5, 4, 1.5
+4, 19, Katja, LxN, 인터벤션, Hunt, 18, 2, 2, 1, 1, 0, 0, 0, 1, 0, 70, ハクレイ, 48880899, たこ焼き, 5.5, 4, 1.5
+4, 17, Arda, かめちゃ, 절제, Defense, 16, 2, 2, 1, 1, 0, 0, 0, 1, 1, 23, neer, 48880899, たこ焼き, 5.5, 4, 1.5
+5, 19, Alex, ここかな, 일렉트론블라스터, Hunt, 18, 3, 3, 0, 1, 0, 2, 0, 2, 1, 58, guppy63, 48880899, シャルティメットストーム, 5.5, 3, 2.5
+5, 18, Estelle, SSPotato, 빔엑스, Defense, 17, 3, 3, 0, 1, 0, 2, 0, 0, 3, 13, LxN, 48880899, シャルティメットストーム, 5.5, 3, 2.5
+5, 19, Isol, 義妹, 알타이르, Defense, 18, 3, 3, 0, 1, 0, 2, 0, 1, 2, 48, guppy63, 48880899, シャルティメットストーム, 5.5, 3, 2.5
+6, 17, Lenox, Mimoria, 뇌룡편, Defense, 16, 7, 7, 2, 2, 0, 3, 0, 3, 3, 4, neer, 48880899, ルミネスター, 8, 2, 6
+6, 18, Karla, azazazazazazazaz, 혈색반월-새벽, Defense, 18, 7, 7, 2, 2, 0, 3, 0, 2, 4, 61, rauz, 48880899, ルミネスター, 8, 2, 6
+6, 17, Katja, まいめろでぃー, 인터벤션, Defense, 16, 7, 7, 2, 2, 0, 3, 0, 2, 5, 45, rauz, 48880899, ルミネスター, 8, 2, 6
+7, 16, Arda, Latesummerr, 운명의수레바퀴, Defense, 16, 5, 5, 1, 3, 0, 1, 0, 1, 4, 34, chainin, 48880899, 佐川大根, 4.5, 1, 3.5
+7, 16, Istvan, Flere210, 애각창, Defense, 15, 5, 5, 1, 3, 0, 1, 0, 1, 1, 54, chainin, 48880899, 佐川大根, 4.5, 1, 3.5
+7, 16, Nicky, PecoMizuki, 아이언피스트, Defense, 16, 5, 5, 1, 3, 0, 1, 0, 3, 2, 33, chainin, 48880899, 佐川大根, 4.5, 1, 3.5
+8, 14, Adela, makobi, 아르고스의눈, Defense, 14, 2, 2, 0, 0, 0, 2, 0, 1, 1, 59, ハクレイ, 48880899, AYDEN杯二次会組, 2, 0, 2
+8, 14, Nicky, 二寸法師, 아이언피스트, Defense, 12, 2, 2, 0, 0, 0, 2, 0, 0, 2, 27, rauz, 48880899, AYDEN杯二次会組, 2, 0, 2
+8, 13, Darko, 暴言は敗北を招く, 여의봉, Defense, 13, 2, 2, 0, 0, 0, 2, 0, 1, 1, 24, rauz, 48880899, AYDEN杯二次会組, 2, 0, 2
