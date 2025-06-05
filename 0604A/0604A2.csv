@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Xiukai, Prushka, 월식, Defense, 19, 12, 12, 10, 1, 0, 1, 0, 0, 10, 10, , 48996061, Toddler Gangster, 21.5, 10, 11.5
+1, 20, Rio, Meltt, 페일노트-진홍, Defense, 20, 12, 12, 10, 1, 0, 1, 0, 9, 2, 57, , 48996061, Toddler Gangster, 21.5, 10, 11.5
+1, 20, Haze, かとかい, 헬파이어-새벽, Defense, 20, 12, 12, 10, 1, 0, 1, 0, 3, 9, 75, , 48996061, Toddler Gangster, 21.5, 10, 11.5
+2, 20, Leon, TKDNdecoy, 프로스트팽, Defense, 19, 8, 8, 3, 2, 0, 3, 0, 5, 3, 63, かとかい, 48996061, ミスディレクション, 14, 7, 7
+2, 20, YuMin, 駅弁mk, 더 데스-새벽, Defense, 20, 8, 8, 3, 2, 0, 3, 0, 2, 6, 83, かとかい, 48996061, ミスディレクション, 14, 7, 7
+2, 20, Elena, sukopi, 미스틸테인, Defense, 19, 8, 8, 3, 2, 0, 3, 0, 1, 5, 30, Meltt, 48996061, ミスディレクション, 14, 7, 7
+3, 20, Elena, HeianKYO, 미스틸테인, Defense, 19, 14, 14, 7, 3, 0, 4, 0, 4, 8, 36, かとかい, 48996061, お調子前転部, 17.5, 5, 12.5
+3, 19, Jenny, 前ブリンクうまお, 알타이르, Defense, 19, 14, 14, 7, 3, 0, 4, 0, 3, 8, 55, Meltt, 48996061, お調子前転部, 17.5, 5, 12.5
+3, 19, Isol, マーカスの大胸筋, 마탄의사수, Defense, 20, 14, 14, 7, 3, 0, 4, 0, 7, 7, 40, Meltt, 48996061, お調子前転部, 17.5, 5, 12.5
+4, 17, Adina, kumikuma, 더문, Defense, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41, Meltt, 48996061, Overtime, 4, 4, 0
+4, 17, Lenox, mistear, 뇌룡편, Defense, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, sino1012, 48996061, Overtime, 4, 4, 0
+4, 16, Rio, Efina, 적궁백시, Hunt, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 78, sino1012, 48996061, Overtime, 4, 4, 0
+5, 18, Jan, sino1012, 윈드러너, Defense, 17, 8, 8, 3, 0, 0, 5, 0, 5, 3, 47, HeianKYO, 48996061, アスパクラブ, 11, 3, 8
+5, 18, Elena, れもんだもん, 레드팬서, Defense, 17, 8, 8, 3, 0, 0, 5, 0, 1, 4, 53, マーカスの大胸筋, 48996061, アスパクラブ, 11, 3, 8
+5, 17, Silvia, voider26, 하이 눈-새벽, Defense, 17, 8, 8, 3, 0, 0, 5, 0, 2, 5, 53, マーカスの大胸筋, 48996061, アスパクラブ, 11, 3, 8
+6, 14, Johann, 3y3s, 절제, Defense, 13, 1, 1, 0, 0, 0, 1, 0, 0, 0, 17, Meltt, 48996061, ちはとファンクラブ, 3, 2, 1
+6, 15, Hisui, 無双, 빛의검, Defense, 14, 1, 1, 0, 0, 0, 1, 0, 0, 0, 43, Meltt, 48996061, ちはとファンクラブ, 3, 2, 1
+6, 15, Lyanh, thato, 카른웬난, Defense, 15, 1, 1, 0, 0, 0, 1, 0, 1, 0, 48, Meltt, 48996061, ちはとファンクラブ, 3, 2, 1
+7, 12, Karla, Twitchtatsuo0308, 포이즌드크로스보우, Defense, 10, 5, 5, 0, 2, 0, 3, 0, 1, 4, 15, TKDNdecoy, 48996061, ETC, 5, 1, 4
+7, 12, Alonso, 鈴木リコリス, 디바인피스트, Defense, 9, 5, 5, 0, 2, 0, 3, 0, 1, 3, 3, 駅弁mk, 48996061, ETC, 5, 1, 4
+7, 11, Niah, CiELzzz, 엘레강스, Defense, 10, 5, 5, 0, 2, 0, 3, 0, 3, 2, 11, 駅弁mk, 48996061, ETC, 5, 1, 4
+8, 13, Adela, 목련, 아르고스의눈, Defense, 12, 2, 2, 0, 1, 0, 1, 0, 1, 1, 41, 前ブリンクうまお, 48996061, Etranger, 1.5, 0, 1.5
+8, 13, Fiora, wowaka, 알마스, Defense, 12, 2, 2, 0, 1, 0, 1, 0, 1, 1, 33, 前ブリンクうまお, 48996061, Etranger, 1.5, 0, 1.5
+8, 12, Nicky, Honesty, 빙화현옥수, Defense, 10, 2, 2, 0, 1, 0, 1, 0, 0, 1, 9, HeianKYO, 48996061, Etranger, 1.5, 0, 1.5
