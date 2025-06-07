@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Vanya, 冷害, 더문, Defense, 20, 10, 10, 10, 0, 0, 0, 0, 6, 3, 63, , 49108154, 親方空から女の子が, 20, 10, 10
+1, 19, Mai, upalupa, 사복검, Defense, 19, 10, 10, 10, 0, 0, 0, 0, 0, 9, 37, , 49108154, 親方空から女の子が, 20, 10, 10
+1, 20, Sua, Exaneko, 둠스데이, Defense, 20, 10, 10, 10, 0, 0, 0, 0, 4, 5, 89, , 49108154, 親方空から女の子が, 20, 10, 10
+2, 20, Katja, Dorago, 인터벤션, Defense, 20, 8, 8, 1, 4, 0, 3, 0, 4, 4, 64, 冷害, 49108154, ほーんてっどまんしょん, 13, 7, 6
+2, 19, Adriana, うぃくらいん, 체이서-새벽, Defense, 19, 8, 8, 1, 4, 0, 3, 0, 0, 7, 40, Exaneko, 49108154, ほーんてっどまんしょん, 13, 7, 6
+2, 20, Lenox, OISIIPROTEIN, 뇌룡편, Defense, 18, 8, 8, 1, 4, 0, 3, 0, 4, 4, 22, 冷害, 49108154, ほーんてっどまんしょん, 13, 7, 6
+3, 20, Chloe, 10p, 수다르사나, Defense, 20, 13, 13, 6, 3, 0, 4, 0, 4, 6, 64, 冷害, 49108154, あだぽしゃ, 16.5, 5, 11.5
+3, 20, Barbara, みらくる, 알타이르, Defense, 19, 13, 13, 6, 3, 0, 4, 0, 2, 8, 29, Exaneko, 49108154, あだぽしゃ, 16.5, 5, 11.5
+3, 20, Bernice, ドンブレ, 안드로메다, Defense, 20, 13, 13, 6, 3, 0, 4, 0, 7, 6, 66, Exaneko, 49108154, あだぽしゃ, 16.5, 5, 11.5
+4, 18, Karla, さすらいぱんだ, 발리스타, Defense, 18, 3, 3, 0, 1, 0, 2, 0, 2, 1, 50, ドンブレ, 49108154, Toddler Vivid, 6.5, 4, 2.5
+4, 18, Rio, Pororoca, 적궁백시, Defense, 17, 3, 3, 0, 1, 0, 2, 0, 0, 2, 42, ドンブレ, 49108154, Toddler Vivid, 6.5, 4, 2.5
+4, 18, Lenox, うぇびー, 뇌룡편, Defense, 17, 3, 3, 0, 1, 0, 2, 0, 1, 1, 22, 10p, 49108154, Toddler Vivid, 6.5, 4, 2.5
+5, 19, Camilo, らいらい, 환영도-진홍, Defense, 19, 13, 13, 8, 3, 0, 2, 0, 6, 6, 59, 冷害, 49108154, パクサンジュン吸収装置 , 14.5, 3, 11.5
+5, 18, Mai, みゅーき, 뇌룡편, Defense, 18, 13, 13, 8, 3, 0, 2, 0, 1, 10, 23, Exaneko, 49108154, パクサンジュン吸収装置 , 14.5, 3, 11.5
+5, 20, Adina, たまご, 더문, Defense, 20, 13, 13, 8, 3, 0, 2, 0, 6, 6, 61, 冷害, 49108154, パクサンジュン吸収装置 , 14.5, 3, 11.5
+6, 17, Hisui, 御存知ムエタイ, 빛의검, Hunt, 16, 5, 5, 2, 1, 0, 2, 0, 0, 4, 55, たまご, 49108154, Omakase, 6.5, 2, 4.5
+6, 17, Elena, かっと, 활빈검, Defense, 16, 5, 5, 2, 1, 0, 2, 0, 2, 3, 28, たまご, 49108154, Omakase, 6.5, 2, 4.5
+6, 17, Hyejin, MaTfromDota2, 생사부, Defense, 17, 5, 5, 2, 1, 0, 2, 0, 3, 2, 36, たまご, 49108154, Omakase, 6.5, 2, 4.5
+7, 10, Garnet, kimaki, 팔괘장, Defense, 8, 2, 2, 2, 0, 0, 0, 0, 2, 0, 11, らいらい, 49108154, Brainstorm, 3, 1, 2
+7, 10, Irem, Dato2, 소이탄, Defense, 9, 2, 2, 2, 0, 0, 0, 0, 0, 2, 36, たまご, 49108154, Brainstorm, 3, 1, 2
+7, 9, Tazia, syon1222, 푸른색단도, Defense, 7, 2, 2, 2, 0, 0, 0, 0, 0, 2, 14, らいらい, 49108154, Brainstorm, 3, 1, 2
+8, 9, Irem, catsR, 점착폭탄, Defense, 7, 2, 2, 0, 2, 0, 0, 0, 0, 1, 21, みゅーき, 49108154, エステル同好会, 1, 0, 1
+8, 10, Tia, れもんだもん, 팔괘장, Defense, 7, 2, 2, 0, 2, 0, 0, 0, 0, 0, 16, kimaki, 49108154, エステル同好会, 1, 0, 1
+8, 10, Jan, sino1012, 택티컬톤파, Defense, 7, 2, 2, 0, 2, 0, 0, 0, 2, 0, 15, kimaki, 49108154, エステル同好会, 1, 0, 1

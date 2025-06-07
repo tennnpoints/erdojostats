@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Bernice, Fetch, 인터벤션, Defense, 20, 16, 16, 10, 2, 0, 4, 0, 3, 11, 79, , 49106465, Toqeih Comp., 25, 10, 15
+1, 20, Hisui, TRPGBear, 다인슬라이프, Defense, 20, 16, 16, 10, 2, 0, 4, 0, 10, 5, 51, , 49106465, Toqeih Comp., 25, 10, 15
+1, 20, Priya, SpinningIce, 헤븐즈도어, Defense, 19, 16, 16, 10, 2, 0, 4, 0, 3, 11, 30, , 49106465, Toqeih Comp., 25, 10, 15
+2, 20, Nicky, REIA778, 빙화현옥수, Defense, 18, 12, 12, 5, 3, 0, 4, 0, 3, 5, 35, TRPGBear, 49106465, Marine Delight, 17.5, 7, 10.5
+2, 20, Laura, berryrabbit, 혈화구절편-새벽, Defense, 20, 12, 12, 5, 3, 0, 4, 0, 6, 4, 61, TRPGBear, 49106465, Marine Delight, 17.5, 7, 10.5
+2, 20, Istvan, おぼろづき米, 애각창, Defense, 19, 12, 12, 5, 3, 0, 4, 0, 3, 8, 60, TRPGBear, 49106465, Marine Delight, 17.5, 7, 10.5
+3, 19, Estelle, Sitiyoh, 빔엑스, Defense, 18, 14, 14, 7, 6, 0, 1, 0, 6, 6, 35, berryrabbit, 49106465, マルティナ(22), 16, 5, 11
+3, 19, Martina, Bluewings, 카메라캐논, Defense, 19, 14, 14, 7, 6, 0, 1, 0, 3, 7, 28, berryrabbit, 49106465, マルティナ(22), 16, 5, 11
+3, 19, Yuki, LORDofVERMILION, 자웅일대검, Defense, 18, 14, 14, 7, 6, 0, 1, 0, 5, 6, 43, REIA778, 49106465, マルティナ(22), 16, 5, 11
+4, 19, Laura, 葉月千悠, 우라누스, Defense, 18, 2, 2, 0, 0, 0, 2, 0, 0, 2, 51, Bluewings, 49106465, ちねりっぷるん, 6, 4, 2
+4, 19, Felix, 水無れき, 애각창, Defense, 19, 2, 2, 0, 0, 0, 2, 0, 2, 0, 50, Bluewings, 49106465, ちねりっぷるん, 6, 4, 2
+4, 19, Arda, あっぷるん, 운명의수레바퀴, Hunt, 19, 2, 2, 0, 0, 0, 2, 0, 0, 2, 63, LORDofVERMILION, 49106465, ちねりっぷるん, 6, 4, 2
+5, 18, Silvia, Sla5hMe5hTachyon, 마탄의사수, Defense, 18, 7, 7, 5, 1, 0, 1, 0, 1, 5, 30, berryrabbit, 49106465, 虚空拳, 9.5, 3, 6.5
+5, 18, Abigail, ヴィルヴィ, 빔엑스, Defense, 18, 7, 7, 5, 1, 0, 1, 0, 2, 4, 55, SpinningIce, 49106465, 虚空拳, 9.5, 3, 6.5
+5, 19, Jan, C4storice, 천잠장갑, Defense, 19, 7, 7, 5, 1, 0, 1, 0, 4, 3, 46, おぼろづき米, 49106465, 虚空拳, 9.5, 3, 6.5
+6, 17, Theodore, Endeavor108, 데드아이, Defense, 16, 2, 2, 0, 2, 0, 0, 0, 0, 2, 45, Sla5hMe5hTachyon, 49106465, たかし, 3, 2, 1
+6, 18, Estelle, レイ様, 빔엑스, Defense, 17, 2, 2, 0, 2, 0, 0, 0, 0, 0, 48, C4storice, 49106465, たかし, 3, 2, 1
+6, 18, Shoichi, たまこん, 월식, Defense, 17, 2, 2, 0, 2, 0, 0, 0, 2, 0, 46, TRPGBear, 49106465, たかし, 3, 2, 1
+7, 11, Eva, 八ッ橋ちょこ, 소이탄, Defense, 10, 1, 1, 0, 0, 0, 1, 0, 1, 0, 32, Sitiyoh, 49106465, VegetableRegion, 2, 1, 1
+7, 12, Sua, mystica, 낭아봉, Defense, 9, 1, 1, 0, 0, 0, 1, 0, 0, 0, 30, Sitiyoh, 49106465, VegetableRegion, 2, 1, 1
+7, 12, Estelle, LilySelene, 빔엑스, Defense, 9, 1, 1, 0, 0, 0, 1, 0, 0, 1, 20, LORDofVERMILION, 49106465, VegetableRegion, 2, 1, 1
