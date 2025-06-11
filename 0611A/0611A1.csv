@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Hyejin, vaqlas, 페일노트-새벽, Defense, 20, 9, 9, 9, 0, 0, 0, 0, 7, 1, 65, , 49230918, いままで魚をありがとう, 19, 10, 9
+1, 20, Estelle, voider26, 진홍빛낫, Defense, 20, 9, 9, 9, 0, 0, 0, 0, 1, 8, 35, , 49230918, いままで魚をありがとう, 19, 10, 9
+1, 19, Leni, れもんだもん, 마탄의사수, Defense, 19, 9, 9, 9, 0, 0, 0, 0, 1, 8, 33, , 49230918, いままで魚をありがとう, 19, 10, 9
+2, 20, Shoichi, たまこん, 월식, Defense, 20, 9, 9, 7, 0, 0, 1, 1, 7, 2, 54, vaqlas, 49230918, たかし, 16, 7, 9
+2, 20, Estelle, レイ様, 낙원의낫, Defense, 18, 9, 9, 7, 0, 0, 1, 1, 0, 2, 39, vaqlas, 49230918, たかし, 16, 7, 9
+2, 20, Theodore, Endeavor108, 사사성광, Defense, 19, 9, 9, 7, 0, 0, 1, 1, 2, 4, 57, vaqlas, 49230918, たかし, 16, 7, 9
+3, 19, Arda, rosen, 더문, Defense, 18, 2, 2, 2, 0, 0, 0, 0, 2, 0, 42, たまこん, 49230918, †神縫合†, 7, 5, 2
+3, 19, Jenny, kawaiiOTP, 알타이르, Defense, 18, 2, 2, 2, 0, 0, 0, 0, 0, 1, 41, たまこん, 49230918, †神縫合†, 7, 5, 2
+3, 19, Elena, HeianKYO, 활빈검, Defense, 19, 2, 2, 2, 0, 0, 0, 0, 0, 2, 43, たまこん, 49230918, †神縫合†, 7, 5, 2
+4, 17, Hisui, 御存知ムエタイ, 빛의검, Defense, 16, 5, 5, 4, 0, 0, 1, 0, 0, 2, 29, Endeavor108, 49230918, BloodyMoon, 9, 4, 5
+4, 20, Jan, C4storice, 단영촌천투, Defense, 19, 5, 5, 4, 0, 0, 1, 0, 2, 3, 67, vaqlas, 49230918, BloodyMoon, 9, 4, 5
+4, 20, Hyejin, YoNeaKy, 생사부, Defense, 20, 5, 5, 4, 0, 0, 1, 0, 3, 2, 62, vaqlas, 49230918, BloodyMoon, 9, 4, 5
+5, 18, Haze, 八ッ橋ちょこ, 발키리, Hunt, 18, 1, 1, 0, 1, 0, 0, 0, 1, 0, 47, たまこん, 49230918, VegetableRegion, 3.5, 3, 0.5
+5, 19, Estelle, LilySelene, 빔엑스, Defense, 17, 1, 1, 0, 1, 0, 0, 0, 0, 1, 32, C4storice, 49230918, VegetableRegion, 3.5, 3, 0.5
+5, 18, Nadine, CiELzzz, 샤릉가, Hunt, 17, 1, 1, 0, 1, 0, 0, 0, 0, 1, 43, YoNeaKy, 49230918, VegetableRegion, 3.5, 3, 0.5
+6, 16, Johann, 3y3s, 절제, Defense, 15, 7, 7, 4, 1, 0, 2, 0, 1, 6, 7, vaqlas, 49230918, 家族だんらん, 8.5, 2, 6.5
+6, 17, Camilo, らいらい, 간장과막야, Defense, 16, 7, 7, 4, 1, 0, 2, 0, 3, 4, 38, vaqlas, 49230918, 家族だんらん, 8.5, 2, 6.5
+6, 18, Bernice, 피세, 위도우메이커, Hunt, 18, 7, 7, 4, 1, 0, 2, 0, 3, 3, 68, voider26, 49230918, 家族だんらん, 8.5, 2, 6.5
+7, 14, Sissela, TKDNdecoy, 생사부, Defense, 11, 3, 3, 0, 1, 0, 2, 0, 1, 2, 15, YoNeaKy, 49230918, 聖帝†陵, 3.5, 1, 2.5
+7, 14, Estelle, sukopi, 빔엑스, Defense, 13, 3, 3, 0, 1, 0, 2, 0, 0, 3, 34, 피세, 49230918, 聖帝†陵, 3.5, 1, 2.5
+7, 14, Katja, 駅弁mk, 인터벤션, Hunt, 13, 3, 3, 0, 1, 0, 2, 0, 2, 1, 44, 3y3s, 49230918, 聖帝†陵, 3.5, 1, 2.5
