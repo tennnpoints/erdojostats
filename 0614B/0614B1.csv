@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, William, mystica, 체이서-진홍, Hunt, 19, 6, 6, 6, 0, 0, 0, 0, 4, 2, 69, , 49328368, VegetableRegion, 16, 10, 6
+1, 19, Arda, 八ッ橋ちょこ, 더 데스-진홍, Hunt, 19, 6, 6, 6, 0, 0, 0, 0, 2, 4, 67, , 49328368, VegetableRegion, 16, 10, 6
+1, 19, Mai, LilySelene, 글레이프니르, Defense, 18, 6, 6, 6, 0, 0, 0, 0, 0, 6, 17, , 49328368, VegetableRegion, 16, 10, 6
+2, 20, Shoichi, たまこん, 비색단검, Defense, 20, 8, 8, 6, 1, 0, 1, 0, 7, 1, 78, mystica, 49328368, たかし, 14.5, 7, 7.5
+2, 19, Theodore, Endeavor108, 사사성광, Defense, 19, 8, 8, 6, 1, 0, 1, 0, 0, 5, 60, mystica, 49328368, たかし, 14.5, 7, 7.5
+2, 20, Estelle, レイ様, 빔엑스, Defense, 18, 8, 8, 6, 1, 0, 1, 0, 1, 7, 26, 八ッ橋ちょこ, 49328368, たかし, 14.5, 7, 7.5
+3, 18, Jan, C4storice, 천잠장갑, Hunt, 17, 7, 7, 3, 1, 0, 3, 0, 2, 4, 62, たまこん, 49328368, 消耗品電気ネズミ, 11.5, 5, 6.5
+3, 18, Aiden, チカチュー, 다인슬라이프-진홍, Defense, 17, 7, 7, 3, 1, 0, 3, 0, 3, 3, 53, たまこん, 49328368, 消耗品電気ネズミ, 11.5, 5, 6.5
+3, 18, Yuki, LORDofVERMILION, 디오스쿠로이, Defense, 16, 7, 7, 3, 1, 0, 3, 0, 2, 4, 38, たまこん, 49328368, 消耗品電気ネズミ, 11.5, 5, 6.5
+4, 17, Arda, あっぷるん, 더문, Defense, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 51, 八ッ橋ちょこ, 49328368, Aether, 4, 4, 0
+4, 17, Darko, Nasitaka, 여의봉, Defense, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, mystica, 49328368, Aether, 4, 4, 0
+4, 17, Barbara, 先織大翔VT, 엘레강스, Defense, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, mystica, 49328368, Aether, 4, 4, 0
+5, 16, Istvan, おぼろづき米, 장팔사모, Defense, 14, 6, 6, 3, 1, 0, 2, 0, 1, 4, 36, C4storice, 49328368, Marine Delight, 8.5, 3, 5.5
+5, 15, Niah, シユイ, 엘레강스, Defense, 14, 6, 6, 3, 1, 0, 2, 0, 3, 2, 32, チカチュー, 49328368, Marine Delight, 8.5, 3, 5.5
+5, 16, Laura, berryrabbit, 우라누스, Defense, 14, 6, 6, 3, 1, 0, 2, 0, 2, 4, 35, チカチュー, 49328368, Marine Delight, 8.5, 3, 5.5
+6, 15, Barbara, 一杯酒気, 엘레강스, Defense, 14, 2, 2, 0, 1, 0, 1, 0, 0, 2, 49, たまこん, 49328368, 合体術式－エンゲージ・ゼロ, 3.5, 2, 1.5
+6, 15, Alonso, mare7s, 빙화현옥수, Defense, 13, 2, 2, 0, 1, 0, 1, 0, 1, 1, 20, たまこん, 49328368, 合体術式－エンゲージ・ゼロ, 3.5, 2, 1.5
+6, 16, Rio, keikoma, 편전, Hunt, 15, 2, 2, 0, 1, 0, 1, 0, 1, 1, 48, たまこん, 49328368, 合体術式－エンゲージ・ゼロ, 3.5, 2, 1.5
+7, 12, Nathapon, Skyper, 폴라로이드카메라, Defense, 10, 5, 5, 0, 5, 0, 0, 0, 2, 2, 23, シユイ, 49328368, ASHER, 3.5, 1, 2.5
+7, 11, Hart, HDKいっかん, 원더풀투나잇, Defense, 10, 5, 5, 0, 5, 0, 0, 0, 3, 2, 19, berryrabbit, 49328368, ASHER, 3.5, 1, 2.5
+7, 11, Alonso, 아나진, 디바인피스트, Defense, 9, 5, 5, 0, 5, 0, 0, 0, 0, 5, 7, シユイ, 49328368, ASHER, 3.5, 1, 2.5

@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Irem, Mifaya, 여의주, Defense, 19, 10, 10, 7, 3, 0, 0, 0, 3, 4, 53, , 49330479, nunuzz, 18.5, 10, 8.5
+1, 20, Eleven, TwitchNunuzz, 천근추, Defense, 19, 10, 10, 7, 3, 0, 0, 0, 3, 7, 71, , 49330479, nunuzz, 18.5, 10, 8.5
+1, 19, Vanya, 夢中的過客, 여제, Defense, 19, 10, 10, 7, 3, 0, 0, 0, 4, 4, 57, , 49330479, nunuzz, 18.5, 10, 8.5
+2, 20, Magnus, うぃくらいん, 타구봉, Defense, 19, 10, 10, 10, 0, 0, 0, 0, 3, 7, 10, Mifaya, 49330479, ほーんてっどまんしょん, 17, 7, 10
+2, 20, Lenore, Dorago, 헤븐즈도어, Defense, 19, 10, 10, 10, 0, 0, 0, 0, 3, 5, 47, TwitchNunuzz, 49330479, ほーんてっどまんしょん, 17, 7, 10
+2, 20, Isol, 冷害, 헬파이어-진홍, Defense, 20, 10, 10, 10, 0, 0, 0, 0, 4, 5, 61, 夢中的過客, 49330479, ほーんてっどまんしょん, 17, 7, 10
+3, 19, Tsubame, ハッピー天月, 만천화우, Defense, 20, 9, 9, 5, 1, 0, 3, 0, 3, 2, 74, TwitchNunuzz, 49330479, 月見ごぼう天そば, 13.5, 5, 8.5
+3, 19, Darko, 葉月千悠, 여의봉, Defense, 19, 9, 9, 5, 1, 0, 3, 0, 3, 5, 47, Ichigaya, 49330479, 月見ごぼう天そば, 13.5, 5, 8.5
+3, 19, Yuki, ごぼう, 빛의검, Defense, 20, 9, 9, 5, 1, 0, 3, 0, 3, 6, 30, うぃくらいん, 49330479, 月見ごぼう天そば, 13.5, 5, 8.5
+4, 18, Eva, にゃんぱすー, 체이서, Defense, 18, 3, 3, 2, 0, 0, 1, 0, 2, 1, 59, Dorago, 49330479, 太虚幻境, 7, 4, 3
+4, 17, Aya, みらくる, 엔데버AX, Defense, 17, 3, 3, 2, 0, 0, 1, 0, 0, 3, 62, Mifaya, 49330479, 太虚幻境, 7, 4, 3
+4, 19, Lenox, FUU, 글레이프니르, Defense, 18, 3, 3, 2, 0, 0, 1, 0, 1, 2, 19, 冷害, 49330479, 太虚幻境, 7, 4, 3
+5, 19, Leon, 알제이, 블러디핸즈, Defense, 19, 10, 10, 3, 3, 0, 4, 0, 4, 5, 24, うぃくらいん, 49330479, 王様, 11.5, 3, 8.5
+5, 18, Barbara, Ichigaya, 엘레강스, Defense, 19, 10, 10, 3, 3, 0, 4, 0, 3, 6, 40, ごぼう, 49330479, 王様, 11.5, 3, 8.5
+5, 18, Yuki, YA1BA, 엑스칼리버, Defense, 18, 10, 10, 3, 3, 0, 4, 0, 3, 6, 27, Dorago, 49330479, 王様, 11.5, 3, 8.5
+6, 17, Darko, Exaneko, 구원의여신상, Defense, 16, 12, 12, 4, 2, 0, 6, 0, 3, 5, 18, Dorago, 49330479, OverThrow, 13, 2, 11
+6, 17, Leon, sino1012, 프로스트팽, Defense, 17, 12, 12, 4, 2, 0, 6, 0, 4, 6, 63, 冷害, 49330479, OverThrow, 13, 2, 11
+6, 16, Tia, れもんだもん, 터럭손방망이, Defense, 16, 12, 12, 4, 2, 0, 6, 0, 5, 3, 39, 冷害, 49330479, OverThrow, 13, 2, 11
+7, 15, Elena, Honesty, 활빈검, Defense, 13, 2, 2, 0, 1, 0, 1, 0, 0, 1, 23, ハッピー天月, 49330479, Etranger, 2.5, 1, 1.5
+7, 16, Alex, BROCKHAMPTON, 일렉트론블라스터, Defense, 15, 2, 2, 0, 1, 0, 1, 0, 1, 0, 32, Exaneko, 49330479, Etranger, 2.5, 1, 1.5
+7, 17, Echion, wowaka, 데스애더퀸-MT, Defense, 16, 2, 2, 0, 1, 0, 1, 0, 1, 0, 44, 冷害, 49330479, Etranger, 2.5, 1, 1.5
+8, 15, Felix, たまねぎ2nd, 장팔사모, Defense, 15, 6, 6, 1, 3, 0, 2, 0, 1, 3, 22, sino1012, 49330479, NotBeingAll, 4.5, 0, 4.5
+8, 15, Niah, 灯油, 엘레강스, Defense, 14, 6, 6, 1, 3, 0, 2, 0, 3, 2, 37, れもんだもん, 49330479, NotBeingAll, 4.5, 0, 4.5
+8, 15, Garnet, upalupa, 스파이의우산, Defense, 14, 6, 6, 1, 3, 0, 2, 0, 2, 2, 12, sino1012, 49330479, NotBeingAll, 4.5, 0, 4.5

@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Lyanh, みらくる, 비색단검, Defense, 20, 11, 12, 8, 1, 0, 2, 0, 3, 4, 67, , 49331814, 太虚幻境, 20.5, 10, 10.5
+1, 20, Leni, にゃんぱすー, 마탄의사수, Defense, 19, 11, 12, 8, 1, 0, 2, 0, 1, 7, 24, , 49331814, 太虚幻境, 20.5, 10, 10.5
+1, 20, Isaac, FUU, 칼날톤파, Defense, 20, 11, 12, 8, 1, 0, 2, 0, 7, 3, 71, , 49331814, 太虚幻境, 20.5, 10, 10.5
+2, 20, Camilo, YA1BA, 환영도-진홍, Defense, 20, 12, 12, 8, 2, 0, 2, 0, 10, 1, 60, FUU, 49331814, 王様, 18, 7, 11
+2, 20, YuMin, 알제이, 여제, Defense, 20, 12, 12, 8, 2, 0, 2, 0, 1, 6, 60, みらくる, 49331814, 王様, 18, 7, 11
+2, 20, Hyunwoo, Ichigaya, 주작자문, Defense, 19, 12, 12, 8, 2, 0, 2, 0, 1, 9, 33, みらくる, 49331814, 王様, 18, 7, 11
+3, 19, Irem, Mifaya, 파이어볼, Defense, 18, 8, 8, 4, 1, 0, 3, 0, 2, 5, 47, YA1BA, 49331814, nunuzz, 12.5, 5, 7.5
+3, 18, Eleven, TwitchNunuzz, 천근추, Defense, 18, 8, 8, 4, 1, 0, 3, 0, 2, 4, 28, YA1BA, 49331814, nunuzz, 12.5, 5, 7.5
+3, 19, Vanya, 夢中的過客, 여제, Defense, 19, 8, 8, 4, 1, 0, 3, 0, 4, 2, 42, YA1BA, 49331814, nunuzz, 12.5, 5, 7.5
+4, 18, Theodore, れもんだもん, 데드아이, Defense, 18, 7, 7, 5, 2, 0, 0, 0, 1, 3, 43, FUU, 49331814, OverThrow, 10, 4, 6
+4, 18, Lenox, sino1012, 뇌룡편, Defense, 18, 7, 7, 5, 2, 0, 0, 0, 4, 3, 29, , 49331814, OverThrow, 10, 4, 6
+4, 19, Sua, Exaneko, 둠스데이, Defense, 18, 7, 7, 5, 2, 0, 0, 0, 2, 5, 40, YA1BA, 49331814, OverThrow, 10, 4, 6
+5, 18, Jenny, ハッピー天月, 알타이르, Hunt, 19, 5, 5, 0, 4, 0, 1, 0, 3, 2, 53, sino1012, 49331814, 月見ごぼう天そば, 6, 3, 3
+5, 17, Darko, 葉月千悠, 여의봉, Defense, 17, 5, 5, 0, 4, 0, 1, 0, 0, 4, 37, Exaneko, 49331814, 月見ごぼう天そば, 6, 3, 3
+5, 17, Yuki, ごぼう, 빛의검, Defense, 17, 5, 5, 0, 4, 0, 1, 0, 2, 3, 27, YA1BA, 49331814, 月見ごぼう天そば, 6, 3, 3
+6, 13, Alex, BROCKHAMPTON, 미치광이왕의카드, Defense, 12, 5, 5, 0, 1, 0, 4, 0, 0, 4, 26, 夢中的過客, 49331814, Etranger, 6.5, 2, 4.5
+6, 15, Hisui, wowaka, 빛의검, Defense, 14, 5, 5, 0, 1, 0, 4, 0, 3, 2, 29, 夢中的過客, 49331814, Etranger, 6.5, 2, 4.5
+6, 14, Jackie, Honesty, 하르페, Defense, 13, 5, 5, 0, 1, 0, 4, 0, 2, 0, 32, Mifaya, 49331814, Etranger, 6.5, 2, 4.5
+7, 14, Darko, upalupa, 구원의여신상, Defense, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, sino1012, 49331814, NotBeingAll, 1, 1, 0
+7, 14, Emma, 灯油, 더스타, Defense, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, れもんだもん, 49331814, NotBeingAll, 1, 1, 0
+7, 13, William, sLLLime, 다비드슬링, Defense, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, sino1012, 49331814, NotBeingAll, 1, 1, 0
+8, 12, Vanya, 冷害, 더스타, Defense, 11, 3, 3, 0, 0, 0, 3, 0, 0, 2, 25, YA1BA, 49331814, ほーんてっどまんしょん, 3, 0, 3
+8, 13, Nathapon, うぃくらいん, 울트라비전, Defense, 12, 3, 3, 0, 0, 0, 3, 0, 2, 1, 33, Ichigaya, 49331814, ほーんてっどまんしょん, 3, 0, 3
+8, 12, Bernice, Dorago, 폴라리스, Defense, 11, 3, 3, 0, 0, 0, 3, 0, 1, 1, 32, YA1BA, 49331814, ほーんてっどまんしょん, 3, 0, 3

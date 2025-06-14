@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Emma, HDKいっかん, 건곤권, Defense, 19, 18, 18, 13, 1, 0, 4, 0, 2, 9, 42, , 49331757, ASHER, 27.5, 10, 17.5
+1, 20, Estelle, 아나진, 낙원의낫, Defense, 19, 18, 18, 13, 1, 0, 4, 0, 1, 15, 17, , 49331757, ASHER, 27.5, 10, 17.5
+1, 20, Camilo, Skyper, 노스페라투-진홍, Defense, 20, 18, 18, 13, 1, 0, 4, 0, 15, 3, 87, , 49331757, ASHER, 27.5, 10, 17.5
+2, 20, Lyanh, デスガキ, 소울리퍼, Defense, 20, 6, 6, 4, 1, 0, 1, 0, 2, 3, 72, Skyper, 49331757, Marine Delight, 12.5, 7, 5.5
+2, 20, Istvan, おぼろづき米, 애각창, Defense, 20, 6, 6, 4, 1, 0, 1, 0, 3, 3, 71, Skyper, 49331757, Marine Delight, 12.5, 7, 5.5
+2, 20, Arda, シユイ, 더문, Defense, 20, 6, 6, 4, 1, 0, 1, 0, 1, 4, 61, Skyper, 49331757, Marine Delight, 12.5, 7, 5.5
+3, 20, Arda, あっぷるん, 더문, Hunt, 20, 2, 2, 2, 0, 0, 0, 0, 0, 1, 65, デスガキ, 49331757, Aether, 7, 5, 2
+3, 20, Darko, Nasitaka, 여의봉, Defense, 19, 2, 2, 2, 0, 0, 0, 0, 1, 0, 42, おぼろづき米, 49331757, Aether, 7, 5, 2
+3, 19, Barbara, 先織大翔VT, 하이눈, Defense, 19, 2, 2, 2, 0, 0, 0, 0, 1, 1, 33, デスガキ, 49331757, Aether, 7, 5, 2
+4, 18, Jan, C4storice, 천잠장갑, Defense, 17, 5, 5, 0, 2, 0, 3, 0, 2, 2, 46, 先織大翔VT, 49331757, 消耗品電気ネズミ, 8, 4, 4
+4, 16, Yuki, LORDofVERMILION, 디오스쿠로이, Defense, 14, 5, 5, 0, 2, 0, 3, 0, 0, 2, 29, Nasitaka, 49331757, 消耗品電気ネズミ, 8, 4, 4
+4, 17, Aiden, チカチュー, 빛의검, Defense, 16, 5, 5, 0, 2, 0, 3, 0, 3, 2, 30, Endeavor108, 49331757, 消耗品電気ネズミ, 8, 4, 4
+5, 18, Alonso, レイ様, 빙화현옥수, Defense, 16, 4, 4, 1, 1, 0, 2, 0, 0, 4, 14, Skyper, 49331757, たかし, 6.5, 3, 3.5
+5, 18, Adina, たまこん, 더스타, Defense, 18, 4, 4, 1, 1, 0, 2, 0, 0, 4, 65, Skyper, 49331757, たかし, 6.5, 3, 3.5
+5, 18, Theodore, Endeavor108, 데드아이, Defense, 18, 4, 4, 1, 1, 0, 2, 0, 4, 0, 45, Skyper, 49331757, たかし, 6.5, 3, 3.5
+6, 17, Lenox, 一杯酒気, 뇌룡편, Defense, 16, 3, 3, 1, 0, 0, 2, 0, 1, 2, 33, HDKいっかん, 49331757, 合体術式－エンゲージ・ゼロ, 5, 2, 3
+6, 17, Adina, keikoma, 더문, Defense, 17, 3, 3, 1, 0, 0, 2, 0, 0, 2, 36, Skyper, 49331757, 合体術式－エンゲージ・ゼロ, 5, 2, 3
+6, 17, Priya, mare7s, 헤븐즈도어, Defense, 17, 3, 3, 1, 0, 0, 2, 0, 2, 1, 26, Skyper, 49331757, 合体術式－エンゲージ・ゼロ, 5, 2, 3
+7, 17, Mai, LilySelene, 글레이프니르, Defense, 15, 2, 2, 1, 0, 0, 1, 0, 0, 2, 32, mare7s, 49331757, VegetableRegion, 3, 1, 2
+7, 16, William, mystica, 안티오크의수류탄, Defense, 16, 2, 2, 1, 0, 0, 1, 0, 1, 1, 41, Skyper, 49331757, VegetableRegion, 3, 1, 2
+7, 16, Arda, 八ッ橋ちょこ, 더문, Hunt, 15, 2, 2, 1, 0, 0, 1, 0, 1, 0, 53, HDKいっかん, 49331757, VegetableRegion, 3, 1, 2

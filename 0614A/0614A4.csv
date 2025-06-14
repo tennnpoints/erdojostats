@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Rozzi, れもんだもん, 플라즈마건, Defense, 20, 12, 12, 9, 0, 0, 3, 0, 8, 2, 48, , 49333362, OverThrow, 22, 10, 12
+1, 20, Sua, Exaneko, 피스브링어-새벽, Defense, 20, 12, 12, 9, 0, 0, 3, 0, 0, 8, 46, , 49333362, OverThrow, 22, 10, 12
+1, 20, Vanya, sino1012, 여제, Defense, 20, 12, 12, 9, 0, 0, 3, 0, 4, 8, 52, , 49333362, OverThrow, 22, 10, 12
+2, 20, Alex, BROCKHAMPTON, 플라즈마톤파, Defense, 20, 10, 10, 10, 0, 0, 0, 0, 7, 2, 68, sino1012, 49333362, Etranger, 17, 7, 10
+2, 20, Elena, Honesty, 활빈검, Defense, 19, 10, 10, 10, 0, 0, 0, 0, 0, 8, 25, れもんだもん, 49333362, Etranger, 17, 7, 10
+2, 20, Abigail, wowaka, 진홍빛 낫-새벽, Defense, 20, 10, 10, 10, 0, 0, 0, 0, 3, 6, 95, れもんだもん, 49333362, Etranger, 17, 7, 10
+3, 19, Estelle, Mifaya, 낙원의낫, Defense, 19, 5, 5, 4, 1, 0, 0, 0, 0, 3, 26, BROCKHAMPTON, 49333362, nunuzz, 9.5, 5, 4.5
+3, 19, Darko, TwitchNunuzz, 여의봉, Defense, 19, 5, 5, 4, 1, 0, 0, 0, 3, 2, 55, れもんだもん, 49333362, nunuzz, 9.5, 5, 4.5
+3, 19, Rio, 夢中的過客, 페일노트-진홍, Defense, 20, 5, 5, 4, 1, 0, 0, 0, 2, 2, 52, れもんだもん, 49333362, nunuzz, 9.5, 5, 4.5
+4, 19, Lenore, Dorago, 헤븐즈도어, Defense, 19, 8, 8, 3, 3, 0, 2, 0, 3, 4, 45, TwitchNunuzz, 49333362, ほーんてっどまんしょん, 10.5, 4, 6.5
+4, 18, Magnus, うぃくらいん, 타구봉, Defense, 18, 8, 8, 3, 3, 0, 2, 0, 2, 5, 28, sino1012, 49333362, ほーんてっどまんしょん, 10.5, 4, 6.5
+4, 18, Isol, 冷害, 저지먼트, Defense, 18, 8, 8, 3, 3, 0, 2, 0, 3, 3, 42, 夢中的過客, 49333362, ほーんてっどまんしょん, 10.5, 4, 6.5
+5, 17, Chiara, ハッピー天月, 아르고스의눈, Defense, 17, 6, 6, 2, 2, 0, 2, 0, 4, 2, 28, BROCKHAMPTON, 49333362, 月見ごぼう天そば, 8, 3, 5
+5, 17, Darko, 葉月千悠, 여의봉, Defense, 17, 6, 6, 2, 2, 0, 2, 0, 2, 2, 30, BROCKHAMPTON, 49333362, 月見ごぼう天そば, 8, 3, 5
+5, 17, Hisui, ごぼう, 빛의검, Defense, 17, 6, 6, 2, 2, 0, 2, 0, 0, 4, 31, BROCKHAMPTON, 49333362, 月見ごぼう天そば, 8, 3, 5
+6, 15, Hisui, YA1BA, 빛의검, Defense, 15, 6, 6, 0, 5, 0, 1, 0, 3, 3, 38, wowaka, 49333362, 王様, 5.5, 2, 3.5
+6, 13, Barbara, Ichigaya, 엘레강스, Defense, 13, 6, 6, 0, 5, 0, 1, 0, 2, 3, 29, BROCKHAMPTON, 49333362, 王様, 5.5, 2, 3.5
+6, 13, Leon, 알제이, 빙화현옥수, Defense, 12, 6, 6, 0, 5, 0, 1, 0, 1, 3, 19, wowaka, 49333362, 王様, 5.5, 2, 3.5
+7, 13, Emma, 灯油, 더스타, Defense, 12, 5, 5, 3, 1, 0, 1, 0, 1, 3, 28, sino1012, 49333362, NotBeingAll, 5.5, 1, 4.5
+7, 13, Darko, upalupa, 구원의여신상, Defense, 12, 5, 5, 3, 1, 0, 1, 0, 3, 1, 27, 冷害, 49333362, NotBeingAll, 5.5, 1, 4.5
+7, 13, William, sLLLime, 안티오크의수류탄, Defense, 12, 5, 5, 3, 1, 0, 1, 0, 1, 2, 31, うぃくらいん, 49333362, NotBeingAll, 5.5, 1, 4.5
+8, 9, Leni, にゃんぱすー, 스탬피드, Defense, 7, 3, 3, 0, 3, 0, 0, 0, 0, 3, 8, upalupa, 49333362, 太虚幻境, 1.5, 0, 1.5
+8, 10, Lyanh, みらくる, 카른웬난, Defense, 8, 3, 3, 0, 3, 0, 0, 0, 1, 2, 7, sLLLime, 49333362, 太虚幻境, 1.5, 0, 1.5
+8, 9, Isaac, FUU, 홀스터톤파, Defense, 7, 3, 3, 0, 3, 0, 0, 0, 2, 1, 6, upalupa, 49333362, 太虚幻境, 1.5, 0, 1.5

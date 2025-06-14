@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Eleven, TwitchNunuzz, 뿅망치, Defense, 19, 15, 15, 14, 0, 0, 1, 0, 4, 11, 28, , 49328701, nunuzz, 25, 10, 15
+1, 20, Irem, Mifaya, 체이서, Defense, 20, 15, 15, 14, 0, 0, 1, 0, 9, 3, 49, , 49328701, nunuzz, 25, 10, 15
+1, 20, Vanya, 夢中的過客, 여제, Defense, 20, 15, 15, 14, 0, 0, 1, 0, 2, 8, 63, , 49328701, nunuzz, 25, 10, 15
+2, 19, Eva, にゃんぱすー, 체이서, Defense, 19, 8, 8, 6, 2, 0, 0, 0, 3, 4, 44, Mifaya, 49328701, 太虚幻境, 14, 7, 7
+2, 19, Lenox, FUU, 사복검, Defense, 18, 8, 8, 6, 2, 0, 0, 0, 1, 6, 38, 夢中的過客, 49328701, 太虚幻境, 14, 7, 7
+2, 20, Aya, みらくる, 헬파이어-진홍, Hunt, 20, 8, 8, 6, 2, 0, 0, 0, 4, 4, 82, TwitchNunuzz, 49328701, 太虚幻境, 14, 7, 7
+3, 19, Darko, 葉月千悠, 여의봉, Defense, 19, 5, 5, 2, 3, 0, 0, 0, 0, 4, 42, Mifaya, 49328701, 月見ごぼう天そば, 8.5, 5, 3.5
+3, 19, Yuki, ごぼう, 빛의검, Defense, 18, 5, 5, 2, 3, 0, 0, 0, 2, 3, 20, TwitchNunuzz, 49328701, 月見ごぼう天そば, 8.5, 5, 3.5
+3, 19, Nadine, ハッピー天月, 골든래쇼보우, Defense, 19, 5, 5, 2, 3, 0, 0, 0, 3, 2, 68, Exaneko, 49328701, 月見ごぼう天そば, 8.5, 5, 3.5
+4, 20, Leon, sino1012, 블러디핸즈, Defense, 19, 10, 10, 4, 2, 0, 4, 0, 3, 7, 58, ごぼう, 49328701, OverThrow, 13, 4, 9
+4, 19, Darko, Exaneko, 여의봉, Defense, 19, 10, 10, 4, 2, 0, 4, 0, 2, 4, 50, Mifaya, 49328701, OverThrow, 13, 4, 9
+4, 18, Tia, れもんだもん, 터럭손방망이, Defense, 18, 10, 10, 4, 2, 0, 4, 0, 5, 3, 50, 夢中的過客, 49328701, OverThrow, 13, 4, 9
+5, 18, Arda, 알제이, 여제, Defense, 17, 3, 3, 2, 1, 0, 0, 0, 0, 2, 36, にゃんぱすー, 49328701, 王様, 5.5, 3, 2.5
+5, 19, Hisui, YA1BA, 모노호시자오, Defense, 18, 3, 3, 2, 1, 0, 0, 0, 1, 1, 79, みらくる, 49328701, 王様, 5.5, 3, 2.5
+5, 18, Istvan, Ichigaya, 애각창, Defense, 18, 3, 3, 2, 1, 0, 0, 0, 2, 0, 52, にゃんぱすー, 49328701, 王様, 5.5, 3, 2.5
+6, 16, Lenore, Dorago, 헤븐즈도어, Defense, 16, 9, 9, 4, 2, 0, 3, 0, 5, 3, 35, TwitchNunuzz, 49328701, ほーんてっどまんしょん, 10, 2, 8
+6, 16, Isol, 冷害, 저지먼트, Defense, 17, 9, 9, 4, 2, 0, 3, 0, 3, 5, 27, Mifaya, 49328701, ほーんてっどまんしょん, 10, 2, 8
+6, 16, Magnus, うぃくらいん, 타구봉, Defense, 16, 9, 9, 4, 2, 0, 3, 0, 1, 4, 11, Mifaya, 49328701, ほーんてっどまんしょん, 10, 2, 8
+7, 11, Hisui, wowaka, 빛의검, Defense, 10, 2, 2, 0, 1, 0, 1, 0, 1, 0, 29, Dorago, 49328701, Etranger, 2.5, 1, 1.5
+7, 10, Alex, BROCKHAMPTON, 플라즈마톤파, Defense, 8, 2, 2, 0, 1, 0, 1, 0, 1, 1, 11, 冷害, 49328701, Etranger, 2.5, 1, 1.5
+7, 10, Elena, Honesty, 활빈검, Defense, 7, 2, 2, 0, 1, 0, 1, 0, 0, 0, 24, うぃくらいん, 49328701, Etranger, 2.5, 1, 1.5
+8, 9, Felix, たまねぎ2nd, 장팔사모, Defense, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, Mifaya, 49328701, NotBeingAll, 0, 0, 0
+8, 9, Niah, 灯油, 엘레강스, Defense, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, TwitchNunuzz, 49328701, NotBeingAll, 0, 0, 0
+8, 10, Garnet, upalupa, 스파이의우산, Defense, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, Mifaya, 49328701, NotBeingAll, 0, 0, 0
