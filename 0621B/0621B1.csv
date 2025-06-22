@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Bernice, 御存知ムエタイ, 위도우메이커, Defense, 20, 14, 14, 9, 1, 0, 4, 0, 7, 5, 75, , 49520339, くらうどにゃいん, 23.5, 10, 13.5
+1, 19, Alex, Maluk, 수다르사나, Defense, 19, 14, 14, 9, 1, 0, 4, 0, 3, 11, 32, , 49520339, くらうどにゃいん, 23.5, 10, 13.5
+1, 20, Chloe, YoNeaKy, 흑련비표-진홍, Defense, 20, 14, 14, 9, 1, 0, 4, 0, 4, 8, 59, , 49520339, くらうどにゃいん, 23.5, 10, 13.5
+2, 20, Hisui, かっと, 다인슬라이프-진홍, Defense, 20, 10, 10, 9, 0, 0, 1, 0, 3, 7, 64, 御存知ムエタイ, 49520339, ノマテラカイリュー, 17, 7, 10
+2, 20, Nathapon, Natupon, 트리플 포커스, Defense, 20, 10, 10, 9, 0, 0, 1, 0, 2, 8, 60, YoNeaKy, 49520339, ノマテラカイリュー, 17, 7, 10
+2, 20, Jan, C4storice, 천잠장갑, Defense, 19, 10, 10, 9, 0, 0, 1, 0, 5, 4, 97, 御存知ムエタイ, 49520339, ノマテラカイリュー, 17, 7, 10
+3, 18, Chloe, サーモン中西, 수다르사나, Defense, 18, 4, 4, 0, 2, 0, 2, 0, 1, 3, 38, かっと, 49520339, 伝説の中西, 8, 5, 3
+3, 19, Yuki, LORDofVERMILION, 자웅일대검, Defense, 18, 4, 4, 0, 2, 0, 2, 0, 2, 2, 51, C4storice, 49520339, 伝説の中西, 8, 5, 3
+3, 19, Garnet, ヴィルヴィ, 스파이의우산, Defense, 18, 4, 4, 0, 2, 0, 2, 0, 1, 3, 18, Natupon, 49520339, 伝説の中西, 8, 5, 3
+4, 19, Sua, 葉月千悠, 마법봉, Defense, 19, 12, 12, 8, 3, 0, 1, 0, 7, 4, 50, C4storice, 49520339, ちねりっぷるん, 14.5, 4, 10.5
+4, 19, Nadine, NIIKA, 혈색반월-진홍, Defense, 20, 12, 12, 8, 3, 0, 1, 0, 5, 3, 84, かっと, 49520339, ちねりっぷるん, 14.5, 4, 10.5
+4, 19, Alonso, あっぷるん, 디바인피스트, Defense, 18, 12, 12, 8, 3, 0, 1, 0, 0, 9, 18, C4storice, 49520339, ちねりっぷるん, 14.5, 4, 10.5
+5, 18, Lyanh, デスガキ, 카른웬난, Defense, 17, 5, 5, 1, 0, 0, 4, 0, 2, 3, 35, 葉月千悠, 49520339, Marine Delight, 8, 3, 5
+5, 17, Arda, シユイ, 운명의수레바퀴, Defense, 17, 5, 5, 1, 0, 0, 4, 0, 1, 3, 27, 葉月千悠, 49520339, Marine Delight, 8, 3, 5
+5, 19, Hisui, REIA778, 모노호시자오, Defense, 18, 5, 5, 1, 0, 0, 4, 0, 2, 2, 46, NIIKA, 49520339, Marine Delight, 8, 3, 5
+6, 15, Arda, 八ッ橋ちょこ, 더문, Defense, 14, 10, 10, 3, 4, 0, 3, 0, 3, 5, 28, 葉月千悠, 49520339, VegetableRegion, 10, 2, 8
+6, 14, William, mystica, 안티오크의수류탄, Defense, 14, 10, 10, 3, 4, 0, 3, 0, 5, 5, 31, 葉月千悠, 49520339, VegetableRegion, 10, 2, 8
+6, 15, Mai, LilySelene, 글레이프니르, Defense, 12, 10, 10, 3, 4, 0, 3, 0, 2, 7, 10, 葉月千悠, 49520339, VegetableRegion, 10, 2, 8
+7, 13, Tazia, たまねぎ2nd, 빙백은침, Defense, 12, 1, 1, 0, 0, 0, 1, 0, 0, 1, 22, 御存知ムエタイ, 49520339, NotBeingAll, 2, 1, 1
+7, 13, Niah, 灯油, 알타이르, Defense, 13, 1, 1, 0, 0, 0, 1, 0, 1, 0, 24, YoNeaKy, 49520339, NotBeingAll, 2, 1, 1
+7, 14, Garnet, upalupa, 스파이의우산, Defense, 12, 1, 1, 0, 0, 0, 1, 0, 0, 1, 27, 御存知ムエタイ, 49520339, NotBeingAll, 2, 1, 1

@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Lenox, FUU, 사복검, Defense, 19, 16, 17, 13, 3, 0, 0, 0, 7, 8, 26, , 49524237, 太虚幻境, 24.5, 10, 14.5
+1, 20, Celine, みらくる, 체이서, Defense, 20, 16, 17, 13, 3, 0, 0, 0, 4, 9, 66, , 49524237, 太虚幻境, 24.5, 10, 14.5
+1, 19, Nadine, にゃんぱすー, 혈색반월-진홍, Defense, 20, 16, 17, 13, 3, 0, 0, 0, 5, 9, 41, , 49524237, 太虚幻境, 24.5, 10, 14.5
+2, 19, Lenox, みゅーき, 뇌룡편, Defense, 18, 12, 12, 7, 3, 0, 2, 0, 1, 9, 14, にゃんぱすー, 49524237, 妖気に侵食されたパクサンジュン, 17.5, 7, 10.5
+2, 18, Celine, らいらい, 체이서, Defense, 19, 12, 12, 7, 3, 0, 2, 0, 4, 6, 28, FUU, 49524237, 妖気に侵食されたパクサンジュン, 17.5, 7, 10.5
+2, 20, Rio, 박의민, 페일노트-진홍, Defense, 20, 12, 12, 7, 3, 0, 2, 0, 7, 4, 46, にゃんぱすー, 49524237, 妖気に侵食されたパクサンジュン, 17.5, 7, 10.5
+3, 18, Isol, Dorago, 헬파이어-진홍, Defense, 18, 7, 7, 2, 4, 0, 1, 0, 4, 3, 52, にゃんぱすー, 49524237, ほーんてっどまんしょん, 10, 5, 5
+3, 16, Mai, Levia4, 캐소드라쉬, Defense, 14, 7, 7, 2, 4, 0, 1, 0, 1, 5, 7, らいらい, 49524237, ほーんてっどまんしょん, 10, 5, 5
+3, 19, Chiara, OISIIPROTEIN, 아르고스의눈, Defense, 17, 7, 7, 2, 4, 0, 1, 0, 2, 4, 36, FUU, 49524237, ほーんてっどまんしょん, 10, 5, 5
+4, 19, Celine, vaqlas, 체이서, Defense, 19, 10, 10, 0, 3, 0, 7, 0, 3, 4, 54, 박의민, 49524237, ぶにゃっとしたたまご, 12.5, 4, 8.5
+4, 18, Piolo, voider26, 대소반룡곤, Defense, 18, 10, 10, 0, 3, 0, 7, 0, 1, 7, 24, 박의민, 49524237, ぶにゃっとしたたまご, 12.5, 4, 8.5
+4, 19, Adina, たまご, 더문, Defense, 19, 10, 10, 0, 3, 0, 7, 0, 6, 4, 49, らいらい, 49524237, ぶにゃっとしたたまご, 12.5, 4, 8.5
+5, 19, Justyna, 南瓜燉食反, 팬텀 볼트, Defense, 19, 6, 6, 4, 0, 0, 2, 0, 2, 4, 52, FUU, 49524237, 王様, 9, 3, 6
+5, 18, Hyunwoo, Ichigaya, 택티컬톤파, Defense, 17, 6, 6, 4, 0, 0, 2, 0, 1, 5, 35, TwitchNunuzz, 49524237, 王様, 9, 3, 6
+5, 19, Hisui, YA1BA, 빛의검, Defense, 19, 6, 6, 4, 0, 0, 2, 0, 3, 3, 51, みらくる, 49524237, 王様, 9, 3, 6
+6, 18, Eleven, TwitchNunuzz, 천근추, Defense, 17, 10, 10, 5, 2, 0, 3, 0, 3, 5, 62, FUU, 49524237, nunuzz, 11, 2, 9
+6, 18, Irem, Mifaya, 여의주, Defense, 17, 10, 10, 5, 2, 0, 3, 0, 5, 2, 45, Ichigaya, 49524237, nunuzz, 11, 2, 9
+6, 17, Istvan, 夢中的過客, 애각창, Defense, 16, 10, 10, 5, 2, 0, 3, 0, 2, 4, 35, 南瓜燉食反, 49524237, nunuzz, 11, 2, 9
+7, 16, Leni, れもんだもん, 엘레강스, Defense, 15, 2, 2, 0, 1, 0, 1, 0, 1, 1, 11, , 49524237, ヴナのお友達だもん, 2.5, 1, 1.5
+7, 16, DebiMarlene, レヴナ, 엑스칼리버, Defense, 15, 2, 2, 0, 1, 0, 1, 0, 0, 1, 27, みらくる, 49524237, ヴナのお友達だもん, 2.5, 1, 1.5
+7, 17, Sua, Exaneko, 마법봉, Defense, 16, 2, 2, 0, 1, 0, 1, 0, 1, 1, 45, にゃんぱすー, 49524237, ヴナのお友達だもん, 2.5, 1, 1.5
+8, 15, Tazia, syon1222, 푸른색단도, Defense, 13, 2, 2, 0, 2, 0, 0, 0, 1, 1, 27, YA1BA, 49524237, Brainstorm, 1, 0, 1
+8, 16, Arda, コレマサ, 운명의수레바퀴, Hunt, 14, 2, 2, 0, 2, 0, 0, 0, 0, 1, 53, YA1BA, 49524237, Brainstorm, 1, 0, 1
+8, 16, Garnet, kimaki, 팔괘장, Defense, 14, 2, 2, 0, 2, 0, 0, 0, 1, 0, 30, 박의민, 49524237, Brainstorm, 1, 0, 1

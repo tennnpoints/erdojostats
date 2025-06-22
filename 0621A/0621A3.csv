@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Mai, みゅーき, 사복검, Defense, 20, 24, 24, 13, 6, 0, 5, 0, 2, 18, 33, , 49523046, 妖気に侵食されたパクサンジュン, 31, 10, 21
+1, 20, Camilo, らいらい, 간장과막야, Defense, 20, 24, 24, 13, 6, 0, 5, 0, 12, 9, 77, , 49523046, 妖気に侵食されたパクサンジュン, 31, 10, 21
+1, 20, Katja, 박의민, 인터벤션, Defense, 20, 24, 24, 13, 6, 0, 5, 0, 10, 8, 73, , 49523046, 妖気に侵食されたパクサンジュン, 31, 10, 21
+2, 19, Theodore, コレマサ, 데드아이, Defense, 19, 5, 5, 4, 1, 0, 0, 0, 0, 2, 62, らいらい, 49523046, Brainstorm, 11.5, 7, 4.5
+2, 20, Tazia, syon1222, 빙백은침, Defense, 19, 5, 5, 4, 1, 0, 0, 0, 3, 2, 60, 박의민, 49523046, Brainstorm, 11.5, 7, 4.5
+2, 19, Garnet, kimaki, 터럭손방망이, Defense, 19, 5, 5, 4, 1, 0, 0, 0, 2, 1, 44, らいらい, 49523046, Brainstorm, 11.5, 7, 4.5
+3, 19, Piolo, voider26, 비익련리, Defense, 18, 8, 8, 7, 0, 0, 1, 0, 2, 5, 44, kimaki, 49523046, ぶにゃっとしたたまご, 13, 5, 8
+3, 19, Celine, vaqlas, 체이서, Defense, 19, 8, 8, 7, 0, 0, 1, 0, 1, 5, 57, らいらい, 49523046, ぶにゃっとしたたまご, 13, 5, 8
+3, 19, Adina, たまご, 더문, Defense, 19, 8, 8, 7, 0, 0, 1, 0, 5, 2, 42, Dorago, 49523046, ぶにゃっとしたたまご, 13, 5, 8
+4, 18, Mai, Levia4, 캐소드라쉬, Defense, 18, 11, 11, 9, 1, 0, 1, 0, 1, 8, 18, kimaki, 49523046, ほーんてっどまんしょん, 14.5, 4, 10.5
+4, 19, Chiara, OISIIPROTEIN, 아르고스의눈, Defense, 19, 11, 11, 9, 1, 0, 1, 0, 6, 4, 46, らいらい, 49523046, ほーんてっどまんしょん, 14.5, 4, 10.5
+4, 19, Isol, Dorago, 저지먼트, Defense, 20, 11, 11, 9, 1, 0, 1, 0, 4, 6, 47, みゅーき, 49523046, ほーんてっどまんしょん, 14.5, 4, 10.5
+5, 18, Theodore, れもんだもん, 데드아이, Defense, 18, 4, 4, 2, 1, 0, 1, 0, 1, 2, 40, Dorago, 49523046, ヴナのお友達だもん, 6.5, 3, 3.5
+5, 18, DebiMarlene, レヴナ, 레바테인, Defense, 18, 4, 4, 2, 1, 0, 1, 0, 1, 3, 21, OISIIPROTEIN, 49523046, ヴナのお友達だもん, 6.5, 3, 3.5
+5, 18, Sua, Exaneko, 아는것이힘, Defense, 18, 4, 4, 2, 1, 0, 1, 0, 2, 1, 46, OISIIPROTEIN, 49523046, ヴナのお友達だもん, 6.5, 3, 3.5
+6, 18, Arda, TwitchNunuzz, 더문, Defense, 19, 8, 8, 2, 1, 0, 5, 0, 1, 5, 71, らいらい, 49523046, nunuzz, 9.5, 2, 7.5
+6, 18, Estelle, Mifaya, 진홍빛낫, Defense, 17, 8, 8, 2, 1, 0, 5, 0, 2, 5, 12, 박의민, 49523046, nunuzz, 9.5, 2, 7.5
+6, 18, Vanya, 夢中的過客, 여제, Defense, 18, 8, 8, 2, 1, 0, 5, 0, 5, 2, 41, 박의민, 49523046, nunuzz, 9.5, 2, 7.5
+7, 16, Justyna, 南瓜燉食反, 포이즌드크로스보우, Defense, 17, 4, 4, 0, 2, 0, 2, 0, 0, 3, 20, voider26, 49523046, 王様, 4, 1, 3
+7, 16, Camilo, YA1BA, 듀랜달Mk2, Defense, 17, 4, 4, 0, 2, 0, 2, 0, 2, 2, 27, OISIIPROTEIN, 49523046, 王様, 4, 1, 3
+7, 16, Leon, Ichigaya, 빙화현옥수, Defense, 17, 4, 4, 0, 2, 0, 2, 0, 2, 1, 24, vaqlas, 49523046, 王様, 4, 1, 3
+8, 13, Haze, にゃんぱすー, 골드러시, Defense, 14, 4, 4, 0, 2, 0, 2, 0, 1, 1, 30, Dorago, 49523046, 太虚幻境, 3, 0, 3
+8, 14, William, みらくる, 다비드슬링, Defense, 14, 4, 4, 0, 2, 0, 2, 0, 2, 0, 26, Dorago, 49523046, 太虚幻境, 3, 0, 3
+8, 15, Lenox, FUU, 사복검, Defense, 14, 4, 4, 0, 2, 0, 2, 0, 1, 3, 34, OISIIPROTEIN, 49523046, 太虚幻境, 3, 0, 3
