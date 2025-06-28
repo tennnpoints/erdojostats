@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Lyanh, thato, 비색단검, Defense, 20, 15, 15, 11, 2, 0, 2, 0, 2, 12, 67, , 49703720, Syuri, 24, 10, 14
+1, 20, Johann, 3y3s, 더썬, Defense, 19, 15, 15, 11, 2, 0, 2, 0, 1, 14, 20, , 49703720, Syuri, 24, 10, 14
+1, 20, Camilo, らいらい, 간장과막야, Defense, 20, 15, 15, 11, 2, 0, 2, 0, 12, 3, 76, , 49703720, Syuri, 24, 10, 14
+2, 20, Lenore, 八ッ橋ちょこ, 하트 브레이커-새벽, Defense, 20, 9, 9, 3, 4, 0, 2, 0, 2, 4, 53, らいらい, 49703720, VegetableRegion, 14, 7, 7
+2, 20, William, mystica, 안티오크의수류탄, Defense, 20, 9, 9, 3, 4, 0, 2, 0, 6, 2, 64, らいらい, 49703720, VegetableRegion, 14, 7, 7
+2, 20, Mai, LilySelene, 글레이프니르, Defense, 19, 9, 9, 3, 4, 0, 2, 0, 1, 6, 20, thato, 49703720, VegetableRegion, 14, 7, 7
+3, 20, Theodore, Endeavor108, 데드아이, Defense, 19, 16, 16, 12, 2, 0, 2, 0, 6, 10, 50, らいらい, 49703720, たかし, 20, 5, 15
+3, 20, Shoichi, たまこん, 파산검, Defense, 19, 16, 16, 12, 2, 0, 2, 0, 7, 6, 45, らいらい, 49703720, たかし, 20, 5, 15
+3, 19, Alonso, レイ様, 빙화현옥수, Defense, 18, 16, 16, 12, 2, 0, 2, 0, 3, 13, 10, らいらい, 49703720, たかし, 20, 5, 15
+4, 19, Katja, kiia1, Tac-50, Defense, 19, 2, 2, 0, 1, 0, 1, 0, 2, 0, 52, レイ様, 49703720, Andante, 5.5, 4, 1.5
+4, 19, Haze, makobi, 골드러시, Defense, 19, 2, 2, 0, 1, 0, 1, 0, 0, 1, 46, たまこん, 49703720, Andante, 5.5, 4, 1.5
+4, 18, Markus, さすらいぱんだ, 산타무에르떼, Defense, 18, 2, 2, 0, 1, 0, 1, 0, 0, 2, 18, mystica, 49703720, Andante, 5.5, 4, 1.5
+5, 17, Chloe, YoNeaKy, 미치광이왕의카드, Defense, 17, 5, 5, 3, 2, 0, 0, 0, 2, 1, 47, Endeavor108, 49703720, 和風ソルロンタン, 7, 3, 4
+5, 17, Garnet, かっと, 스파이의우산, Defense, 15, 5, 5, 3, 2, 0, 0, 0, 1, 4, 21, Endeavor108, 49703720, 和風ソルロンタン, 7, 3, 4
+5, 18, Aiden, 電気ネズミ, 빛의검, Defense, 17, 5, 5, 3, 2, 0, 0, 0, 2, 2, 53, たまこん, 49703720, 和風ソルロンタン, 7, 3, 4
+6, 15, Abigail, ヴィルヴィ, 빔엑스, Defense, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, Endeavor108, 49703720, じゃっぱ汁, 2, 2, 0
+6, 15, Yuki, 御存知ムエタイ, 빛의검, Defense, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, たまこん, 49703720, じゃっぱ汁, 2, 2, 0
+6, 14, Nathapon, Natupon, 트리플 포커스, Defense, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, たまこん, 49703720, じゃっぱ汁, 2, 2, 0
+7, 14, Piolo, C4storice, 대소반룡곤, Defense, 13, 6, 6, 0, 2, 0, 4, 0, 0, 4, 45, らいらい, 49703720, 殺意の糸 ピオロ, 6, 1, 5
+7, 14, William, ぷれこーーーーる, 안티오크의수류탄, Defense, 13, 6, 6, 0, 2, 0, 4, 0, 2, 4, 31, らいらい, 49703720, 殺意の糸 ピオロ, 6, 1, 5
+7, 13, Yuki, LORDofVERMILION, 빛의검, Defense, 12, 6, 6, 0, 2, 0, 4, 0, 4, 1, 14, らいらい, 49703720, 殺意の糸 ピオロ, 6, 1, 5
+8, 13, Lyanh, デスガキ, 카른웬난, Defense, 11, 1, 1, 0, 1, 0, 0, 0, 0, 0, 34, YoNeaKy, 49703720, Marine Delight, 0.5, 0, 0.5
+8, 12, Arda, シユイ, 운명의수레바퀴, Defense, 10, 1, 1, 0, 1, 0, 0, 0, 0, 0, 20, 電気ネズミ, 49703720, Marine Delight, 0.5, 0, 0.5
+8, 11, Darko, REIA778, 구원의여신상, Defense, 8, 1, 1, 0, 1, 0, 0, 0, 1, 0, 13, かっと, 49703720, Marine Delight, 0.5, 0, 0.5

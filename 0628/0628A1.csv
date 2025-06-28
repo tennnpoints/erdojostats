@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 19, Johann, 3y3s, 더썬, Defense, 18, 19, 19, 14, 2, 0, 3, 0, 1, 15, 23, , 49700844, Syuri, 28, 10, 18
+1, 20, Lyanh, thato, 소울리퍼, Defense, 20, 19, 19, 14, 2, 0, 3, 0, 9, 9, 47, , 49700844, Syuri, 28, 10, 18
+1, 20, Camilo, らいらい, 환영도-진홍, Defense, 20, 19, 19, 14, 2, 0, 3, 0, 9, 10, 53, , 49700844, Syuri, 28, 10, 18
+2, 18, Arda, シユイ, 더문, Defense, 18, 8, 8, 7, 0, 0, 1, 0, 3, 4, 54, kiia1, 49700844, Marine Delight, 15, 7, 8
+2, 19, Darko, REIA778, 여의봉, Defense, 19, 8, 8, 7, 0, 0, 1, 0, 4, 4, 43, らいらい, 49700844, Marine Delight, 15, 7, 8
+2, 19, Lyanh, デスガキ, 카른웬난, Defense, 18, 8, 8, 7, 0, 0, 1, 0, 1, 6, 40, thato, 49700844, Marine Delight, 15, 7, 8
+3, 19, Shoichi, たまこん, 월식, Defense, 19, 4, 4, 2, 1, 0, 1, 0, 2, 1, 64, らいらい, 49700844, たかし, 8.5, 5, 3.5
+3, 18, Theodore, Endeavor108, 데드아이, Defense, 18, 4, 4, 2, 1, 0, 1, 0, 0, 2, 37, thato, 49700844, たかし, 8.5, 5, 3.5
+3, 19, Estelle, レイ様, 빔엑스, Defense, 18, 4, 4, 2, 1, 0, 1, 0, 2, 0, 43, らいらい, 49700844, たかし, 8.5, 5, 3.5
+4, 19, Theodore, kiia1, 사사성광, Defense, 19, 9, 9, 6, 3, 0, 0, 0, 3, 6, 41, REIA778, 49700844, Andante, 11.5, 4, 7.5
+4, 18, Alonso, makobi, 빙화현옥수, Defense, 18, 9, 9, 6, 3, 0, 0, 0, 0, 9, 16, REIA778, 49700844, Andante, 11.5, 4, 7.5
+4, 20, Bernice, さすらいぱんだ, 인터벤션, Defense, 19, 9, 9, 6, 3, 0, 0, 0, 6, 3, 69, シユイ, 49700844, Andante, 11.5, 4, 7.5
+5, 16, Chloe, YoNeaKy, 만천화우, Defense, 16, 8, 8, 1, 4, 0, 3, 0, 3, 3, 33, ぷれこーーーーる, 49700844, 和風ソルロンタン, 9, 3, 6
+5, 18, Garnet, かっと, 스파이의우산, Defense, 16, 8, 8, 1, 4, 0, 3, 0, 2, 6, 18, さすらいぱんだ, 49700844, 和風ソルロンタン, 9, 3, 6
+5, 19, Aiden, 電気ネズミ, 빛의검, Hunt, 19, 8, 8, 1, 4, 0, 3, 0, 3, 3, 75, kiia1, 49700844, 和風ソルロンタン, 9, 3, 6
+6, 18, William, ぷれこーーーーる, 안티오크의수류탄, Defense, 18, 9, 9, 2, 4, 0, 3, 0, 7, 2, 42, らいらい, 49700844, 殺意の糸 ピオロ, 9, 2, 7
+6, 18, Piolo, C4storice, 대소반룡곤, Defense, 17, 9, 9, 2, 4, 0, 3, 0, 1, 6, 53, らいらい, 49700844, 殺意の糸 ピオロ, 9, 2, 7
+6, 17, Yuki, LORDofVERMILION, 엑스칼리버, Defense, 17, 9, 9, 2, 4, 0, 3, 0, 1, 7, 13, thato, 49700844, 殺意の糸 ピオロ, 9, 2, 7
+7, 17, Yuki, ヴィルヴィ, 엑스칼리버, Defense, 16, 7, 7, 2, 2, 0, 3, 0, 2, 4, 16, 3y3s, 49700844, じゃっぱ汁, 7, 1, 6
+7, 17, Bernice, 御存知ムエタイ, 안드로메다, Hunt, 16, 7, 7, 2, 2, 0, 3, 0, 3, 2, 57, シユイ, 49700844, じゃっぱ汁, 7, 1, 6
+7, 17, Nathapon, Natupon, 트리플 포커스, Defense, 16, 7, 7, 2, 2, 0, 3, 0, 2, 4, 34, シユイ, 49700844, じゃっぱ汁, 7, 1, 6
+8, 14, Arda, 八ッ橋ちょこ, 운명의수레바퀴, Defense, 14, 3, 3, 0, 1, 0, 2, 0, 1, 2, 26, たまこん, 49700844, VegetableRegion, 2.5, 0, 2.5
+8, 14, William, mystica, 안티오크의수류탄, Defense, 14, 3, 3, 0, 1, 0, 2, 0, 2, 0, 28, デスガキ, 49700844, VegetableRegion, 2.5, 0, 2.5
+8, 15, Mai, LilySelene, 글레이프니르, Defense, 13, 3, 3, 0, 1, 0, 2, 0, 0, 3, 16, たまこん, 49700844, VegetableRegion, 2.5, 0, 2.5
