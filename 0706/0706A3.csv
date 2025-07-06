@@ -1,0 +1,25 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Hisui, Dagashi0, 다인슬라이프-진홍, Defense, 20, 16, 16, 11, 2, 0, 3, 0, 10, 5, 60, , 49940692, 治癒の歌合唱団, 25, 10, 15
+1, 20, Arda, doratama, 더 데스-새벽, Defense, 19, 16, 16, 11, 2, 0, 3, 0, 2, 11, 51, , 49940692, 治癒の歌合唱団, 25, 10, 15
+1, 19, Darko, gincha1299, 여의봉, Defense, 19, 16, 16, 11, 2, 0, 3, 0, 4, 11, 28, , 49940692, 治癒の歌合唱団, 25, 10, 15
+2, 19, Haze, kur1ch4n, 발키리, Defense, 19, 8, 8, 7, 0, 0, 1, 0, 2, 6, 41, gincha1299, 49940692, 私とりんご穏健派, 15, 7, 8
+2, 19, Katja, yossyoss, 인터벤션, Defense, 19, 8, 8, 7, 0, 0, 1, 0, 2, 5, 33, Dagashi0, 49940692, 私とりんご穏健派, 15, 7, 8
+2, 19, Mai, hato88, 뇌룡편, Defense, 18, 8, 8, 7, 0, 0, 1, 0, 4, 4, 16, Dagashi0, 49940692, 私とりんご穏健派, 15, 7, 8
+3, 17, Tazia, ジェノ, 빙백은침, Defense, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, Dagashi0, 49940692, Blighttown, 5, 5, 0
+3, 16, Charlotte, dominula, 운명의수레바퀴, Defense, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, Dagashi0, 49940692, Blighttown, 5, 5, 0
+3, 18, Estelle, greatSolt, 빔엑스, Defense, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, Dagashi0, 49940692, Blighttown, 5, 5, 0
+4, 20, Irem, guppy63, 체이서-새벽, Defense, 19, 5, 5, 3, 0, 0, 2, 0, 3, 2, 62, hato88, 49940692, 最強★Love & Peace, 9, 4, 5
+4, 19, Nicky, chainin, 빙화현옥수, Defense, 18, 5, 5, 3, 0, 0, 2, 0, 0, 5, 20, kur1ch4n, 49940692, 最強★Love & Peace, 9, 4, 5
+4, 19, Tia, Atato, 터럭손방망이, Defense, 19, 5, 5, 3, 0, 0, 2, 0, 2, 2, 44, yossyoss, 49940692, 最強★Love & Peace, 9, 4, 5
+5, 19, Felix, ここかな, 애각창, Defense, 18, 5, 5, 3, 1, 0, 1, 0, 4, 1, 57, yossyoss, 49940692, シャルティメットストーム, 7.5, 3, 4.5
+5, 18, Silvia, 義妹, 엘레강스, Defense, 17, 5, 5, 3, 1, 0, 1, 0, 1, 4, 25, hato88, 49940692, シャルティメットストーム, 7.5, 3, 4.5
+5, 19, Mai, SSPotato, 뇌룡편, Defense, 17, 5, 5, 3, 1, 0, 1, 0, 0, 5, 17, kur1ch4n, 49940692, シャルティメットストーム, 7.5, 3, 4.5
+6, 18, Katja, LxN, 위도우 메이커-진홍, Defense, 18, 6, 6, 0, 4, 0, 2, 0, 3, 3, 40, doratama, 49940692, I'm on fire!, 6, 2, 4
+6, 19, Hisui, ぱんかす, 빛의검, Defense, 18, 6, 6, 0, 4, 0, 2, 0, 2, 2, 38, Dagashi0, 49940692, I'm on fire!, 6, 2, 4
+6, 18, Garnet, チクタク, 스파이의우산, Defense, 17, 6, 6, 0, 4, 0, 2, 0, 1, 5, 49, Atato, 49940692, I'm on fire!, 6, 2, 4
+7, 17, Hisui, ワイザム, 모노호시자오, Defense, 17, 3, 3, 0, 2, 0, 1, 0, 0, 2, 36, ここかな, 49940692, †真実の刃†, 3, 1, 2
+7, 17, Bernice, サトツ, 인터벤션, Hunt, 16, 3, 3, 0, 2, 0, 1, 0, 2, 1, 61, ここかな, 49940692, †真実の刃†, 3, 1, 2
+7, 17, Abigail, 責任, 네플리온, Defense, 16, 3, 3, 0, 2, 0, 1, 0, 1, 0, 28, ここかな, 49940692, †真実の刃†, 3, 1, 2
+8, 14, Elena, azazazazazazazaz, 활빈검, Defense, 12, 6, 6, 0, 4, 0, 2, 0, 1, 2, 29, gincha1299, 49940692, ミルククラウン, 4, 0, 4
+8, 14, Aiden, Mimoria, 모노호시자오, Defense, 12, 6, 6, 0, 4, 0, 2, 0, 3, 1, 26, Dagashi0, 49940692, ミルククラウン, 4, 0, 4
+8, 14, Isol, 氷雪いろは, 엔데버AX, Defense, 13, 6, 6, 0, 4, 0, 2, 0, 2, 3, 24, doratama, 49940692, ミルククラウン, 4, 0, 4

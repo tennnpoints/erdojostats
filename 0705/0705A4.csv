@@ -1,0 +1,22 @@
+﻿rank, level, character, nickname, weapon, best weapon mastery, best weapon mastery level, total field kill, team kill, elimination, down can not eliminate, repeat down can not eliminate, down can eliminate, repeat down can eliminate, kill, assist, hunting, killer, gameId, teamName, tournament total score, tournament rank score, tournament kill score
+1, 20, Lenore, 八ッ橋ちょこ, 하트 브레이커-새벽, Defense, 20, 9, 10, 9, 0, 0, 0, 0, 2, 6, 57, , 49905567, VegetableRegion, 19, 10, 9
+1, 20, Estelle, LilySelene, 낙원의낫, Defense, 19, 9, 10, 9, 0, 0, 0, 0, 1, 7, 52, , 49905567, VegetableRegion, 19, 10, 9
+1, 20, William, mystica, 체이서-진홍, Defense, 20, 9, 10, 9, 0, 0, 0, 0, 6, 2, 79, , 49905567, VegetableRegion, 19, 10, 9
+2, 20, Theodore, Skyper, 데드아이, Defense, 20, 16, 16, 10, 3, 0, 3, 0, 6, 7, 68, mystica, 49905567, ASHER, 21.5, 7, 14.5
+2, 20, Bernice, HDKいっかん, 인터벤션, Defense, 19, 16, 16, 10, 3, 0, 3, 0, 6, 5, 60, mystica, 49905567, ASHER, 21.5, 7, 14.5
+2, 19, Alonso, 아나진, 아이언피스트, Defense, 19, 16, 16, 10, 3, 0, 3, 0, 4, 11, 23, mystica, 49905567, ASHER, 21.5, 7, 14.5
+3, 20, Aiden, Pommmmm, 빛의검, Defense, 19, 3, 3, 1, 2, 0, 0, 0, 2, 1, 83, mystica, 49905567, Debut, 7, 5, 2
+3, 20, DebiMarlene, 主任, 레바테인, Defense, 19, 3, 3, 1, 2, 0, 0, 0, 0, 2, 73, mystica, 49905567, Debut, 7, 5, 2
+3, 19, Charlotte, 義妹, 더썬, Defense, 18, 3, 3, 1, 2, 0, 0, 0, 1, 2, 25, LilySelene, 49905567, Debut, 7, 5, 2
+4, 19, Katja, REIA778, 인터벤션, Defense, 19, 9, 9, 4, 2, 0, 3, 0, 1, 5, 45, Skyper, 49905567, 無限寿命のウォウバッガー, 12, 4, 8
+4, 20, Celine, vaqlas, 체이서, Hunt, 20, 9, 9, 4, 2, 0, 3, 0, 3, 4, 70, 아나진, 49905567, 無限寿命のウォウバッガー, 12, 4, 8
+4, 20, Piolo, voider26, 비익련리, Defense, 19, 9, 9, 4, 2, 0, 3, 0, 5, 4, 31, , 49905567, 無限寿命のウォウバッガー, 12, 4, 8
+5, 18, Felix, ここかな, 장팔사모, Defense, 17, 1, 1, 0, 1, 0, 0, 0, 0, 1, 64, Pommmmm, 49905567, †なんか†コーチの言う通り, 3.5, 3, 0.5
+5, 17, Mai, SSPotato, 뇌룡편, Defense, 16, 1, 1, 0, 1, 0, 0, 0, 1, 0, 22, HDKいっかん, 49905567, †なんか†コーチの言う通り, 3.5, 3, 0.5
+5, 17, Leni, CiELzzz, 스탬피드, Defense, 16, 1, 1, 0, 1, 0, 0, 0, 0, 1, 36, HDKいっかん, 49905567, †なんか†コーチの言う通り, 3.5, 3, 0.5
+6, 13, Isol, Dato2, 엔데버AX, Defense, 12, 5, 5, 0, 3, 0, 2, 0, 2, 2, 27, 아나진, 49905567, Brainstorm, 5.5, 2, 3.5
+6, 13, Leon, コレマサ, 빙화현옥수, Defense, 12, 5, 5, 0, 3, 0, 2, 0, 0, 2, 46, Skyper, 49905567, Brainstorm, 5.5, 2, 3.5
+6, 13, Garnet, kimaki, 팔괘장, Defense, 12, 5, 5, 0, 3, 0, 2, 0, 3, 0, 28, Skyper, 49905567, Brainstorm, 5.5, 2, 3.5
+7, 13, Theodore, sorarun, 데드아이, Defense, 12, 4, 4, 0, 4, 0, 0, 0, 1, 2, 27, 八ッ橋ちょこ, 49905567, †輝け†フェリックス, 3, 1, 2
+7, 13, Felix, たゆた, 장팔사모, Defense, 12, 4, 4, 0, 4, 0, 0, 0, 3, 1, 15, mystica, 49905567, †輝け†フェリックス, 3, 1, 2
+7, 12, Leon, yasakaF, 마이쏙, Defense, 10, 4, 4, 0, 4, 0, 0, 0, 0, 2, 11, 八ッ橋ちょこ, 49905567, †輝け†フェリックス, 3, 1, 2

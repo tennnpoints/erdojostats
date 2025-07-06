@@ -1,6 +1,6 @@
 Player name,Character Pick,Played Rounds,Win Percent,Total Kills,Avg. Kills,Avg. Rank,Avg Hunting,Avg Weapon Mastery
-vaqlas,Hyejin / Celine / Nathapon / Sissela,38,15.8,297,7.82,3.5,50.84,18.76
-voider26,Elena / Estelle / LiDailin / Darko / Silvia / Lenox / Nicky / Piolo,52,17.3,447,8.6,3.33,31.04,18.21
+vaqlas,Hyejin / Celine / Nathapon / Sissela / Leni,42,16.7,339,8.07,3.38,51.36,18.83
+voider26,Elena / Estelle / LiDailin / Darko / Silvia / Lenox / Nicky / Piolo,56,17.9,489,8.73,3.25,32.27,18.27
 えすみす,Alex / Isol / Martina / Leon / Sua / Jenny / Rio / William / Luke / Aya / Katja / Zahir / Emma,40,15.0,282,7.05,3.73,50.33,18.35
 MaTfromDota2,Nadine / Sissela / Piolo / Lenox / Aiden / Xiukai / Hyejin,20,10.0,108,5.4,4.65,44.0,17.15
 LORDofVERMILION,Leon / Martina / Jan / Istvan / Barbara / Yuki,34,14.7,193,5.68,4.44,38.29,16.65
@@ -34,10 +34,10 @@ Levia4,Eleven / Garnet / Mai,12,25.0,109,9.08,3.75,15.42,17.25
 10p,Sua / Katja / Sissela / Estelle / Chloe,8,0.0,44,5.5,5.38,39.75,16.62
 冷害,Elena / Charlotte / Vanya / Justyna / Camilo / Isol / Katja,56,10.7,315,5.62,4.25,46.34,17.5
 レヴナ,Darko / DebiMarlene / Leon / Istvan / Nicky,50,6.0,249,4.98,4.7,29.76,16.72
-CiELzzz,Hart / Hisui / Sissela / Katja / Rio / Nadine / Theodore / Jackie / Jan / Charlotte / Estelle / Niah / DebiMarlene,52,1.9,224,4.31,5.12,43.67,16.6
+CiELzzz,Hart / Hisui / Sissela / Katja / Rio / Nadine / Theodore / Jackie / Jan / Charlotte / Estelle / Niah / DebiMarlene / Lenore / YuMin / Leni,56,1.8,229,4.09,5.2,43.52,16.45
 poppoppoo,Karla / Laura / Adina / Celine,4,0.0,10,2.5,5.25,33.25,16.5
-Pommmmm,Lenox / Hisui / Katja / Mai,4,0.0,10,2.5,5.25,27.75,15.75
-yasakaF,Leon / Estelle / Jan,4,0.0,10,2.5,5.25,27.25,16.5
+Pommmmm,Lenox / Hisui / Katja / Mai / Laura / Isol / Aiden,8,0.0,21,2.62,4.88,47.62,17.0
+yasakaF,Leon / Estelle / Jan / Piolo / Markus,8,0.0,27,3.38,5.25,26.25,15.88
 OISIIPROTEIN,Chiara / Markus / Echion / Xiukai / Arda / Lenox,30,13.3,203,6.77,4.37,36.77,17.33
 Dorago,Bernice / Isol / Luke / Johann / Elena / Jenny / Katja / Lenore,32,12.5,197,6.16,4.53,50.12,17.5
 うぃくらいん,Johann / Priya / Leni / Lyanh / Darko / Istvan / Adriana / Magnus / Nathapon / Silvia,30,13.3,179,5.97,4.6,26.47,16.83
@@ -70,48 +70,48 @@ Prushka,Emma / Karla / Laura / Sua / Mai / Leon / Xiukai / Alonso / Markus,40,12
 3y3s,Alonso / Chloe / Justyna / Johann / Isol,28,35.7,342,12.21,3.14,19.43,17.57
 死神ザヒル,Zahir / Karla / Jackie,4,0.0,30,7.5,3.75,56.25,18.0
 suvarublend,Tia / Charlotte / Isaac / Arda,12,8.3,49,4.08,5.67,44.33,15.75
-mystica,William / Nicky / Sua / Arda / Piolo / Bernice / Nadine / Hart,32,12.5,157,4.91,5.06,50.41,16.53
+mystica,William / Nicky / Sua / Arda / Piolo / Bernice / Nadine / Hart,36,16.7,183,5.08,4.75,52.25,16.81
 ふーと,Eleven / Hisui / Kenneth / Lenox / Garnet,12,8.3,49,4.08,5.67,37.33,16.42
 Surfinia,Martina / Elena / Vanya,4,25.0,32,8.0,3.75,40.75,18.75
-コレマサ,Estelle / Mai / Barbara / Elena / Priya / DebiMarlene / Theodore / Arda,20,10.0,124,6.2,5.2,33.7,15.95
-Dato2,Nadine / Isol / Irem / Aya / Garnet / Adela,24,12.5,149,6.21,5.04,52.08,16.54
-syon1222,DebiMarlene / Kenneth / Bernice / Katja / Tazia / Nicky,28,10.7,164,5.86,5.0,33.5,15.93
+コレマサ,Estelle / Mai / Barbara / Elena / Priya / DebiMarlene / Theodore / Arda / Leon,22,13.6,143,6.5,5.05,35.5,15.91
+Dato2,Nadine / Isol / Irem / Aya / Garnet / Adela / Justyna,28,14.3,178,6.36,4.93,53.04,16.5
+syon1222,DebiMarlene / Kenneth / Bernice / Katja / Tazia / Nicky,30,10.0,174,5.8,5.0,33.2,15.93
 ななしの,Katja / Luke,24,4.2,86,3.58,5.75,44.96,15.96
 다케,Camilo / Isaac,4,0.0,23,5.75,6.25,29.5,15.75
 Istria0,Charlotte / DebiMarlene,8,0.0,27,3.38,6.12,24.38,14.5
 nemaland,Mai / Martina,2,0.0,5,2.5,4.5,10.5,16.0
 hako72,Rio,4,25.0,45,11.25,4.5,73.25,18.5
 Nacoty,Lenox,4,25.0,45,11.25,4.5,21.75,17.0
-ここかな,Hisui / YuMin / Camilo / Piolo / Alex,16,0.0,33,2.06,6.19,53.31,16.25
-SSPotato,Vanya / Alonso / Estelle / Garnet / Priya,16,0.0,33,2.06,6.19,20.94,15.19
-義妹,Charlotte / Garnet / Isol / Johann,16,0.0,39,2.44,5.75,26.94,15.94
+ここかな,Hisui / YuMin / Camilo / Piolo / Alex / Felix,24,4.2,65,2.71,5.75,54.21,16.29
+SSPotato,Vanya / Alonso / Estelle / Garnet / Priya / Mai,24,4.2,65,2.71,5.75,19.0,15.17
+義妹,Charlotte / Garnet / Isol / Johann / Leni / Silvia,24,4.2,77,3.21,5.17,26.17,16.25
 神代レイ,Aya / Magnus,4,0.0,17,4.25,4.25,36.5,18.25
 HaruSakuragi,Lenore / Abigail,4,0.0,17,4.25,4.25,33.0,18.5
 honarane,Estelle / Alonso / Yuki,4,0.0,17,4.25,4.25,17.5,16.5
 ハクレイ,Jenny / Justyna / Mai / Eleven,8,0.0,40,5.0,4.25,31.38,18.0
 kiliel,Elena / Yuki / Arda,4,0.0,8,2.0,4.25,25.5,18.0
 rauz,Leon / Darko / Chiara / Bernice,8,0.0,40,5.0,4.25,43.75,18.12
-たゆた,DebiMarlene / Haze,4,50.0,33,8.25,2.25,66.0,19.75
-greatSolt,Nadine / Katja,4,50.0,33,8.25,2.25,53.25,19.5
+たゆた,DebiMarlene / Haze / Felix,8,25.0,50,6.25,3.75,56.25,18.0
+greatSolt,Nadine / Katja / Jenny / Estelle,8,25.0,45,5.62,3.12,55.88,18.62
 ぽんちゃんさん,Darko / Markus,4,50.0,33,8.25,2.25,33.75,18.75
 konikonikoni,Bernice / Xiukai / Nadine / Aya,4,25.0,31,7.75,4.75,43.25,17.75
 odyuuka,Priya,4,25.0,31,7.75,4.75,41.25,16.75
 kuroha,Estelle / Katja,4,25.0,31,7.75,4.75,29.25,16.5
-kur1ch4n,Theodore / Adina / Nadine / Adela / Jenny / Sua,8,12.5,82,10.25,4.25,51.25,17.38
-hato88,Estelle / Mai / Nicky / Echion / Tazia,8,12.5,82,10.25,4.25,26.5,16.38
+kur1ch4n,Theodore / Adina / Nadine / Adela / Jenny / Sua / Haze,12,16.7,111,9.25,4.17,51.83,17.33
+hato88,Estelle / Mai / Nicky / Echion / Tazia / Alonso,12,16.7,111,9.25,4.17,23.25,16.17
 PYP,Rio / Chloe / Sua / Leni / Charlotte,8,12.5,82,10.25,4.25,38.62,16.38
 Latesummerr,Darko / Luke / Martina / Arda / DebiMarlene,8,12.5,51,6.38,5.5,39.62,17.0
 RadioDaemon,Lenore / Xiukai,4,0.0,17,4.25,6.5,41.25,16.75
-ジェノ,Alonso / Tazia,4,0.0,17,4.25,6.5,29.0,15.25
+ジェノ,Alonso / Tazia / Echion,8,0.0,29,3.62,5.25,30.88,16.12
 もなぞう,Hisui,4,50.0,28,7.0,2.75,41.0,17.75
 shimo1415,Garnet,4,50.0,28,7.0,2.75,21.25,17.25
 uzakiron,Arda,4,50.0,28,7.0,2.75,99.5,18.75
 ドリルフィールド,Adela,4,0.0,18,4.5,2.75,54.0,18.5
 ysd,Vanya,4,0.0,18,4.5,2.75,55.5,19.5
 shrimpgratin,Estelle,4,0.0,18,4.5,2.75,41.75,17.75
-guppy63,Chloe / Alex / Hart,8,37.5,75,9.38,2.5,43.62,18.75
-chainin,Mai / Justyna,8,37.5,75,9.38,2.5,20.5,17.88
-Atato,Camilo / Tia,8,37.5,75,9.38,2.5,42.62,18.62
+guppy63,Chloe / Alex / Hart / Irem,12,25.0,96,8.0,3.17,46.58,18.5
+chainin,Mai / Justyna / Darko / Nicky,12,25.0,96,8.0,3.17,19.67,17.58
+Atato,Camilo / Tia,12,25.0,96,8.0,3.17,44.92,18.42
 現役JC,Markus,2,0.0,7,3.5,5.5,29.0,16.5
 EXOSKULLZERO,YuMin / Bernice,4,0.0,20,5.0,5.0,54.5,17.5
 isemaki,Rio / Tsubame / Markus / Nadine,8,12.5,57,7.12,4.12,44.38,17.5
@@ -215,18 +215,18 @@ KatsuragiAce,Silvia / Bernice / Yuki,8,37.5,68,8.5,4.12,54.38,16.75
 BROCKHAMPTON,Jenny / Alex,6,0.0,34,5.67,4.83,40.33,15.0
 Honesty,Garnet / Jackie / Elena / Nicky,14,21.4,101,7.21,4.71,26.93,14.79
 Dotter,Bernice / YuMin,8,25.0,64,8.0,3.25,61.75,18.25
-主任,DebiMarlene / Lenore,4,0.0,10,2.5,6.75,31.75,15.75
+主任,DebiMarlene / Lenore,8,0.0,21,2.62,5.62,44.75,16.75
 saimina,Tia,4,0.0,10,2.5,6.75,49.75,16.0
-REIA778,Katja / Darko / Hart / Nicky / Hisui,20,5.0,132,6.6,3.8,39.15,17.15
+REIA778,Katja / Darko / Hart / Nicky / Hisui / Adriana,24,8.3,174,7.25,3.54,41.0,17.5
 mare7s,Priya / Alonso,8,0.0,22,2.75,5.5,36.75,15.25
 一杯酒気,Mai / Barbara / Lenox,8,0.0,22,2.75,5.5,33.0,14.88
 Drizzle1911,Hisui,2,100.0,21,10.5,1.0,99.0,20.0
 neer,Tia,4,0.0,32,8.0,4.25,52.5,17.75
-チクタク,Darko / Garnet,4,0.0,12,3.0,3.75,32.0,17.75
-LxN,Katja,4,0.0,12,3.0,3.75,58.75,18.75
+チクタク,Darko / Garnet,8,12.5,51,6.38,3.38,37.25,18.12
+LxN,Katja / Rio,8,12.5,51,6.38,3.38,54.12,19.0
 かめちゃ,Arda / Isol / Barbara / Chiara,4,0.0,12,3.0,3.75,31.5,17.75
-Mimoria,Lenox / Isaac / Mai,4,0.0,22,5.5,5.5,21.25,16.75
-azazazazazazazaz,Karla / YuMin / Justyna,4,0.0,22,5.5,5.5,62.75,18.0
+Mimoria,Lenox / Isaac / Mai / Leni / Eleven / Aiden / Tsubame,8,0.0,55,6.88,5.88,22.5,15.12
+azazazazazazazaz,Karla / YuMin / Justyna / Sua / Celine / Elena,8,0.0,55,6.88,5.88,47.75,16.12
 まいめろでぃー,Katja,4,0.0,22,5.5,5.5,49.0,17.0
 Flere210,Istvan / Lenox,4,25.0,34,8.5,4.5,40.0,17.5
 PecoMizuki,Nicky / Rio,4,25.0,34,8.5,4.5,51.75,18.25
@@ -240,10 +240,10 @@ Rikky,Xiukai / Yuki,4,0.0,30,7.5,3.75,19.0,17.75
 でっていう,DebiMarlene / Garnet,2,0.0,6,3.0,5.5,16.5,13.5
 챠리리,Camilo,4,50.0,41,10.25,3.75,46.25,18.5
 みらくる,Xiukai / Lyanh / Barbara / Aya / William / Celine,12,16.7,84,7.0,4.83,42.33,15.75
-kimaki,Lenore / Garnet,4,0.0,14,3.5,5.25,38.5,14.75
+kimaki,Lenore / Garnet / Vanya,8,12.5,43,5.38,4.75,37.5,15.25
 Sla5hMe5hTachyon,Silvia,4,0.0,30,7.5,3.5,38.25,17.5
-八ッ橋ちょこ,Arda / Eva / Haze / Elena / Nicky / Lenore,20,15.0,113,5.65,4.3,47.65,16.75
-LilySelene,Mai / Estelle / Istvan / Abigail,20,15.0,113,5.65,4.3,25.55,15.95
+八ッ橋ちょこ,Arda / Eva / Haze / Elena / Nicky / Lenore,24,20.8,139,5.79,3.96,48.54,17.17
+LilySelene,Mai / Estelle / Istvan / Abigail,24,20.8,139,5.79,3.96,27.54,16.38
 TwitchNunuzz,Eleven / Darko / Arda / Hyunwoo,8,25.0,68,8.5,3.38,51.0,18.62
 Mifaya,Irem / Estelle / Vanya,8,25.0,68,8.5,3.38,40.38,18.12
 夢中的過客,Vanya / Rio / Lenox / Istvan,8,25.0,68,8.5,3.38,44.5,18.5
@@ -256,11 +256,22 @@ Ichigaya,Istvan / Barbara / Hyunwoo / Leon,8,0.0,52,6.5,4.88,35.75,17.38
 チカチュー,Aiden,4,0.0,24,6.0,4.25,43.5,16.5
 Nasitaka,Darko,4,0.0,15,3.75,4.0,25.5,16.25
 先織大翔VT,Barbara,4,0.0,15,3.75,4.0,35.5,17.0
-Skyper,Nathapon / Camilo,4,75.0,49,12.25,2.5,71.75,17.5
-HDKいっかん,Hart / Emma,4,75.0,49,12.25,2.5,35.75,16.75
-아나진,Alonso / Estelle,4,75.0,49,12.25,2.5,14.5,16.25
+Skyper,Nathapon / Camilo / Kenneth / Katja / Theodore,8,37.5,87,10.88,2.88,64.5,17.88
+HDKいっかん,Hart / Emma / Camilo / Karla / Bernice,8,37.5,87,10.88,2.88,43.12,17.12
+아나진,Alonso / Estelle / Leni / Markus,8,37.5,87,10.88,2.88,17.88,16.75
 南瓜燉食反,Emma / Xiukai / Justyna,4,0.0,21,5.25,5.25,27.75,17.75
 Maluk,Alex,4,50.0,37,9.25,2.0,28.75,18.0
 NIIKA,Nadine,4,0.0,32,8.0,4.75,60.25,17.5
 kiia1,Theodore / Katja,4,0.0,18,4.5,6.0,43.75,16.75
 電気ネズミ,Aiden,4,0.0,35,8.75,4.0,60.0,19.0
+sorarun,Sissela / Theodore,4,0.0,17,4.25,5.25,41.0,16.5
+ぱんかす,Hisui / Alonso,4,25.0,39,9.75,3.0,41.25,18.75
+gincha1299,Katja / Darko,4,25.0,42,10.5,4.0,36.25,18.0
+Dagashi0,Estelle / Yuki / Hisui / Garnet,4,25.0,42,10.5,4.0,34.75,18.0
+doratama,Justyna / Shoichi / Arda,4,25.0,42,10.5,4.0,65.0,18.5
+yossyoss,Katja / Bernice,4,25.0,29,7.25,4.0,42.75,17.25
+dominula,Leni / Charlotte,4,0.0,12,3.0,4.0,20.5,16.5
+ワイザム,Xiukai / Hisui / Zahir,4,0.0,10,2.5,6.75,37.0,16.0
+責任,Magnus / Abigail,4,0.0,10,2.5,6.75,32.0,15.5
+サトツ,Alonso / Bernice,4,0.0,10,2.5,6.75,52.0,16.0
+氷雪いろは,Yuki / Istvan / Isol,4,0.0,33,8.25,6.25,23.5,13.75
